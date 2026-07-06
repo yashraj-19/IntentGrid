@@ -123,9 +123,9 @@ with tab3:
 
     st.markdown("""
     **Quadrant guide**
-    - 🟢 **Top-right (high fit, high intent)** → Target Now — hand straight to sales
-    - 🟡 **Top-left (low fit, high intent)** → Nurture — engaged but may not be ideal-fit
-    - 🟠 **Bottom-right (high fit, low intent)** → Monitor — good fit, not yet in-market
+    - 🟢 **Top-right (high fit, high intent)** → Target Now: hand straight to sales
+    - 🟡 **Top-left (low fit, high intent)** → Nurture: engaged but may not be ideal-fit
+    - 🟠 **Bottom-right (high fit, low intent)** → Monitor: good fit, not yet in-market
     - ⚪ **Bottom-left (low fit, low intent)** → Deprioritize
     """)
 
