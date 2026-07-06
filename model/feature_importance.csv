@@ -1,0 +1,23 @@
+feature,mean_abs_shap
+remainder__intent_score,0.5475175
+remainder__decision_maker_engaged,0.41580206
+remainder__fit_score,0.4116054
+remainder__annual_revenue_m,0.22365612
+remainder__tech_stack_maturity,0.18860303
+remainder__employees,0.14238785
+remainder__website_visits_30d,0.13837372
+remainder__pricing_page_visits_30d,0.13691156
+remainder__content_downloads_30d,0.13523215
+remainder__days_since_last_visit,0.11623174
+remainder__competitor_page_visits_30d,0.09632408
+remainder__num_stakeholders_engaged,0.06308707
+remainder__existing_customer,0.05550773
+cat__industry_Healthcare,0.02463628
+cat__industry_Financial Services,0.018639311
+cat__industry_Retail,0.016388014
+cat__industry_Technology,0.013603832
+cat__account_tier_Mid-Market,0.01198537
+cat__industry_Education,0.0068077035
+cat__industry_Manufacturing,0.006376428
+cat__account_tier_Enterprise,0.004638192
+cat__account_tier_SMB,0.0029868095

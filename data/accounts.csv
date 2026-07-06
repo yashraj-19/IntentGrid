@@ -1,0 +1,2501 @@
+account_id,industry,employees,annual_revenue_m,account_tier,existing_customer,tech_stack_maturity,website_visits_30d,pricing_page_visits_30d,content_downloads_30d,competitor_page_visits_30d,decision_maker_engaged,num_stakeholders_engaged,days_since_last_visit,fit_score,intent_score,opportunity_created
+ACC1000,Financial Services,481,99.1,Mid-Market,0,8.1,12,1,0,1,0,2,1,64.1,33.8,0
+ACC1001,Education,566,110.3,Mid-Market,0,5.8,5,1,3,0,0,0,2,35.2,24.1,0
+ACC1002,Manufacturing,503,57.8,Mid-Market,0,4.4,2,3,1,2,1,1,13,30.0,46.6,0
+ACC1003,Healthcare,274,38.3,Mid-Market,0,6.5,10,2,1,2,0,2,3,34.9,44.7,0
+ACC1004,Technology,189,19.2,Mid-Market,0,3.9,4,2,3,1,0,0,15,47.6,28.3,0
+ACC1005,Technology,201,20.5,Mid-Market,0,8.5,12,4,1,0,0,5,15,63.0,53.7,1
+ACC1006,Technology,189,36.8,Mid-Market,0,8.2,14,4,4,0,0,1,2,61.9,61.7,1
+ACC1007,Retail,1068,241.3,Enterprise,0,4.6,4,3,1,0,0,0,0,35.7,27.3,0
+ACC1008,Healthcare,529,128.9,Mid-Market,0,4.2,5,2,1,0,0,3,1,29.6,31.3,0
+ACC1009,Manufacturing,5,0.9,SMB,0,1.0,4,3,0,0,1,4,13,14.4,44.7,0
+ACC1010,Technology,574,63.9,Mid-Market,0,2.5,6,1,1,0,0,0,18,46.4,11.5,0
+ACC1011,Education,315,30.9,Mid-Market,0,2.8,9,1,0,0,0,2,4,23.1,23.3,0
+ACC1012,Retail,238,51.9,Mid-Market,1,5.8,6,0,1,1,0,4,1,21.3,28.9,0
+ACC1013,Technology,147,26.2,Mid-Market,0,4.8,7,1,0,1,0,3,0,50.2,29.8,0
+ACC1014,Technology,1055,195.3,Enterprise,0,2.8,2,3,2,3,0,4,2,51.6,53.9,0
+ACC1015,Technology,838,178.4,Mid-Market,0,4.9,9,2,0,0,1,4,38,56.7,36.4,0
+ACC1016,Financial Services,89,17.8,SMB,0,6.5,13,2,2,0,0,0,1,55.4,38.1,0
+ACC1017,Healthcare,415,92.1,Mid-Market,0,6.6,12,2,1,1,0,2,0,36.5,43.9,0
+ACC1018,Financial Services,69,6.2,SMB,0,1.7,3,1,1,0,0,0,15,39.3,8.3,0
+ACC1019,Technology,40,8.3,SMB,1,5.2,3,2,1,1,0,0,9,39.6,21.4,0
+ACC1020,Healthcare,108,24.3,Mid-Market,1,2.7,5,0,5,1,1,2,7,9.9,49.5,0
+ACC1021,Technology,750,96.5,Mid-Market,0,7.3,10,2,2,3,0,3,5,63.8,55.6,0
+ACC1022,Technology,844,159.4,Mid-Market,0,7.1,8,2,1,2,0,1,12,64.0,35.3,0
+ACC1023,Financial Services,476,63.5,Mid-Market,0,3.7,11,4,3,1,0,2,11,49.5,57.7,0
+ACC1024,Financial Services,628,152.5,Mid-Market,0,4.0,4,2,4,0,1,1,5,51.8,48.8,1
+ACC1025,Manufacturing,478,41.0,Mid-Market,1,4.6,11,2,3,0,0,2,2,19.4,44.6,0
+ACC1026,Technology,106,18.9,Mid-Market,0,1.0,2,1,1,1,1,2,18,37.3,31.0,0
+ACC1027,Healthcare,429,46.5,Mid-Market,0,6.2,6,1,2,1,0,1,1,35.3,29.9,0
+ACC1028,Healthcare,692,139.1,Mid-Market,0,5.0,3,2,2,0,0,0,7,33.7,21.2,0
+ACC1029,Technology,652,71.7,Mid-Market,0,7.4,6,1,0,1,0,3,11,63.3,24.0,0
+ACC1030,Healthcare,1147,137.7,Enterprise,1,3.3,8,0,1,0,0,2,10,21.0,17.6,0
+ACC1031,Technology,614,100.7,Mid-Market,0,4.3,3,2,1,0,0,5,9,52.7,31.1,0
+ACC1032,Technology,386,90.9,Mid-Market,0,2.5,11,2,0,2,0,2,10,44.7,39.5,0
+ACC1033,Education,983,114.0,Mid-Market,0,3.5,4,2,2,0,0,2,20,31.3,23.4,0
+ACC1034,Education,236,24.7,Mid-Market,1,3.1,6,0,2,1,0,1,4,12.3,22.8,0
+ACC1035,Retail,77,16.1,SMB,0,7.5,6,3,2,2,1,4,9,36.5,66.7,1
+ACC1036,Financial Services,197,32.5,Mid-Market,1,4.1,7,3,2,0,0,0,11,37.3,31.3,0
+ACC1037,Technology,92,21.6,SMB,0,5.7,3,2,1,0,0,0,8,52.7,16.9,0
+ACC1038,Manufacturing,101,10.6,Mid-Market,1,4.7,3,0,1,1,0,4,23,16.4,15.9,0
+ACC1039,Financial Services,202,38.3,Mid-Market,0,3.0,5,6,2,0,0,4,10,44.8,58.0,0
+ACC1040,Technology,87,10.4,SMB,0,5.2,13,3,2,1,0,4,5,51.0,59.0,0
+ACC1041,Financial Services,163,17.4,Mid-Market,0,6.7,7,4,1,1,0,1,18,56.7,38.3,0
+ACC1042,Technology,20,3.9,SMB,0,3.1,5,3,1,1,0,3,6,43.5,40.1,0
+ACC1043,Retail,322,58.3,Mid-Market,0,7.1,13,2,4,2,0,2,7,37.3,59.2,1
+ACC1044,Technology,245,51.0,Mid-Market,1,3.8,13,2,1,0,0,0,8,36.8,31.5,0
+ACC1045,Manufacturing,84,11.1,SMB,0,4.5,6,2,2,0,0,2,3,26.7,33.0,0
+ACC1046,Financial Services,576,89.9,Mid-Market,0,6.6,9,2,2,0,0,1,12,60.0,30.9,0
+ACC1047,Healthcare,827,123.2,Mid-Market,0,4.2,2,3,3,0,0,2,1,32.2,37.7,1
+ACC1048,Healthcare,30,7.4,SMB,0,5.6,7,1,3,0,0,2,20,29.8,25.9,0
+ACC1049,Technology,90,11.7,SMB,1,4.9,3,2,1,2,1,1,14,39.1,41.9,0
+ACC1050,Education,90,11.7,SMB,0,5.8,5,1,1,0,0,0,4,31.0,15.5,0
+ACC1051,Manufacturing,72,10.1,SMB,1,1.0,9,0,1,2,0,3,2,3.9,34.8,0
+ACC1052,Education,719,126.5,Mid-Market,1,1.8,5,0,0,2,1,4,4,12.3,41.9,0
+ACC1053,Retail,190,23.4,Mid-Market,0,6.7,10,2,1,1,0,2,16,34.9,34.7,0
+ACC1054,Healthcare,173,40.8,Mid-Market,0,7.6,4,2,3,1,0,3,0,37.7,42.9,0
+ACC1055,Education,18,2.3,SMB,1,3.7,6,2,2,1,0,3,6,12.4,39.6,0
+ACC1056,Technology,558,129.6,Mid-Market,0,5.0,7,1,0,0,0,1,2,54.5,18.2,0
+ACC1057,Technology,48,4.7,SMB,0,6.1,9,3,1,0,0,2,20,53.7,32.7,0
+ACC1058,Technology,264,50.6,Mid-Market,0,6.9,9,4,2,0,0,2,5,58.2,48.3,1
+ACC1059,Financial Services,350,82.0,Mid-Market,0,1.4,4,2,1,0,0,3,11,40.8,26.0,0
+ACC1060,Financial Services,1434,155.9,Enterprise,0,3.7,12,2,1,1,0,2,4,58.0,42.3,0
+ACC1061,Technology,44,10.8,SMB,0,4.8,5,2,1,2,0,3,4,49.3,39.9,0
+ACC1062,Retail,5,0.8,SMB,0,6.9,6,1,2,0,0,0,3,33.9,21.3,0
+ACC1063,Financial Services,310,74.6,Mid-Market,1,10.0,12,0,5,1,0,1,11,57.9,40.6,0
+ACC1064,Technology,2541,495.6,Enterprise,0,5.0,0,1,3,2,0,2,33,72.0,20.3,0
+ACC1065,Healthcare,1224,160.7,Enterprise,0,2.7,3,1,3,1,0,2,2,30.8,31.9,0
+ACC1066,Technology,321,36.0,Mid-Market,0,6.3,15,1,2,1,0,1,10,56.7,39.5,0
+ACC1067,Retail,129,17.0,Mid-Market,0,8.1,7,1,0,0,1,3,3,39.0,38.3,1
+ACC1068,Technology,698,66.9,Mid-Market,0,5.7,8,2,3,0,0,2,7,58.1,38.2,0
+ACC1069,Education,69,7.2,SMB,0,3.7,7,1,0,2,0,0,7,23.9,23.1,0
+ACC1070,Manufacturing,454,44.4,Mid-Market,0,7.4,10,3,3,1,0,2,5,39.5,52.7,0
+ACC1071,Technology,472,71.7,Mid-Market,0,6.8,12,4,3,0,0,3,6,59.7,59.1,1
+ACC1072,Technology,970,208.8,Mid-Market,0,3.4,7,1,1,1,0,3,21,52.9,25.5,1
+ACC1073,Retail,8844,920.1,Enterprise,1,6.3,10,4,1,0,0,2,0,64.9,47.8,1
+ACC1074,Manufacturing,407,41.6,Mid-Market,0,7.5,8,2,3,0,0,2,17,39.4,34.3,0
+ACC1075,Manufacturing,126,23.9,Mid-Market,1,7.9,7,1,2,0,0,0,6,27.2,21.6,0
+ACC1076,Manufacturing,236,26.8,Mid-Market,1,5.4,7,2,1,0,0,2,4,19.9,30.1,0
+ACC1077,Technology,24,2.3,SMB,0,4.8,3,2,1,0,0,1,1,49.2,22.5,0
+ACC1078,Financial Services,99,10.7,SMB,0,8.0,13,1,1,1,0,2,16,60.4,33.3,0
+ACC1079,Technology,143,33.9,Mid-Market,0,3.1,3,2,1,2,1,4,8,44.6,53.0,1
+ACC1080,Retail,123,27.0,Mid-Market,1,6.4,8,2,1,1,0,3,13,22.3,35.9,0
+ACC1081,Healthcare,298,41.8,Mid-Market,0,2.8,6,2,2,0,0,2,3,22.9,33.0,0
+ACC1082,Financial Services,84,16.1,SMB,0,7.6,9,1,1,2,1,1,4,59.0,48.7,0
+ACC1083,Technology,1050,179.9,Enterprise,0,5.0,4,1,0,0,0,1,24,58.9,5.3,0
+ACC1084,Financial Services,244,47.6,Mid-Market,0,8.0,17,1,1,0,0,1,32,61.7,25.1,0
+ACC1085,Financial Services,241,47.2,Mid-Market,0,6.5,14,3,2,2,0,3,13,56.7,59.3,0
+ACC1086,Manufacturing,159,29.7,Mid-Market,0,3.1,9,2,1,0,0,0,13,22.7,23.7,0
+ACC1087,Healthcare,299,37.4,Mid-Market,0,8.3,3,1,1,0,0,4,11,41.1,21.6,0
+ACC1088,Retail,715,61.9,Mid-Market,0,8.6,10,2,1,1,0,3,8,45.8,40.8,0
+ACC1089,Financial Services,79,12.4,SMB,0,7.3,5,1,0,0,0,2,9,57.9,15.5,0
+ACC1090,Technology,104,24.1,Mid-Market,0,4.0,3,4,1,0,0,1,33,47.2,21.8,0
+ACC1091,Manufacturing,164,29.0,Mid-Market,0,4.9,10,1,3,0,0,1,13,28.7,30.0,0
+ACC1092,Manufacturing,42,9.3,SMB,0,5.8,7,1,1,0,0,2,10,30.6,22.0,0
+ACC1093,Healthcare,84,20.9,SMB,0,4.1,3,5,2,1,0,4,2,25.3,57.3,0
+ACC1094,Manufacturing,131,14.1,Mid-Market,1,8.9,9,0,3,2,0,3,37,30.6,29.0,0
+ACC1095,Financial Services,762,150.6,Mid-Market,0,5.8,6,3,2,1,0,0,7,59.0,36.3,1
+ACC1096,Healthcare,344,67.0,Mid-Market,0,1.0,9,2,0,0,1,2,28,17.4,34.4,0
+ACC1097,Financial Services,314,77.4,Mid-Market,0,6.2,12,1,1,2,0,1,12,56.4,35.3,0
+ACC1098,Technology,739,182.9,Mid-Market,0,4.8,5,3,0,0,0,1,0,55.5,27.8,0
+ACC1099,Technology,204,40.1,Mid-Market,0,5.4,9,3,0,0,1,4,7,52.7,54.3,1
+ACC1100,Technology,406,49.3,Mid-Market,0,4.8,3,4,0,0,0,5,22,52.5,33.9,0
+ACC1101,Healthcare,213,46.0,Mid-Market,0,7.1,9,2,3,0,0,2,0,36.4,42.4,0
+ACC1102,Financial Services,345,33.9,Mid-Market,0,7.7,12,2,2,0,0,1,20,61.6,32.2,0
+ACC1103,Healthcare,114,24.2,Mid-Market,0,6.1,14,1,1,2,0,0,9,32.2,36.5,0
+ACC1104,Retail,10,2.3,SMB,0,4.8,5,2,4,1,1,1,0,27.0,57.1,0
+ACC1105,Technology,205,29.7,Mid-Market,0,5.4,6,2,2,0,0,0,4,52.7,26.7,0
+ACC1106,Financial Services,1555,291.1,Enterprise,0,5.5,9,5,1,2,0,2,0,65.0,62.0,1
+ACC1107,Manufacturing,815,124.8,Mid-Market,0,3.9,6,2,1,0,0,2,0,31.1,30.2,0
+ACC1108,Technology,858,132.5,Mid-Market,1,6.7,6,1,0,2,1,1,22,51.8,33.4,0
+ACC1109,Technology,1220,162.0,Enterprise,0,6.4,13,2,2,0,0,2,13,65.0,39.3,1
+ACC1110,Technology,274,57.4,Mid-Market,1,8.6,9,2,2,1,0,1,3,52.9,39.3,1
+ACC1111,Technology,316,75.6,Mid-Market,0,8.0,11,2,2,0,0,2,1,62.3,41.1,0
+ACC1112,Education,109,26.2,Mid-Market,0,4.1,4,2,4,0,1,2,0,25.5,53.7,0
+ACC1113,Retail,162,17.8,Mid-Market,0,7.1,13,3,0,1,0,0,24,35.9,32.1,0
+ACC1114,Healthcare,544,124.4,Mid-Market,0,3.6,4,3,3,1,1,3,9,27.7,59.9,1
+ACC1115,Retail,1170,240.3,Enterprise,0,6.9,11,1,1,1,1,2,1,44.2,50.8,0
+ACC1116,Retail,204,25.1,Mid-Market,0,4.5,11,6,1,0,1,1,11,27.7,68.4,0
+ACC1117,Technology,136,12.4,Mid-Market,0,3.5,8,3,2,3,0,3,68,45.9,34.0,0
+ACC1118,Retail,244,30.6,Mid-Market,0,6.1,12,1,1,1,0,4,15,33.4,38.0,0
+ACC1119,Healthcare,534,125.5,Mid-Market,0,1.0,7,2,2,1,0,1,5,19.0,35.6,0
+ACC1120,Retail,37,6.9,SMB,0,2.0,7,1,2,1,0,2,16,18.0,28.4,0
+ACC1121,Retail,12,2.4,SMB,0,5.1,12,3,2,1,0,2,13,28.0,48.6,0
+ACC1122,Financial Services,119,14.7,Mid-Market,1,5.7,11,2,0,2,0,0,0,42.0,37.6,0
+ACC1123,Technology,50,10.1,SMB,0,4.8,5,1,2,2,0,0,25,49.4,21.0,0
+ACC1124,Technology,126,10.7,Mid-Market,0,2.3,6,2,2,1,0,1,21,41.8,27.9,0
+ACC1125,Financial Services,201,28.9,Mid-Market,0,3.9,5,5,2,1,0,1,8,47.7,49.1,0
+ACC1126,Retail,135,25.2,Mid-Market,0,6.3,9,1,3,1,1,3,7,33.1,56.3,1
+ACC1127,Retail,1616,169.4,Enterprise,0,6.7,9,3,2,0,0,3,2,47.4,46.5,0
+ACC1128,Technology,374,82.2,Mid-Market,1,5.5,4,4,0,1,0,1,17,43.5,30.4,0
+ACC1129,Healthcare,361,43.3,Mid-Market,0,7.8,10,2,3,1,0,3,5,40.0,49.8,0
+ACC1130,Financial Services,549,104.8,Mid-Market,1,6.3,7,1,1,0,0,1,8,47.7,19.8,0
+ACC1131,Technology,55,8.2,SMB,0,4.0,6,1,0,2,0,4,1,46.8,35.7,0
+ACC1132,Technology,944,171.2,Mid-Market,0,4.9,9,2,1,0,0,6,2,57.6,45.6,0
+ACC1133,Financial Services,221,21.7,Mid-Market,0,2.7,3,1,3,1,0,3,42,44.0,19.2,0
+ACC1134,Education,585,48.5,Mid-Market,0,5.3,8,3,2,3,0,2,6,33.7,55.2,0
+ACC1135,Financial Services,60,14.1,SMB,0,7.7,9,3,1,1,0,2,16,59.1,39.1,1
+ACC1136,Healthcare,32,4.0,SMB,0,6.9,9,2,1,1,0,3,17,34.1,35.8,0
+ACC1137,Manufacturing,708,155.3,Mid-Market,0,8.3,12,3,1,0,0,2,39,44.7,29.7,0
+ACC1138,Financial Services,399,99.7,Mid-Market,1,4.9,6,1,1,0,1,4,40,41.8,29.3,1
+ACC1139,Education,75,8.7,SMB,0,8.2,11,1,0,1,1,3,6,38.8,47.9,1
+ACC1140,Education,78,9.8,SMB,0,5.1,10,2,2,2,0,0,30,28.6,32.2,0
+ACC1141,Technology,1056,203.5,Enterprise,0,8.4,13,1,0,0,0,2,4,70.2,29.2,1
+ACC1142,Financial Services,52,12.7,SMB,0,5.5,6,1,2,0,1,2,9,51.7,39.4,0
+ACC1143,Financial Services,2070,487.9,Enterprise,1,6.9,9,2,0,0,1,4,17,63.1,44.6,0
+ACC1144,Technology,75,12.4,SMB,1,8.5,10,1,0,0,0,3,24,50.8,19.9,0
+ACC1145,Technology,561,120.7,Mid-Market,0,5.1,2,2,4,0,0,4,7,54.9,39.2,0
+ACC1146,Healthcare,159,16.4,Mid-Market,0,5.9,4,4,1,1,0,2,5,31.9,42.0,0
+ACC1147,Healthcare,536,131.9,Mid-Market,0,8.1,16,2,1,0,0,3,13,42.5,42.7,0
+ACC1148,Technology,120,29.3,Mid-Market,0,5.2,6,2,1,3,0,3,6,51.3,45.5,1
+ACC1149,Technology,198,21.4,Mid-Market,0,2.9,10,2,2,1,0,0,11,44.4,34.7,0
+ACC1150,Retail,258,33.8,Mid-Market,0,9.8,10,2,0,0,0,1,16,45.7,23.0,0
+ACC1151,Technology,66,6.4,SMB,1,4.6,5,1,0,1,1,3,18,37.8,34.4,0
+ACC1152,Technology,641,80.9,Mid-Market,1,5.8,6,0,1,2,0,0,2,46.9,21.7,0
+ACC1153,Financial Services,125,27.3,Mid-Market,0,7.8,8,4,0,0,0,1,8,60.0,34.9,0
+ACC1154,Education,181,26.1,Mid-Market,0,4.3,8,1,2,0,1,3,0,26.8,48.8,0
+ACC1155,Technology,67,6.4,SMB,1,3.5,3,1,1,1,0,1,15,34.2,16.1,0
+ACC1156,Manufacturing,8,1.1,SMB,0,6.0,3,3,3,0,1,6,1,30.9,65.5,1
+ACC1157,Manufacturing,190,46.9,Mid-Market,0,1.9,3,2,3,0,0,3,20,19.0,28.8,0
+ACC1158,Technology,5633,1053.6,Enterprise,0,4.9,5,3,0,0,1,2,5,93.4,43.4,1
+ACC1159,Manufacturing,678,102.2,Mid-Market,0,6.0,5,1,3,2,0,2,1,36.9,40.1,0
+ACC1160,Financial Services,238,25.8,Mid-Market,1,5.0,9,0,2,0,0,0,15,40.7,15.1,1
+ACC1161,Healthcare,173,42.8,Mid-Market,0,2.4,5,6,1,1,0,2,2,20.5,56.3,0
+ACC1162,Healthcare,251,55.1,Mid-Market,0,8.7,8,1,0,0,1,2,5,42.0,36.1,1
+ACC1163,Healthcare,498,63.7,Mid-Market,0,5.7,5,4,2,0,0,0,8,34.3,35.4,1
+ACC1164,Technology,52,4.8,SMB,1,8.4,11,1,1,0,0,2,4,50.3,30.1,0
+ACC1165,Retail,1041,93.3,Enterprise,1,5.0,9,1,1,0,0,0,1,25.7,22.5,0
+ACC1166,Financial Services,620,62.3,Mid-Market,0,3.7,7,1,1,1,1,2,5,50.8,43.4,1
+ACC1167,Technology,622,111.2,Mid-Market,0,6.0,9,3,2,0,0,1,1,58.4,41.1,1
+ACC1168,Technology,432,102.8,Mid-Market,0,5.1,8,2,1,2,0,4,12,53.8,44.1,0
+ACC1169,Healthcare,251,41.3,Mid-Market,0,3.1,12,2,3,0,0,1,1,23.5,43.5,0
+ACC1170,Manufacturing,586,130.9,Mid-Market,0,8.4,9,1,4,1,0,2,6,44.0,43.0,0
+ACC1171,Technology,528,82.3,Mid-Market,0,4.3,3,1,4,1,0,0,8,52.0,27.6,0
+ACC1172,Healthcare,154,30.9,Mid-Market,0,1.8,4,1,2,0,0,2,29,18.3,14.0,0
+ACC1173,Technology,116,23.7,Mid-Market,0,8.2,13,2,0,0,0,1,0,61.2,33.7,0
+ACC1174,Healthcare,279,30.6,Mid-Market,0,4.5,6,4,2,0,0,0,26,28.4,29.9,0
+ACC1175,Technology,1833,259.2,Enterprise,1,4.3,7,2,2,0,0,4,2,52.4,40.7,0
+ACC1176,Manufacturing,48,9.0,SMB,0,2.0,4,2,2,2,0,2,18,18.1,34.0,0
+ACC1177,Financial Services,36,3.3,SMB,0,9.0,19,3,3,1,0,1,0,63.2,64.9,1
+ACC1178,Education,303,42.9,Mid-Market,1,2.9,5,2,1,2,0,2,44,12.3,21.4,0
+ACC1179,Technology,261,44.6,Mid-Market,0,5.6,2,1,4,0,1,5,16,53.9,47.4,1
+ACC1180,Financial Services,306,76.3,Mid-Market,0,7.3,6,2,4,3,0,1,0,59.9,53.7,0
+ACC1181,Technology,336,54.0,Mid-Market,0,6.3,9,4,1,1,0,2,2,56.9,50.4,0
+ACC1182,Education,183,40.0,Mid-Market,0,5.4,6,2,3,3,0,0,7,30.5,44.1,0
+ACC1183,Retail,1697,260.4,Enterprise,0,2.1,2,2,1,3,0,2,7,32.9,36.3,0
+ACC1184,Technology,30,6.5,SMB,0,3.9,5,2,0,1,1,3,9,46.2,43.8,0
+ACC1185,Manufacturing,83,15.0,SMB,1,5.9,4,1,3,1,0,3,6,20.2,34.7,0
+ACC1186,Retail,213,49.1,Mid-Market,0,3.9,6,2,1,0,0,1,13,25.8,22.2,0
+ACC1187,Healthcare,28,4.2,SMB,0,5.9,4,3,3,1,0,0,4,30.8,38.4,0
+ACC1188,Healthcare,194,35.4,Mid-Market,0,6.9,7,2,1,1,0,1,1,35.6,33.3,0
+ACC1189,Technology,2121,396.8,Enterprise,0,7.4,8,1,1,1,0,2,0,76.3,32.2,0
+ACC1190,Technology,251,37.9,Mid-Market,0,3.0,6,4,1,2,0,1,3,45.2,47.6,0
+ACC1191,Retail,330,34.5,Mid-Market,0,9.9,10,1,0,1,0,0,5,46.7,23.4,0
+ACC1192,Retail,47,4.5,SMB,0,7.0,13,2,1,3,0,2,10,34.6,51.2,0
+ACC1193,Healthcare,109,9.0,Mid-Market,0,5.5,2,3,1,2,1,4,16,30.2,54.2,1
+ACC1194,Financial Services,150,34.3,Mid-Market,0,7.7,14,1,2,2,0,1,2,59.9,46.0,0
+ACC1195,Financial Services,161,19.4,Mid-Market,0,10.0,13,1,1,1,0,1,6,67.6,34.2,0
+ACC1196,Manufacturing,1294,150.0,Enterprise,1,2.6,6,1,2,1,1,4,2,20.0,52.9,0
+ACC1197,Retail,505,103.6,Mid-Market,0,5.0,4,3,4,0,0,2,30,32.0,33.2,1
+ACC1198,Retail,57,7.7,SMB,0,1.0,6,3,1,2,0,2,10,14.8,42.0,1
+ACC1199,Manufacturing,337,56.0,Mid-Market,0,5.9,3,2,2,1,0,1,11,33.5,27.4,0
+ACC1200,Healthcare,467,50.3,Mid-Market,0,6.2,7,2,1,1,0,1,7,35.7,30.9,0
+ACC1201,Technology,1077,261.9,Enterprise,0,5.4,5,1,1,1,1,4,3,60.4,47.1,0
+ACC1202,Technology,1909,429.1,Enterprise,0,4.2,6,1,0,0,0,0,2,63.8,13.9,0
+ACC1203,Retail,65,14.7,SMB,0,1.4,8,2,3,1,1,2,10,16.2,56.6,0
+ACC1204,Healthcare,85,12.7,SMB,0,6.2,7,5,1,1,0,0,25,32.3,38.5,0
+ACC1205,Technology,47,9.9,SMB,1,8.4,8,2,3,1,0,5,2,50.2,53.9,1
+ACC1206,Technology,180,18.8,Mid-Market,0,4.3,5,1,1,2,0,1,8,48.9,26.6,0
+ACC1207,Manufacturing,448,36.5,Mid-Market,1,6.4,9,0,1,2,0,3,7,25.1,32.9,0
+ACC1208,Technology,883,73.6,Mid-Market,0,2.4,5,2,1,2,1,1,10,48.8,46.3,0
+ACC1209,Technology,221,39.7,Mid-Market,0,6.4,9,3,2,0,0,3,8,56.2,44.2,0
+ACC1210,Healthcare,161,25.3,Mid-Market,0,4.7,4,2,2,0,0,2,3,28.0,30.0,0
+ACC1211,Manufacturing,298,50.1,Mid-Market,1,4.0,12,0,1,1,0,1,11,15.9,25.0,0
+ACC1212,Manufacturing,82,6.7,SMB,1,4.0,3,0,1,2,0,3,3,14.0,25.7,0
+ACC1213,Technology,3701,562.0,Enterprise,0,4.7,0,3,2,1,0,4,10,81.3,38.0,0
+ACC1214,Manufacturing,30,6.1,SMB,0,6.3,13,1,1,0,1,1,3,32.1,45.2,0
+ACC1215,Technology,311,48.3,Mid-Market,0,2.9,14,3,3,0,0,0,0,45.4,49.8,1
+ACC1216,Financial Services,3397,694.6,Enterprise,0,4.7,6,3,0,0,0,0,1,78.6,26.0,0
+ACC1217,Manufacturing,246,29.4,Mid-Market,0,5.4,5,1,0,0,1,3,17,31.1,30.0,0
+ACC1218,Healthcare,191,41.7,Mid-Market,1,3.3,3,0,0,1,0,5,1,12.6,23.5,0
+ACC1219,Retail,153,27.5,Mid-Market,0,9.1,4,2,0,0,1,1,4,42.5,33.6,0
+ACC1220,Manufacturing,193,22.4,Mid-Market,0,3.8,7,4,1,2,0,3,3,25.3,54.9,0
+ACC1221,Healthcare,1457,175.2,Enterprise,0,4.2,6,3,0,1,0,2,0,37.8,37.1,0
+ACC1222,Technology,13,2.4,SMB,0,3.5,5,4,1,0,0,3,9,44.8,39.9,1
+ACC1223,Financial Services,1796,397.1,Enterprise,0,9.1,10,1,1,0,0,1,16,79.0,21.1,0
+ACC1224,Technology,38,5.7,SMB,0,6.6,7,3,3,3,0,1,48,55.2,38.3,0
+ACC1225,Technology,173,21.4,Mid-Market,1,3.6,10,2,1,0,0,4,27,35.5,31.4,0
+ACC1226,Education,140,31.8,Mid-Market,0,7.7,4,2,5,1,0,1,0,37.7,44.9,0
+ACC1227,Financial Services,525,101.7,Mid-Market,0,5.9,2,2,1,1,0,3,2,57.2,31.4,0
+ACC1228,Retail,30,4.7,SMB,0,6.0,8,2,1,0,1,2,5,31.1,45.9,0
+ACC1229,Healthcare,446,72.7,Mid-Market,0,4.8,7,1,1,0,0,2,20,30.8,18.0,0
+ACC1230,Manufacturing,3400,390.1,Enterprise,0,4.0,7,1,2,2,0,0,4,54.2,32.1,0
+ACC1231,Healthcare,41,7.6,SMB,0,6.2,14,2,3,0,0,1,8,31.9,43.7,0
+ACC1232,Healthcare,313,44.1,Mid-Market,0,4.4,7,2,1,0,0,1,10,28.3,24.9,0
+ACC1233,Financial Services,103,25.7,Mid-Market,1,9.1,10,2,1,0,0,2,3,53.1,34.9,0
+ACC1234,Technology,425,68.7,Mid-Market,0,3.0,8,1,0,0,0,3,8,46.7,23.2,0
+ACC1235,Manufacturing,250,40.7,Mid-Market,0,8.6,11,2,1,3,0,2,0,41.7,52.2,0
+ACC1236,Technology,106,18.7,Mid-Market,1,5.3,3,1,0,1,0,1,6,40.5,15.7,0
+ACC1237,Technology,461,108.7,Mid-Market,0,6.1,11,2,1,0,0,4,4,57.3,41.9,1
+ACC1238,Healthcare,2554,552.0,Enterprise,1,7.2,12,0,1,0,0,1,4,46.3,22.8,0
+ACC1239,Technology,190,29.8,Mid-Market,0,4.2,5,2,0,3,1,2,2,48.6,53.4,0
+ACC1240,Education,623,126.0,Mid-Market,0,7.2,13,3,1,2,0,1,17,40.3,46.5,0
+ACC1241,Education,45,8.1,SMB,1,1.0,4,2,3,0,0,0,21,3.7,21.1,0
+ACC1242,Retail,70,11.5,SMB,1,4.1,9,1,4,3,0,2,21,14.2,46.9,0
+ACC1243,Financial Services,452,50.9,Mid-Market,0,3.7,5,3,2,1,0,4,5,49.3,47.3,0
+ACC1244,Technology,1684,267.5,Enterprise,0,3.0,5,3,0,1,0,1,2,57.9,31.9,0
+ACC1245,Education,388,47.3,Mid-Market,0,5.1,9,2,1,1,0,2,1,31.3,39.1,0
+ACC1246,Financial Services,162,38.2,Mid-Market,1,6.3,13,0,2,0,0,1,11,44.3,25.5,1
+ACC1247,Education,244,33.4,Mid-Market,0,6.9,7,4,1,0,0,3,4,36.0,44.8,0
+ACC1248,Education,48,11.6,SMB,0,6.0,9,5,1,1,0,2,3,31.3,55.9,1
+ACC1249,Retail,536,91.5,Mid-Market,0,4.2,6,3,1,3,1,2,4,29.6,63.8,0
+ACC1250,Technology,770,144.3,Mid-Market,0,6.2,9,1,2,2,0,2,8,60.4,39.3,0
+ACC1251,Financial Services,135,23.3,Mid-Market,0,5.7,5,1,0,0,0,2,1,53.1,18.6,0
+ACC1252,Retail,132,13.5,Mid-Market,0,7.4,7,2,0,1,0,4,32,36.7,26.0,0
+ACC1253,Financial Services,345,49.6,Mid-Market,1,7.1,14,0,3,0,0,0,13,48.6,27.1,0
+ACC1254,Technology,138,13.4,Mid-Market,0,5.6,5,2,1,2,0,3,0,52.8,41.5,0
+ACC1255,Healthcare,224,41.6,Mid-Market,1,3.7,7,0,1,0,0,0,3,14.2,13.0,0
+ACC1256,Education,3750,584.9,Enterprise,0,4.2,6,1,2,0,0,1,0,58.0,25.4,0
+ACC1257,Manufacturing,177,37.6,Mid-Market,0,4.4,3,2,0,0,0,2,2,27.1,21.2,0
+ACC1258,Healthcare,153,18.0,Mid-Market,0,4.9,6,4,0,1,0,2,3,28.6,41.8,1
+ACC1259,Technology,105,11.3,Mid-Market,0,6.0,13,3,3,0,0,0,12,53.8,43.6,0
+ACC1260,Healthcare,643,95.9,Mid-Market,0,6.9,17,2,1,2,0,1,12,39.5,48.5,0
+ACC1261,Education,193,45.8,Mid-Market,0,5.4,13,2,0,1,0,0,0,30.6,35.6,0
+ACC1262,Technology,105,21.1,Mid-Market,1,5.5,5,1,3,3,0,0,8,41.2,36.4,1
+ACC1263,Healthcare,1363,206.1,Enterprise,1,5.8,7,2,2,0,0,3,32,31.2,26.0,0
+ACC1264,Retail,1549,260.1,Enterprise,0,4.5,6,3,2,0,0,2,9,39.6,36.5,0
+ACC1265,Manufacturing,112,10.6,Mid-Market,1,3.6,7,3,1,0,0,2,32,12.9,25.1,0
+ACC1266,Manufacturing,21,5.2,SMB,0,2.0,4,2,2,3,0,2,4,17.8,44.3,1
+ACC1267,Manufacturing,906,175.1,Mid-Market,0,4.1,5,2,4,1,0,0,6,32.6,37.2,0
+ACC1268,Financial Services,100,12.9,Mid-Market,1,6.4,13,1,0,1,0,1,6,44.1,30.3,0
+ACC1269,Technology,683,122.7,Mid-Market,0,4.1,1,1,2,1,0,2,25,52.7,16.1,0
+ACC1270,Retail,18,1.8,SMB,0,5.0,7,4,0,0,0,1,4,27.7,35.0,0
+ACC1271,Retail,780,190.5,Mid-Market,0,6.4,11,2,2,3,0,1,40,39.1,37.6,0
+ACC1272,Retail,50,5.5,SMB,0,6.5,7,3,3,0,1,3,7,33.0,60.2,0
+ACC1273,Retail,632,120.2,Mid-Market,0,3.3,3,3,0,0,0,3,2,27.5,30.0,0
+ACC1274,Healthcare,249,30.3,Mid-Market,0,7.5,10,2,2,1,0,1,1,38.0,41.6,0
+ACC1275,Healthcare,70,14.1,SMB,0,7.8,5,2,1,2,0,4,1,37.4,44.0,1
+ACC1276,Manufacturing,144,30.5,Mid-Market,0,3.2,5,2,2,2,1,2,0,22.9,57.1,1
+ACC1277,Healthcare,597,116.1,Mid-Market,0,3.9,4,2,1,0,1,3,11,29.2,40.6,0
+ACC1278,Manufacturing,280,51.7,Mid-Market,0,7.9,16,1,2,0,0,4,7,39.6,46.0,0
+ACC1279,Manufacturing,523,121.2,Mid-Market,0,5.2,8,4,0,1,0,3,13,32.8,43.7,0
+ACC1280,Retail,3195,298.3,Enterprise,0,1.1,4,2,1,1,0,4,15,42.8,32.2,0
+ACC1281,Financial Services,32,4.4,SMB,0,2.7,8,1,2,3,0,2,26,42.3,35.7,0
+ACC1282,Financial Services,2002,244.7,Enterprise,0,5.0,1,1,2,2,0,2,1,67.3,30.3,0
+ACC1283,Technology,280,69.4,Mid-Market,1,3.2,3,0,1,1,0,1,2,35.1,15.3,0
+ACC1284,Healthcare,76,11.1,SMB,0,4.7,6,2,2,0,0,5,7,27.2,40.2,0
+ACC1285,Technology,43,8.8,SMB,0,5.6,8,3,0,0,1,1,1,52.0,46.4,0
+ACC1286,Financial Services,191,37.5,Mid-Market,0,8.4,8,4,2,0,0,2,0,62.5,48.8,0
+ACC1287,Healthcare,810,94.0,Mid-Market,0,4.9,7,3,1,1,0,4,10,34.4,44.4,0
+ACC1288,Technology,207,25.0,Mid-Market,1,7.6,9,0,2,1,0,1,12,49.0,24.1,0
+ACC1289,Healthcare,1744,222.9,Enterprise,0,8.4,9,2,1,1,0,1,18,54.2,29.6,0
+ACC1290,Technology,37,5.5,SMB,0,8.4,8,3,3,1,0,1,24,61.2,39.4,0
+ACC1291,Technology,240,28.8,Mid-Market,0,6.1,14,1,1,2,1,3,5,55.4,61.5,0
+ACC1292,Retail,48,4.0,SMB,0,1.6,4,1,1,0,1,2,39,16.7,20.9,0
+ACC1293,Financial Services,392,90.0,Mid-Market,0,6.4,8,2,0,1,0,0,0,57.7,28.3,0
+ACC1294,Technology,775,189.2,Mid-Market,0,7.6,10,3,1,0,0,1,20,65.0,31.2,0
+ACC1295,Healthcare,141,19.5,Mid-Market,0,5.3,6,3,1,0,0,0,3,29.8,29.1,0
+ACC1296,Manufacturing,8,1.1,SMB,0,9.0,16,2,5,1,1,3,25,40.9,73.2,1
+ACC1297,Technology,316,25.7,Mid-Market,1,7.2,7,2,1,1,0,3,2,48.7,38.7,1
+ACC1298,Healthcare,431,84.3,Mid-Market,0,6.6,9,2,0,2,0,1,13,36.7,32.5,1
+ACC1299,Technology,413,91.0,Mid-Market,0,7.7,13,2,1,0,0,1,5,62.2,35.6,0
+ACC1300,Technology,1219,127.9,Enterprise,1,6.2,5,1,0,0,0,3,4,53.3,20.4,1
+ACC1301,Healthcare,60,6.4,SMB,0,1.0,2,3,5,3,0,5,0,14.9,69.3,0
+ACC1302,Healthcare,592,126.9,Mid-Market,0,4.5,6,2,3,2,0,1,12,31.1,40.2,1
+ACC1303,Healthcare,1153,213.0,Enterprise,0,7.9,10,1,6,1,0,1,1,47.3,51.3,0
+ACC1304,Manufacturing,24,2.1,SMB,0,3.9,4,2,1,1,0,3,6,24.1,32.8,0
+ACC1305,Education,370,68.8,Mid-Market,0,5.1,4,3,1,0,0,4,1,31.2,38.6,1
+ACC1306,Healthcare,127,16.8,Mid-Market,0,3.4,4,3,2,2,0,2,9,23.4,43.3,0
+ACC1307,Financial Services,220,31.4,Mid-Market,1,9.1,13,0,1,0,1,3,2,54.1,45.6,1
+ACC1308,Manufacturing,384,81.0,Mid-Market,1,8.9,10,1,2,0,0,1,9,32.8,27.7,0
+ACC1309,Technology,129,28.1,Mid-Market,0,3.7,5,4,3,1,0,2,29,46.5,41.9,0
+ACC1310,Financial Services,101,15.0,Mid-Market,0,5.8,4,3,0,2,0,3,25,53.2,32.2,1
+ACC1311,Technology,255,61.5,Mid-Market,0,4.1,5,1,1,0,1,5,2,48.9,45.6,1
+ACC1312,Technology,59,8.8,SMB,0,6.7,11,3,1,0,0,3,1,55.8,46.0,0
+ACC1313,Education,59,12.5,SMB,0,6.5,8,3,2,0,0,3,0,33.0,45.9,0
+ACC1314,Retail,591,95.9,Mid-Market,0,7.1,12,2,0,0,0,3,17,39.7,31.4,1
+ACC1315,Manufacturing,54,12.6,SMB,0,6.2,13,2,1,1,0,0,2,32.0,38.7,0
+ACC1316,Financial Services,581,136.1,Mid-Market,1,10.0,13,2,1,0,0,2,3,60.3,39.3,0
+ACC1317,Technology,446,42.3,Mid-Market,0,3.4,12,3,1,2,1,4,2,48.3,74.3,1
+ACC1318,Technology,25,6.0,SMB,0,2.1,4,1,3,2,0,0,18,40.2,26.1,1
+ACC1319,Technology,101,22.3,Mid-Market,1,4.7,2,1,1,1,1,1,38,38.5,20.3,1
+ACC1320,Healthcare,1155,247.8,Enterprise,0,2.4,4,5,2,1,0,1,14,29.2,45.3,0
+ACC1321,Manufacturing,68,7.8,SMB,0,2.5,3,2,0,1,0,0,17,19.9,14.3,0
+ACC1322,Manufacturing,133,28.8,Mid-Market,0,3.5,11,1,0,0,1,3,9,23.8,41.9,1
+ACC1323,Technology,446,100.1,Mid-Market,0,3.7,8,2,0,0,0,4,7,49.2,32.4,1
+ACC1324,Education,677,87.4,Mid-Market,1,3.6,8,1,3,2,1,4,12,17.9,60.7,1
+ACC1325,Manufacturing,176,42.6,Mid-Market,0,6.5,7,1,1,0,1,3,0,34.1,43.4,0
+ACC1326,Healthcare,112,9.9,Mid-Market,0,4.5,11,2,1,0,0,2,0,26.9,37.6,0
+ACC1327,Healthcare,1554,163.9,Enterprise,0,5.1,3,3,1,3,0,0,11,41.6,36.2,0
+ACC1328,Financial Services,2346,402.1,Enterprise,0,7.3,5,1,1,0,0,2,4,77.9,21.4,1
+ACC1329,Technology,873,155.3,Mid-Market,0,4.0,2,1,0,2,0,1,6,54.0,19.1,0
+ACC1330,Financial Services,273,51.8,Mid-Market,0,5.0,6,4,1,1,0,0,15,52.0,35.1,0
+ACC1331,Manufacturing,85,7.0,SMB,0,6.2,9,1,1,2,0,1,8,32.3,32.5,0
+ACC1332,Technology,83,20.2,SMB,0,1.6,14,1,1,2,1,2,16,39.1,54.2,0
+ACC1333,Technology,482,42.2,Mid-Market,0,1.0,5,3,2,0,1,2,5,40.6,51.2,0
+ACC1334,Technology,421,43.9,Mid-Market,0,6.2,10,4,1,1,0,2,3,57.3,51.5,0
+ACC1335,Technology,1513,124.6,Enterprise,0,6.5,14,2,1,0,0,2,2,67.9,41.2,0
+ACC1336,Retail,569,100.4,Mid-Market,1,9.6,12,0,4,0,0,2,1,36.8,38.6,0
+ACC1337,Manufacturing,34,8.1,SMB,1,5.8,7,0,2,0,0,1,0,19.5,21.0,0
+ACC1338,Financial Services,960,185.5,Mid-Market,0,7.1,11,1,0,1,1,3,0,65.0,50.2,1
+ACC1339,Technology,66,14.5,SMB,1,5.1,10,1,0,0,0,3,3,39.5,28.1,0
+ACC1340,Financial Services,148,12.2,Mid-Market,0,6.1,7,3,1,0,1,2,3,54.6,51.0,1
+ACC1341,Financial Services,338,58.2,Mid-Market,0,8.8,12,2,2,0,0,1,4,65.2,38.4,1
+ACC1342,Technology,3275,517.9,Enterprise,0,1.3,8,3,2,0,0,2,8,66.3,39.8,0
+ACC1343,Financial Services,13945,2298.5,Enterprise,0,6.3,8,1,1,2,0,0,14,98.0,25.8,1
+ACC1344,Financial Services,538,49.6,Mid-Market,0,9.8,9,2,0,3,0,0,2,70.2,38.7,0
+ACC1345,Healthcare,192,37.7,Mid-Market,0,6.1,15,4,3,0,0,0,14,32.9,51.6,0
+ACC1346,Healthcare,490,81.1,Mid-Market,1,8.8,13,1,1,2,0,0,1,33.4,38.1,0
+ACC1347,Technology,775,162.8,Mid-Market,1,4.2,9,4,2,1,0,1,44,42.8,35.0,0
+ACC1348,Financial Services,161,26.2,Mid-Market,0,5.4,4,2,1,1,0,1,3,52.4,28.1,0
+ACC1349,Healthcare,2524,266.0,Enterprise,0,5.6,4,3,0,0,0,1,18,51.8,19.3,0
+ACC1350,Healthcare,329,62.6,Mid-Market,0,1.1,8,3,2,0,0,1,2,17.6,39.2,1
+ACC1351,Retail,467,51.0,Mid-Market,0,3.2,6,2,0,1,1,1,30,25.7,31.2,0
+ACC1352,Manufacturing,581,132.6,Mid-Market,0,3.3,4,4,1,0,1,4,17,27.1,52.9,0
+ACC1353,Technology,423,77.9,Mid-Market,0,7.1,4,1,0,2,0,1,4,60.3,22.8,0
+ACC1354,Technology,728,77.7,Mid-Market,0,7.2,11,3,1,0,0,0,5,63.3,35.6,0
+ACC1355,Healthcare,109,26.6,Mid-Market,0,6.1,14,1,1,1,0,1,0,32.2,38.0,0
+ACC1356,Technology,118,19.8,Mid-Market,0,7.1,8,2,3,1,0,4,2,57.6,50.9,0
+ACC1357,Healthcare,58,5.4,SMB,0,5.2,5,3,0,1,0,1,3,28.7,31.5,0
+ACC1358,Education,433,80.8,Mid-Market,0,7.9,4,2,2,1,0,3,6,41.0,36.7,0
+ACC1359,Healthcare,673,82.8,Mid-Market,0,5.5,8,2,0,0,0,0,1,35.2,23.0,0
+ACC1360,Financial Services,443,96.0,Mid-Market,1,5.6,6,3,1,0,0,2,6,44.5,33.8,0
+ACC1361,Healthcare,2157,472.4,Enterprise,0,5.0,5,1,2,0,0,2,11,46.6,22.5,1
+ACC1362,Financial Services,242,59.6,Mid-Market,1,6.9,15,3,3,3,0,2,4,47.0,70.1,1
+ACC1363,Healthcare,583,96.4,Mid-Market,1,4.7,2,2,0,0,1,2,2,20.7,34.3,0
+ACC1364,Education,59,9.3,SMB,0,7.5,20,2,1,0,0,4,7,36.4,53.9,1
+ACC1365,Financial Services,147,30.6,Mid-Market,0,3.2,1,2,2,0,0,0,0,45.0,21.0,0
+ACC1366,Education,604,61.9,Mid-Market,1,3.3,6,1,1,1,0,1,4,16.2,24.8,0
+ACC1367,Retail,737,127.5,Mid-Market,1,6.9,11,0,2,3,0,4,7,29.3,47.5,0
+ACC1368,Technology,166,28.7,Mid-Market,0,5.3,7,2,2,1,0,0,4,52.1,33.1,0
+ACC1369,Technology,222,21.1,Mid-Market,0,4.6,3,2,2,2,0,4,4,50.2,43.8,1
+ACC1370,Technology,34,5.1,SMB,0,7.3,11,8,4,0,0,2,18,57.5,77.4,0
+ACC1371,Technology,153,34.4,Mid-Market,0,4.3,5,4,1,0,0,1,27,48.6,27.0,0
+ACC1372,Technology,778,175.5,Mid-Market,0,5.1,5,2,2,1,0,1,17,56.8,28.0,1
+ACC1373,Manufacturing,516,50.0,Mid-Market,1,8.3,8,2,1,1,0,1,1,32.0,34.7,1
+ACC1374,Technology,469,44.8,Mid-Market,0,8.6,8,2,2,1,1,5,3,65.7,64.2,1
+ACC1375,Financial Services,261,32.5,Mid-Market,0,8.6,11,1,1,0,1,3,12,63.8,44.6,0
+ACC1376,Retail,246,56.3,Mid-Market,0,4.9,9,1,1,2,1,4,36,29.4,45.0,0
+ACC1377,Technology,103,10.5,Mid-Market,0,8.0,12,1,1,1,0,0,2,60.4,31.4,1
+ACC1378,Retail,606,122.7,Mid-Market,0,3.6,7,1,2,1,0,3,22,28.3,29.0,0
+ACC1379,Technology,422,41.0,Mid-Market,1,3.7,9,2,3,0,0,2,13,38.0,37.4,0
+ACC1380,Technology,463,86.1,Mid-Market,0,1.0,5,3,2,0,0,2,41,40.5,22.5,0
+ACC1381,Manufacturing,123,17.3,Mid-Market,0,8.8,11,2,2,0,1,3,0,41.2,59.0,1
+ACC1382,Healthcare,14,3.0,SMB,0,3.8,7,2,3,0,0,2,5,23.7,37.6,0
+ACC1383,Retail,1018,121.9,Enterprise,0,5.2,4,2,0,1,0,1,6,37.2,23.0,0
+ACC1384,Manufacturing,131,24.7,Mid-Market,0,3.7,6,2,4,0,0,1,11,24.4,34.7,0
+ACC1385,Retail,79,9.5,SMB,0,6.9,11,2,2,0,1,2,10,34.5,52.2,1
+ACC1386,Technology,602,121.2,Mid-Market,0,4.7,5,2,6,2,0,3,23,53.9,52.0,0
+ACC1387,Technology,146,33.4,Mid-Market,0,2.9,6,1,2,1,1,5,18,44.0,49.6,0
+ACC1388,Manufacturing,970,98.5,Mid-Market,0,6.4,9,2,0,2,0,0,0,40.7,34.6,0
+ACC1389,Retail,545,123.9,Mid-Market,0,2.6,5,3,1,1,1,1,6,24.4,48.9,0
+ACC1390,Education,595,107.6,Mid-Market,1,3.8,7,0,0,0,0,5,5,17.8,22.9,0
+ACC1391,Financial Services,41,4.2,SMB,0,1.3,9,3,0,1,0,2,58,37.7,18.8,0
+ACC1392,Financial Services,1182,180.5,Enterprise,0,2.7,7,3,1,3,0,2,5,52.4,50.2,0
+ACC1393,Manufacturing,343,36.8,Mid-Market,0,5.9,6,2,2,1,0,1,11,33.6,31.8,0
+ACC1394,Financial Services,151,30.1,Mid-Market,0,1.6,6,1,0,0,0,1,3,39.7,16.4,0
+ACC1395,Education,294,61.4,Mid-Market,0,2.5,7,2,1,2,0,3,9,21.9,40.9,0
+ACC1396,Retail,24,2.4,SMB,0,5.5,3,2,1,4,1,3,2,29.4,62.1,0
+ACC1397,Financial Services,416,69.1,Mid-Market,0,4.4,7,2,1,0,1,2,9,51.3,42.8,0
+ACC1398,Manufacturing,64,14.0,SMB,0,9.5,18,2,0,2,0,2,20,43.0,45.9,0
+ACC1399,Manufacturing,42,10.0,SMB,1,9.2,9,0,1,0,0,3,0,30.8,25.9,0
+ACC1400,Technology,33,5.5,SMB,0,3.8,8,2,0,0,0,1,7,45.9,23.6,0
+ACC1401,Retail,1039,251.0,Enterprise,0,6.6,8,2,1,0,0,3,40,42.0,20.5,0
+ACC1402,Healthcare,107,18.3,Mid-Market,0,7.0,8,3,0,1,0,1,1,35.1,36.7,0
+ACC1403,Retail,1796,264.0,Enterprise,1,4.3,9,1,2,3,0,2,2,30.1,46.5,0
+ACC1404,Financial Services,121,27.1,Mid-Market,1,2.5,3,0,1,2,0,2,6,31.4,21.6,0
+ACC1405,Retail,26,4.3,SMB,0,5.5,4,2,3,0,0,2,20,29.4,27.3,0
+ACC1406,Financial Services,57,9.1,SMB,0,5.2,11,1,1,2,0,0,8,50.8,32.5,0
+ACC1407,Technology,1219,199.1,Enterprise,0,4.6,6,1,1,2,0,1,7,59.0,28.5,0
+ACC1408,Retail,199,44.6,Mid-Market,0,6.4,12,3,1,0,0,2,0,33.9,44.9,0
+ACC1409,Technology,119,26.4,Mid-Market,0,4.0,2,2,3,0,0,3,32,47.4,22.6,0
+ACC1410,Financial Services,301,44.7,Mid-Market,0,3.2,5,2,2,0,0,1,4,46.3,28.2,0
+ACC1411,Education,469,64.1,Mid-Market,0,5.7,3,2,1,0,1,4,2,34.0,45.6,0
+ACC1412,Education,1045,171.0,Enterprise,1,6.3,10,1,1,0,0,2,5,30.1,28.3,0
+ACC1413,Healthcare,1608,285.2,Enterprise,1,3.1,7,0,1,1,0,0,5,24.4,17.1,0
+ACC1414,Healthcare,153,18.4,Mid-Market,0,7.4,10,5,0,2,0,0,6,36.9,51.3,1
+ACC1415,Financial Services,43,9.2,SMB,0,2.0,7,2,3,1,0,1,11,40.1,37.2,0
+ACC1416,Technology,142,23.1,Mid-Market,1,4.3,7,3,1,1,0,0,20,37.5,28.8,0
+ACC1417,Financial Services,343,46.9,Mid-Market,0,5.0,7,1,2,2,0,0,0,52.6,33.7,0
+ACC1418,Manufacturing,69,6.8,SMB,0,4.2,8,2,2,3,0,2,6,25.5,49.4,0
+ACC1419,Manufacturing,70,8.4,SMB,0,4.4,7,3,1,1,0,3,5,26.2,43.4,0
+ACC1420,Manufacturing,382,92.2,Mid-Market,0,9.2,6,4,2,0,0,3,0,44.8,48.8,0
+ACC1421,Manufacturing,229,30.2,Mid-Market,0,3.8,12,4,3,2,0,3,16,25.6,65.0,0
+ACC1422,Technology,255,27.7,Mid-Market,0,10.0,14,4,1,0,0,0,1,68.4,47.4,0
+ACC1423,Financial Services,91,14.4,SMB,0,6.4,10,1,0,1,0,3,1,55.0,33.8,0
+ACC1424,Technology,181,23.9,Mid-Market,0,5.7,6,3,1,0,0,3,0,53.5,39.0,1
+ACC1425,Healthcare,73,6.3,SMB,0,6.5,17,1,0,0,0,1,2,33.2,32.9,0
+ACC1426,Financial Services,778,105.0,Mid-Market,0,10.0,8,1,2,1,0,1,1,73.0,32.8,0
+ACC1427,Retail,939,162.0,Mid-Market,1,3.5,8,1,0,1,1,1,4,19.9,38.4,1
+ACC1428,Financial Services,22,3.8,SMB,0,3.3,2,2,0,2,0,1,10,44.2,23.4,0
+ACC1429,Technology,73,10.3,SMB,0,4.0,12,3,0,0,0,4,0,47.0,46.8,0
+ACC1430,Technology,34,5.3,SMB,0,5.6,3,5,0,1,1,1,19,51.9,48.7,1
+ACC1431,Manufacturing,105,25.6,Mid-Market,0,2.0,4,2,1,1,0,3,3,18.6,34.0,0
+ACC1432,Healthcare,219,31.6,Mid-Market,0,5.5,4,2,3,1,0,2,9,31.1,36.5,1
+ACC1433,Technology,37,4.6,SMB,0,8.9,7,2,2,1,0,1,0,62.8,37.6,1
+ACC1434,Technology,73,8.9,SMB,0,5.8,6,1,1,2,0,3,4,52.9,35.5,0
+ACC1435,Manufacturing,66,10.4,SMB,0,4.9,10,2,1,2,1,2,0,27.8,60.5,0
+ACC1436,Technology,320,66.9,Mid-Market,0,4.3,4,3,2,1,0,3,1,50.1,44.5,1
+ACC1437,Retail,267,30.7,Mid-Market,0,7.3,8,1,1,2,0,3,5,37.5,38.0,0
+ACC1438,Manufacturing,95,19.1,SMB,0,3.8,6,1,3,0,1,6,7,24.4,55.8,0
+ACC1439,Technology,307,25.7,Mid-Market,0,9.2,7,3,2,0,0,2,1,66.2,41.1,0
+ACC1440,Technology,120,18.1,Mid-Market,0,9.4,11,3,1,2,0,2,13,65.2,48.1,0
+ACC1441,Education,171,36.2,Mid-Market,0,6.0,13,4,1,0,1,3,2,32.4,69.0,1
+ACC1442,Financial Services,2154,296.4,Enterprise,0,5.5,2,1,2,1,0,2,1,70.3,26.9,1
+ACC1443,Financial Services,1397,245.6,Enterprise,0,7.6,14,2,1,1,0,0,4,70.5,39.4,1
+ACC1444,Retail,45,5.2,SMB,0,7.7,10,2,4,1,0,3,8,36.9,52.5,0
+ACC1445,Education,719,148.2,Mid-Market,0,3.9,6,2,2,2,0,1,45,30.3,23.4,0
+ACC1446,Education,702,62.4,Mid-Market,0,4.4,9,2,4,1,0,0,5,31.8,43.4,0
+ACC1447,Manufacturing,54,12.1,SMB,0,2.9,4,2,0,0,0,2,5,21.1,21.5,0
+ACC1448,Financial Services,709,80.6,Mid-Market,0,6.3,7,2,1,1,0,1,0,60.2,33.7,0
+ACC1449,Technology,1806,412.9,Enterprise,1,6.8,14,1,0,1,0,1,14,60.5,28.7,0
+ACC1450,Manufacturing,56,7.8,SMB,0,2.8,4,1,4,0,0,3,2,20.8,35.3,0
+ACC1451,Healthcare,74,15.0,SMB,0,4.6,6,2,1,0,0,3,13,26.9,28.1,0
+ACC1452,Financial Services,918,123.3,Mid-Market,0,2.8,11,3,1,2,0,1,24,50.4,40.9,0
+ACC1453,Retail,348,81.4,Mid-Market,0,3.7,10,3,1,1,0,3,14,26.3,44.3,0
+ACC1454,Technology,501,50.9,Mid-Market,0,6.6,13,1,0,1,0,1,10,59.3,28.8,1
+ACC1455,Financial Services,380,41.9,Mid-Market,0,4.0,1,1,2,0,0,1,9,49.7,14.5,0
+ACC1456,Technology,406,66.5,Mid-Market,0,4.9,5,2,0,1,0,1,6,52.9,24.5,0
+ACC1457,Financial Services,43,4.0,SMB,1,2.2,5,2,1,1,0,2,1,29.7,33.3,0
+ACC1458,Technology,954,108.1,Mid-Market,0,5.9,11,2,1,1,0,0,15,61.0,30.7,1
+ACC1459,Technology,1119,269.1,Enterprise,0,5.4,7,3,3,0,0,4,6,60.8,48.9,0
+ACC1460,Technology,181,44.5,Mid-Market,0,4.0,5,3,0,1,1,3,9,47.9,49.7,1
+ACC1461,Healthcare,231,33.3,Mid-Market,0,5.1,9,3,4,1,0,4,4,29.9,61.4,1
+ACC1462,Manufacturing,33,7.8,SMB,0,5.9,6,5,3,1,1,4,2,30.8,80.2,1
+ACC1463,Healthcare,477,82.3,Mid-Market,1,3.9,5,1,3,1,1,1,16,17.1,41.1,1
+ACC1464,Education,514,64.7,Mid-Market,1,2.5,5,1,2,1,0,1,4,12.8,27.2,0
+ACC1465,Financial Services,225,44.9,Mid-Market,0,9.1,5,1,0,1,0,2,20,65.2,16.1,0
+ACC1466,Technology,1055,202.6,Enterprise,0,4.2,7,2,0,2,1,2,33,56.3,39.3,0
+ACC1467,Retail,158,39.2,Mid-Market,0,5.3,11,1,4,1,1,3,17,29.9,59.2,1
+ACC1468,Technology,509,63.7,Mid-Market,0,7.5,11,1,2,1,0,1,1,62.4,37.2,0
+ACC1469,Education,65,12.6,SMB,0,10.0,11,2,1,0,0,6,19,44.7,41.9,0
+ACC1470,Technology,237,21.1,Mid-Market,0,3.0,6,2,0,0,0,0,7,45.1,17.8,0
+ACC1471,Education,195,19.4,Mid-Market,0,6.4,14,2,2,1,0,1,2,33.9,47.0,0
+ACC1472,Technology,327,26.4,Mid-Market,0,4.1,5,1,1,0,0,2,0,49.5,22.9,0
+ACC1473,Retail,151,37.7,Mid-Market,0,4.4,5,3,0,1,0,0,3,26.9,28.6,0
+ACC1474,Healthcare,206,44.6,Mid-Market,0,4.1,7,1,0,0,0,2,1,26.4,21.6,0
+ACC1475,Education,716,153.0,Mid-Market,0,3.2,15,2,8,3,0,0,0,27.9,79.5,0
+ACC1476,Technology,138,23.0,Mid-Market,0,5.4,7,1,1,0,0,3,44,52.2,11.6,0
+ACC1477,Healthcare,30,3.9,SMB,0,2.6,14,3,3,1,0,2,17,19.9,53.9,0
+ACC1478,Education,2379,251.5,Enterprise,0,7.4,4,3,0,0,0,4,13,56.5,30.0,1
+ACC1479,Healthcare,1474,189.3,Enterprise,0,5.6,1,3,2,0,0,2,2,42.5,31.9,0
+ACC1480,Healthcare,45,6.5,SMB,1,6.3,10,1,2,1,0,1,0,21.2,36.1,0
+ACC1481,Manufacturing,599,124.9,Mid-Market,0,4.6,3,3,1,1,0,2,6,31.5,34.2,0
+ACC1482,Financial Services,127,21.8,Mid-Market,0,4.8,5,5,5,1,0,0,13,50.1,55.9,1
+ACC1483,Healthcare,344,32.1,Mid-Market,0,6.1,9,2,3,0,0,1,32,34.2,27.0,0
+ACC1484,Healthcare,358,29.7,Mid-Market,1,3.2,7,1,1,2,0,1,18,13.7,25.7,0
+ACC1485,Retail,180,17.5,Mid-Market,0,4.8,6,3,1,0,0,0,22,28.5,21.7,0
+ACC1486,Technology,88,13.2,SMB,0,3.8,6,2,1,1,0,1,2,46.4,31.4,0
+ACC1487,Technology,99,23.6,SMB,0,3.7,8,2,1,3,1,2,1,46.2,62.0,0
+ACC1488,Education,74,13.9,SMB,0,1.3,10,2,5,0,0,1,2,16.0,48.0,0
+ACC1489,Retail,82,17.7,SMB,0,8.2,8,2,1,1,0,3,1,38.9,40.6,0
+ACC1490,Financial Services,224,35.7,Mid-Market,0,4.1,9,3,1,0,0,2,16,48.6,34.2,1
+ACC1491,Healthcare,96,13.6,SMB,1,7.8,13,0,3,0,0,2,23,26.6,27.6,0
+ACC1492,Technology,593,58.4,Mid-Market,1,7.6,13,0,2,0,0,3,3,52.4,34.4,0
+ACC1493,Technology,1691,387.1,Enterprise,0,2.9,5,1,4,0,1,4,20,57.6,47.3,0
+ACC1494,Financial Services,115,24.5,Mid-Market,0,3.3,7,1,4,0,0,3,0,45.0,40.5,0
+ACC1495,Financial Services,334,36.3,Mid-Market,0,10.0,13,1,2,3,0,0,11,69.1,43.0,0
+ACC1496,Healthcare,468,78.2,Mid-Market,0,9.0,10,2,3,2,0,1,7,44.9,48.0,0
+ACC1497,Technology,451,73.4,Mid-Market,0,5.4,2,2,0,1,0,0,3,54.9,18.3,0
+ACC1498,Education,270,50.3,Mid-Market,1,6.0,13,3,1,0,0,2,14,22.2,40.9,0
+ACC1499,Education,642,154.6,Mid-Market,0,4.2,1,1,1,0,0,3,2,30.6,19.2,0
+ACC1500,Manufacturing,458,81.8,Mid-Market,0,6.4,8,1,0,0,0,0,5,36.2,15.6,0
+ACC1501,Healthcare,48,8.2,SMB,1,4.1,8,1,1,0,0,2,12,14.0,22.6,0
+ACC1502,Financial Services,757,67.0,Mid-Market,0,1.4,2,2,0,1,0,0,4,44.4,18.0,0
+ACC1503,Retail,775,70.3,Mid-Market,0,2.9,9,2,0,1,0,2,19,27.5,28.2,0
+ACC1504,Manufacturing,90,10.1,SMB,0,5.5,6,1,3,1,1,2,20,30.0,43.9,1
+ACC1505,Technology,257,22.0,Mid-Market,0,3.2,7,2,1,0,0,6,2,45.9,42.6,0
+ACC1506,Retail,594,122.6,Mid-Market,0,5.4,7,4,2,2,0,2,5,34.1,55.1,0
+ACC1507,Retail,186,37.8,Mid-Market,0,3.4,9,2,1,0,0,2,5,23.9,32.7,0
+ACC1508,Education,987,101.8,Mid-Market,0,3.9,11,3,5,2,0,2,5,32.6,66.8,1
+ACC1509,Manufacturing,5287,1174.4,Enterprise,1,7.2,12,1,1,1,0,0,6,67.9,29.9,0
+ACC1510,Healthcare,88,9.4,SMB,1,6.0,7,1,1,2,1,2,0,20.6,50.2,0
+ACC1511,Financial Services,40,5.2,SMB,0,5.5,3,1,1,1,0,3,20,51.6,20.0,0
+ACC1512,Education,363,44.4,Mid-Market,0,7.3,11,2,3,0,0,3,3,38.4,47.1,0
+ACC1513,Retail,625,89.6,Mid-Market,0,6.5,5,4,2,0,0,1,0,38.0,41.5,0
+ACC1514,Technology,181,22.3,Mid-Market,0,8.4,13,3,1,1,0,0,11,62.5,41.1,0
+ACC1515,Technology,1618,263.9,Enterprise,0,4.6,8,1,1,0,0,2,10,62.6,23.4,0
+ACC1516,Financial Services,42,6.3,SMB,1,4.6,3,4,3,1,1,4,40,37.6,55.1,1
+ACC1517,Retail,602,149.1,Mid-Market,1,2.9,5,1,1,2,0,1,12,14.9,25.1,0
+ACC1518,Education,111,9.9,Mid-Market,0,4.6,5,2,0,0,0,2,4,27.2,23.3,0
+ACC1519,Technology,2287,238.2,Enterprise,0,7.4,5,1,1,1,0,1,30,77.7,13.2,0
+ACC1520,Healthcare,3262,290.3,Enterprise,0,8.1,11,3,3,1,0,1,4,66.6,51.6,0
+ACC1521,Financial Services,90,16.8,SMB,0,7.4,15,1,0,1,0,1,17,58.3,29.0,0
+ACC1522,Education,119,10.6,Mid-Market,0,1.9,7,1,0,0,0,4,4,18.4,26.2,0
+ACC1523,Retail,748,166.2,Mid-Market,0,7.7,11,3,2,0,0,0,0,43.1,41.5,0
+ACC1524,Retail,147,24.6,Mid-Market,0,1.8,5,2,3,0,0,1,13,18.3,28.6,0
+ACC1525,Financial Services,230,39.0,Mid-Market,0,7.3,8,4,2,4,1,1,4,59.3,78.4,1
+ACC1526,Financial Services,252,44.2,Mid-Market,1,4.8,7,1,4,0,0,2,4,40.1,36.0,0
+ACC1527,Technology,20,2.2,SMB,0,6.9,12,2,2,1,0,1,12,56.1,40.2,0
+ACC1528,Technology,240,27.3,Mid-Market,0,2.8,10,3,1,1,1,1,3,44.5,57.4,1
+ACC1529,Retail,99,13.3,SMB,0,7.8,18,3,3,2,0,0,1,37.7,65.0,0
+ACC1530,Retail,128,23.2,Mid-Market,0,2.6,7,4,1,4,1,3,5,20.8,78.5,0
+ACC1531,Education,1598,184.9,Enterprise,0,4.2,8,4,1,0,0,1,17,39.0,35.3,0
+ACC1532,Education,47,4.7,SMB,0,3.5,10,2,1,0,0,4,1,23.0,41.6,0
+ACC1533,Healthcare,704,172.4,Mid-Market,1,2.0,3,1,3,0,1,1,8,12.8,36.4,0
+ACC1534,Manufacturing,170,14.2,Mid-Market,0,5.7,4,1,3,0,0,2,1,31.4,28.9,0
+ACC1535,Education,170,36.8,Mid-Market,0,9.1,11,1,1,0,0,1,0,42.6,28.8,0
+ACC1536,Retail,683,146.1,Mid-Market,0,10.0,7,2,0,1,0,2,4,50.1,31.1,0
+ACC1537,Technology,380,49.6,Mid-Market,0,5.7,6,2,2,0,1,2,10,55.3,44.9,1
+ACC1538,Financial Services,513,52.9,Mid-Market,0,7.7,7,2,2,1,0,1,3,63.1,36.4,0
+ACC1539,Technology,861,90.2,Mid-Market,1,6.0,8,0,1,0,1,1,5,49.5,31.2,0
+ACC1540,Education,159,31.6,Mid-Market,0,6.5,11,4,0,0,0,3,6,33.9,46.0,0
+ACC1541,Healthcare,110,20.8,Mid-Market,0,4.8,8,1,4,0,0,6,18,27.9,43.7,0
+ACC1542,Technology,59,12.6,SMB,0,5.9,6,1,1,2,0,3,17,53.1,30.4,0
+ACC1543,Manufacturing,83,19.9,SMB,0,6.6,10,4,0,0,1,2,0,33.6,58.5,0
+ACC1544,Healthcare,11314,2236.0,Enterprise,0,4.3,6,2,2,0,0,0,5,69.3,26.3,0
+ACC1545,Financial Services,1234,131.4,Enterprise,0,5.3,9,2,2,2,0,6,10,61.5,56.1,1
+ACC1546,Technology,42,5.1,SMB,0,5.4,4,4,0,1,1,5,19,51.3,56.0,1
+ACC1547,Manufacturing,43,9.6,SMB,0,7.2,10,1,3,1,1,6,0,35.2,69.3,0
+ACC1548,Healthcare,457,52.8,Mid-Market,1,3.4,9,3,2,0,0,0,9,15.3,35.0,0
+ACC1549,Manufacturing,498,46.0,Mid-Market,0,5.4,5,4,3,1,0,2,18,33.3,46.1,0
+ACC1550,Healthcare,499,99.6,Mid-Market,1,9.3,15,0,0,2,0,1,2,35.2,33.9,0
+ACC1551,Retail,175,26.0,Mid-Market,0,7.8,7,1,1,0,0,1,2,38.4,22.1,0
+ACC1552,Healthcare,207,48.9,Mid-Market,1,8.2,11,1,1,0,0,0,6,28.9,23.5,0
+ACC1553,Healthcare,374,71.3,Mid-Market,0,5.5,6,1,2,0,0,1,32,32.5,12.9,0
+ACC1554,Retail,273,26.0,Mid-Market,0,6.1,13,1,1,1,0,1,11,33.6,32.3,0
+ACC1555,Financial Services,13,3.1,SMB,1,7.5,8,5,5,1,0,1,5,47.0,66.3,0
+ACC1556,Technology,181,22.4,Mid-Market,0,8.6,9,3,1,0,0,1,0,63.1,37.6,0
+ACC1557,Technology,80,11.0,SMB,1,1.6,5,0,0,2,1,4,8,28.0,40.3,1
+ACC1558,Manufacturing,307,45.6,Mid-Market,1,2.9,4,0,1,1,1,5,4,12.3,42.3,0
+ACC1559,Healthcare,11858,1051.9,Enterprise,0,8.1,8,2,6,1,0,1,2,81.9,53.9,1
+ACC1560,Manufacturing,394,64.8,Mid-Market,0,4.9,6,2,2,1,0,2,6,30.7,36.7,0
+ACC1561,Technology,162,16.4,Mid-Market,0,4.2,4,1,6,0,0,2,4,48.4,39.4,0
+ACC1562,Technology,811,120.2,Mid-Market,0,3.0,5,7,3,4,1,2,0,50.2,100.0,1
+ACC1563,Technology,458,63.9,Mid-Market,0,4.4,4,2,0,0,0,2,12,51.7,18.7,0
+ACC1564,Financial Services,422,89.2,Mid-Market,0,2.7,6,1,2,1,0,2,13,45.7,28.1,0
+ACC1565,Healthcare,538,116.5,Mid-Market,0,9.7,12,3,0,1,0,2,9,47.9,42.3,0
+ACC1566,Financial Services,3545,376.1,Enterprise,1,5.5,5,0,0,1,0,0,18,71.5,5.2,1
+ACC1567,Financial Services,56,8.0,SMB,0,5.4,3,1,2,1,1,4,2,51.4,48.5,0
+ACC1568,Retail,452,64.8,Mid-Market,0,6.7,11,3,3,2,1,2,3,37.2,74.4,1
+ACC1569,Financial Services,73,7.7,SMB,1,7.4,12,1,3,1,0,4,6,47.2,49.4,0
+ACC1570,Healthcare,503,108.5,Mid-Market,0,7.4,5,3,3,0,0,1,0,39.9,39.5,0
+ACC1571,Manufacturing,74,14.8,SMB,0,7.6,9,2,1,0,1,6,21,36.8,52.8,1
+ACC1572,Financial Services,142,16.0,Mid-Market,0,4.2,5,3,1,1,0,3,6,48.2,40.1,0
+ACC1573,Healthcare,166,23.6,Mid-Market,0,4.9,10,4,2,1,1,1,3,28.7,67.1,0
+ACC1574,Retail,870,85.2,Mid-Market,0,7.0,11,1,1,1,0,0,6,41.9,28.4,0
+ACC1575,Education,807,150.7,Mid-Market,0,4.4,3,3,2,2,1,4,3,32.7,64.7,0
+ACC1576,Technology,48,4.8,SMB,1,5.5,5,2,2,1,0,2,3,40.7,36.4,0
+ACC1577,Education,262,64.9,Mid-Market,0,6.3,12,3,0,1,0,7,5,34.2,58.5,0
+ACC1578,Financial Services,97,20.6,SMB,0,7.1,14,3,0,0,0,1,6,57.4,38.6,0
+ACC1579,Technology,47,6.9,SMB,0,1.9,7,1,0,2,0,2,5,39.8,29.8,0
+ACC1580,Financial Services,184,32.8,Mid-Market,1,6.9,4,1,1,3,0,1,7,46.5,30.4,0
+ACC1581,Education,163,38.3,Mid-Market,1,5.0,7,1,0,1,0,1,15,18.0,18.0,0
+ACC1582,Financial Services,5737,999.4,Enterprise,0,6.9,9,1,0,0,0,1,0,100.0,22.0,0
+ACC1583,Financial Services,429,47.0,Mid-Market,0,7.1,9,4,0,0,0,4,16,60.3,42.0,0
+ACC1584,Healthcare,40,5.8,SMB,0,8.7,11,3,1,1,0,0,2,40.2,41.7,0
+ACC1585,Technology,117,26.1,Mid-Market,1,8.2,12,1,0,2,0,4,2,50.2,44.1,1
+ACC1586,Technology,923,174.9,Mid-Market,0,8.2,7,4,5,1,0,0,9,68.3,54.5,0
+ACC1587,Technology,3695,704.4,Enterprise,0,8.4,10,4,3,0,1,2,37,93.5,55.8,1
+ACC1588,Technology,31,7.0,SMB,0,6.1,6,3,1,0,0,0,0,53.5,30.2,0
+ACC1589,Technology,21,4.9,SMB,0,5.6,6,2,3,1,0,0,11,51.8,32.8,1
+ACC1590,Technology,2785,658.3,Enterprise,0,7.2,8,1,1,0,0,1,11,81.5,20.1,0
+ACC1591,Healthcare,406,39.0,Mid-Market,0,7.0,10,2,2,1,0,8,8,37.8,59.3,0
+ACC1592,Technology,79,13.6,SMB,0,4.9,6,3,1,1,0,1,0,50.0,38.0,0
+ACC1593,Financial Services,490,100.9,Mid-Market,0,6.3,8,1,4,2,0,0,9,58.2,39.4,0
+ACC1594,Retail,7,1.5,SMB,0,5.4,10,4,0,0,0,1,1,28.9,40.6,0
+ACC1595,Financial Services,245,44.9,Mid-Market,0,3.8,9,1,1,0,0,4,0,47.8,34.6,0
+ACC1596,Manufacturing,374,40.5,Mid-Market,0,8.1,11,3,1,1,0,1,11,41.1,41.1,0
+ACC1597,Technology,813,175.3,Mid-Market,0,5.6,13,3,2,3,0,1,12,58.8,57.3,0
+ACC1598,Technology,65,13.2,SMB,0,9.6,11,4,3,1,1,3,22,65.4,70.9,1
+ACC1599,Technology,273,25.8,Mid-Market,0,2.2,5,3,0,0,0,2,0,42.8,30.7,0
+ACC1600,Technology,73,11.6,SMB,0,4.4,6,2,3,0,0,1,4,48.3,33.6,0
+ACC1601,Technology,341,37.4,Mid-Market,0,5.6,13,2,3,0,0,2,0,54.6,48.3,0
+ACC1602,Technology,76,10.4,SMB,0,7.8,12,2,2,0,1,3,4,59.5,58.9,1
+ACC1603,Technology,143,11.9,Mid-Market,1,6.3,12,2,2,2,0,2,6,44.1,50.3,0
+ACC1604,Technology,67,9.9,SMB,0,6.1,8,1,2,0,0,1,7,53.8,25.6,0
+ACC1605,Financial Services,570,98.9,Mid-Market,0,3.2,3,4,2,1,1,3,4,48.7,62.3,0
+ACC1606,Technology,746,138.3,Mid-Market,0,3.2,3,1,2,0,0,1,12,50.2,16.3,0
+ACC1607,Financial Services,180,34.7,Mid-Market,1,6.1,9,1,0,2,0,2,5,43.8,32.7,0
+ACC1608,Healthcare,257,57.1,Mid-Market,0,2.8,2,2,0,1,1,1,7,22.6,34.3,0
+ACC1609,Manufacturing,37,4.3,SMB,0,4.4,7,3,0,2,0,2,16,25.9,37.2,0
+ACC1610,Technology,165,16.6,Mid-Market,0,6.5,15,2,1,0,0,2,1,56.0,43.0,0
+ACC1611,Manufacturing,229,51.5,Mid-Market,0,3.5,9,2,1,1,0,4,3,24.6,44.2,0
+ACC1612,Healthcare,7383,787.2,Enterprise,0,8.7,6,2,1,2,1,3,7,83.9,54.8,1
+ACC1613,Technology,57,14.0,SMB,0,7.9,14,3,0,0,0,2,14,59.7,38.4,0
+ACC1614,Retail,1641,366.3,Enterprise,0,2.4,3,4,1,0,1,2,5,33.4,50.2,0
+ACC1615,Education,894,147.6,Mid-Market,0,3.6,11,1,2,0,0,1,0,30.8,32.7,0
+ACC1616,Technology,352,86.9,Mid-Market,1,1.0,6,0,0,3,0,2,44,28.5,12.1,0
+ACC1617,Technology,2407,232.4,Enterprise,0,3.9,3,1,2,1,0,0,12,67.2,18.2,0
+ACC1618,Retail,396,52.1,Mid-Market,0,7.0,7,4,4,0,0,3,12,37.7,53.4,0
+ACC1619,Manufacturing,405,76.3,Mid-Market,1,4.7,6,0,2,1,0,0,6,19.1,19.1,0
+ACC1620,Technology,228,31.8,Mid-Market,1,6.4,14,2,0,0,1,2,7,45.2,50.0,0
+ACC1621,Technology,1200,285.4,Enterprise,1,2.5,7,1,2,0,0,0,51,40.9,4.0,0
+ACC1622,Financial Services,1017,92.7,Enterprise,1,7.1,9,0,1,1,0,1,9,54.5,21.4,0
+ACC1623,Financial Services,108,18.7,Mid-Market,1,4.4,10,1,5,0,1,2,2,37.6,59.7,0
+ACC1624,Healthcare,44,7.9,SMB,0,5.5,5,2,1,0,1,2,33,29.6,30.5,0
+ACC1625,Financial Services,187,35.7,Mid-Market,1,5.3,3,8,2,0,0,1,7,41.2,59.2,0
+ACC1626,Financial Services,86,10.6,SMB,1,3.0,3,0,0,2,0,0,0,32.7,14.1,0
+ACC1627,Manufacturing,225,31.9,Mid-Market,0,3.2,4,4,1,1,0,2,8,23.6,40.8,0
+ACC1628,Technology,1222,273.0,Enterprise,0,7.4,6,3,1,0,1,5,0,68.3,59.5,1
+ACC1629,Technology,135,15.3,Mid-Market,1,6.3,6,1,2,2,0,1,7,44.1,32.4,0
+ACC1630,Manufacturing,231,51.0,Mid-Market,0,7.6,7,3,3,0,0,3,17,38.2,41.7,0
+ACC1631,Retail,263,46.2,Mid-Market,1,6.1,13,1,2,4,0,0,7,22.5,49.5,0
+ACC1632,Healthcare,737,154.5,Mid-Market,0,5.8,7,2,3,4,0,0,4,36.7,51.6,0
+ACC1633,Healthcare,13,2.6,SMB,0,2.0,7,3,3,0,1,3,21,17.8,54.7,0
+ACC1634,Technology,111,12.8,Mid-Market,0,5.0,9,1,0,2,0,2,26,50.6,24.5,0
+ACC1635,Financial Services,322,56.9,Mid-Market,0,5.4,5,4,2,0,1,3,4,53.8,60.4,1
+ACC1636,Healthcare,1164,264.8,Enterprise,0,9.4,12,2,2,0,0,0,6,52.4,34.7,0
+ACC1637,Technology,129,19.8,Mid-Market,0,6.9,9,2,2,2,1,2,40,57.0,47.3,1
+ACC1638,Technology,21,5.1,SMB,0,8.6,12,2,0,0,0,4,1,61.7,40.6,0
+ACC1639,Financial Services,547,85.8,Mid-Market,0,6.7,14,1,1,1,1,3,3,60.1,57.4,1
+ACC1640,Technology,107,11.2,Mid-Market,0,4.1,8,2,1,0,1,2,5,47.6,45.9,1
+ACC1641,Financial Services,52,7.6,SMB,0,5.7,12,3,0,2,0,4,1,52.4,56.2,0
+ACC1642,Technology,108,26.1,Mid-Market,0,6.0,4,2,0,1,0,1,3,53.9,24.2,0
+ACC1643,Financial Services,192,25.8,Mid-Market,0,3.6,3,1,1,1,1,3,7,46.7,39.7,0
+ACC1644,Technology,111,25.3,Mid-Market,0,4.7,7,5,0,1,0,0,2,49.6,43.6,0
+ACC1645,Retail,13,3.0,SMB,0,5.1,8,4,2,1,0,0,11,28.0,43.5,0
+ACC1646,Healthcare,785,109.5,Mid-Market,0,8.7,11,1,1,2,1,1,4,46.7,51.6,0
+ACC1647,Manufacturing,1283,120.8,Enterprise,0,1.3,6,3,2,0,0,4,0,26.6,45.9,0
+ACC1648,Manufacturing,570,115.8,Mid-Market,0,7.9,6,1,3,0,1,3,14,42.2,44.3,1
+ACC1649,Financial Services,55,7.3,SMB,1,3.6,5,2,1,1,0,2,8,34.4,30.5,0
+ACC1650,Technology,188,40.1,Mid-Market,1,2.8,15,0,2,0,0,0,17,33.0,23.1,0
+ACC1651,Healthcare,242,37.6,Mid-Market,1,7.9,9,3,3,1,0,4,4,28.3,57.5,0
+ACC1652,Healthcare,532,86.4,Mid-Market,0,7.0,5,2,2,3,0,2,0,38.9,47.3,0
+ACC1653,Manufacturing,583,123.7,Mid-Market,0,8.0,6,1,2,0,0,3,0,42.6,31.2,0
+ACC1654,Financial Services,94,13.6,SMB,0,7.1,10,2,4,0,0,1,15,57.4,39.0,0
+ACC1655,Technology,272,42.3,Mid-Market,0,9.6,6,2,1,1,0,1,5,67.2,30.2,1
+ACC1656,Technology,443,63.8,Mid-Market,1,6.6,10,2,0,0,1,3,37,47.8,35.3,0
+ACC1657,Financial Services,1623,231.2,Enterprise,0,5.2,6,1,4,0,0,0,17,64.6,23.6,0
+ACC1658,Healthcare,611,103.5,Mid-Market,0,6.2,9,3,2,0,0,5,0,36.9,53.2,0
+ACC1659,Healthcare,682,148.3,Mid-Market,0,8.0,13,2,2,0,0,1,20,43.5,33.7,1
+ACC1660,Financial Services,272,38.5,Mid-Market,1,3.9,9,1,3,2,0,1,2,37.3,42.6,0
+ACC1661,Education,1530,258.8,Enterprise,1,4.2,9,2,0,0,1,5,6,27.4,51.8,0
+ACC1662,Healthcare,416,80.7,Mid-Market,0,4.9,5,1,2,1,0,3,7,30.9,31.9,0
+ACC1663,Technology,79,9.9,SMB,1,1.3,7,0,2,1,0,2,0,27.0,28.8,0
+ACC1664,Technology,1516,192.8,Enterprise,0,5.8,8,2,2,1,0,3,1,65.6,44.5,0
+ACC1665,Technology,606,144.6,Mid-Market,1,1.7,6,2,2,0,1,3,5,33.0,49.8,1
+ACC1666,Technology,137,27.8,Mid-Market,1,5.6,4,2,5,0,0,2,10,41.8,39.0,0
+ACC1667,Technology,131,23.3,Mid-Market,1,7.2,11,3,1,3,0,3,3,47.0,59.8,1
+ACC1668,Technology,359,68.3,Mid-Market,0,4.5,6,1,4,1,0,1,7,51.1,35.3,0
+ACC1669,Technology,446,37.9,Mid-Market,0,8.9,13,3,2,0,0,2,4,66.4,48.7,0
+ACC1670,Technology,316,58.5,Mid-Market,0,2.6,6,2,2,0,1,1,9,44.5,42.3,0
+ACC1671,Retail,366,61.0,Mid-Market,0,7.9,6,4,4,0,0,2,5,40.4,51.7,0
+ACC1672,Technology,2230,385.3,Enterprise,1,6.9,9,0,0,1,0,2,19,64.5,16.5,0
+ACC1673,Healthcare,985,139.0,Mid-Market,0,2.1,6,2,1,0,0,1,41,26.7,11.3,0
+ACC1674,Financial Services,313,29.4,Mid-Market,0,10.0,7,1,1,0,0,4,24,68.9,22.3,1
+ACC1675,Education,831,93.8,Mid-Market,0,5.4,4,2,1,0,0,4,1,36.2,32.8,0
+ACC1676,Technology,63,15.2,SMB,0,3.7,5,2,0,0,0,1,6,45.9,19.6,0
+ACC1677,Financial Services,410,61.3,Mid-Market,0,2.7,8,2,2,0,0,5,6,45.6,43.5,0
+ACC1678,Education,2571,409.7,Enterprise,0,5.1,9,3,2,5,1,3,18,50.6,79.3,1
+ACC1679,Retail,184,16.4,Mid-Market,0,5.2,8,2,5,2,1,3,4,29.8,74.5,0
+ACC1680,Retail,81,7.0,SMB,0,5.7,11,1,2,1,0,1,7,30.6,34.8,1
+ACC1681,Technology,104,21.0,Mid-Market,1,4.9,6,2,2,0,0,3,9,39.2,33.6,0
+ACC1682,Technology,59,10.1,SMB,0,6.8,16,2,1,0,0,2,1,56.1,44.5,0
+ACC1683,Manufacturing,88,14.7,SMB,1,4.7,10,1,1,0,0,0,8,16.3,21.3,0
+ACC1684,Education,151,18.3,Mid-Market,0,1.6,8,1,1,1,0,3,2,17.6,34.3,0
+ACC1685,Healthcare,39,8.1,SMB,0,5.2,3,1,1,1,0,1,2,28.6,21.2,0
+ACC1686,Healthcare,249,27.0,Mid-Market,0,1.0,9,3,1,0,0,1,2,16.5,36.8,0
+ACC1687,Technology,790,88.7,Mid-Market,0,6.2,9,1,0,0,0,2,1,60.6,24.5,0
+ACC1688,Manufacturing,75,11.9,SMB,0,3.5,9,1,2,2,1,3,0,23.3,60.0,1
+ACC1689,Technology,1763,226.8,Enterprise,0,5.8,3,4,1,2,0,2,10,67.8,43.4,0
+ACC1690,Financial Services,475,58.0,Mid-Market,0,8.1,8,2,3,1,0,2,28,64.1,34.9,0
+ACC1691,Financial Services,934,177.2,Mid-Market,0,3.6,2,1,4,1,0,0,11,53.2,25.0,0
+ACC1692,Healthcare,104,19.8,Mid-Market,0,7.6,16,2,1,0,0,2,3,37.1,43.7,0
+ACC1693,Technology,743,163.6,Mid-Market,0,4.6,5,2,1,0,0,1,4,54.8,24.3,0
+ACC1694,Technology,59,8.9,SMB,0,9.0,6,2,0,0,0,2,7,63.4,23.6,0
+ACC1695,Healthcare,778,71.9,Mid-Market,1,4.8,5,0,4,2,0,3,20,22.7,33.7,0
+ACC1696,Technology,305,38.6,Mid-Market,0,3.8,3,2,1,1,1,5,2,48.3,53.4,0
+ACC1697,Healthcare,502,123.8,Mid-Market,0,6.9,14,1,2,0,0,4,6,38.3,43.5,0
+ACC1698,Technology,53,9.6,SMB,1,4.6,10,0,1,1,1,6,6,37.7,53.3,1
+ACC1699,Financial Services,76,15.2,SMB,0,3.8,7,1,1,1,0,3,26,46.3,23.5,0
+ACC1700,Healthcare,531,43.1,Mid-Market,1,4.5,12,0,1,0,0,0,7,19.6,18.7,0
+ACC1701,Technology,71,11.9,SMB,0,5.4,5,1,1,0,0,2,15,51.6,17.1,0
+ACC1702,Financial Services,446,38.5,Mid-Market,1,8.2,9,1,1,2,0,2,0,53.1,38.5,0
+ACC1703,Technology,41,7.2,SMB,0,1.6,3,2,0,1,0,1,3,38.7,22.7,0
+ACC1704,Technology,737,174.3,Mid-Market,1,5.5,12,0,0,0,1,3,9,46.7,37.5,1
+ACC1705,Education,49,12.0,SMB,0,6.7,9,1,2,0,1,5,11,33.6,51.8,0
+ACC1706,Financial Services,501,86.1,Mid-Market,0,5.9,12,3,2,0,0,3,21,57.0,43.5,0
+ACC1707,Retail,551,87.0,Mid-Market,0,8.1,11,3,4,3,1,1,8,42.7,78.3,1
+ACC1708,Technology,98,23.6,SMB,0,5.4,4,4,1,2,0,2,3,51.8,47.6,0
+ACC1709,Manufacturing,521,101.3,Mid-Market,0,5.1,4,1,0,2,0,0,7,32.5,18.7,0
+ACC1710,Manufacturing,343,31.2,Mid-Market,0,6.7,12,2,2,0,0,1,12,36.2,35.3,0
+ACC1711,Healthcare,121,19.3,Mid-Market,1,5.7,3,0,1,0,0,1,15,19.9,5.4,0
+ACC1712,Financial Services,65,7.9,SMB,0,4.7,8,2,1,1,0,0,28,49.2,21.3,0
+ACC1713,Financial Services,19,3.0,SMB,1,6.5,11,3,3,1,0,1,2,43.7,52.4,0
+ACC1714,Financial Services,385,60.6,Mid-Market,0,4.2,5,2,4,1,0,1,10,50.4,38.5,0
+ACC1715,Education,32,5.7,SMB,1,4.3,10,1,1,1,0,0,2,14.5,28.5,0
+ACC1716,Retail,276,38.8,Mid-Market,1,4.4,7,0,3,1,0,3,3,17.0,34.4,0
+ACC1717,Education,173,18.7,Mid-Market,0,8.2,10,1,2,0,0,0,1,39.7,27.9,1
+ACC1718,Technology,591,97.9,Mid-Market,1,1.0,9,0,3,1,0,1,14,30.6,27.2,0
+ACC1719,Manufacturing,165,36.5,Mid-Market,1,6.3,12,1,5,1,0,1,24,22.3,41.4,0
+ACC1720,Education,159,30.7,Mid-Market,0,5.6,9,1,0,1,0,4,0,31.0,35.6,0
+ACC1721,Technology,633,87.1,Mid-Market,0,2.1,7,1,2,2,0,0,16,45.6,27.4,0
+ACC1722,Technology,378,90.4,Mid-Market,0,6.1,8,5,2,1,0,5,2,56.6,67.5,0
+ACC1723,Manufacturing,369,86.7,Mid-Market,1,6.5,12,1,0,2,0,1,6,24.8,33.8,0
+ACC1724,Healthcare,450,52.0,Mid-Market,0,6.7,3,3,2,1,1,2,13,37.2,50.0,0
+ACC1725,Retail,33,2.9,SMB,0,1.0,7,4,4,1,0,1,7,14.6,54.3,0
+ACC1726,Technology,654,134.7,Mid-Market,0,8.2,9,1,2,1,0,3,2,66.0,39.7,0
+ACC1727,Manufacturing,542,119.6,Mid-Market,0,4.0,5,2,0,0,0,4,23,29.0,21.8,0
+ACC1728,Technology,65,15.9,SMB,1,6.9,6,2,1,0,0,2,9,45.4,26.7,0
+ACC1729,Technology,178,41.2,Mid-Market,1,7.0,12,3,3,0,1,3,26,46.8,60.1,1
+ACC1730,Technology,232,42.2,Mid-Market,0,3.7,4,6,3,0,0,1,18,47.4,48.6,0
+ACC1731,Retail,205,34.9,Mid-Market,0,6.8,4,4,2,2,0,2,20,35.3,44.9,0
+ACC1732,Manufacturing,377,31.9,Mid-Market,0,4.7,3,3,1,0,0,2,4,29.9,30.1,0
+ACC1733,Healthcare,1573,191.8,Enterprise,0,1.4,7,1,2,1,0,1,43,29.5,14.9,0
+ACC1734,Financial Services,998,157.8,Mid-Market,0,7.8,5,2,2,1,1,3,19,67.7,47.7,1
+ACC1735,Retail,44,8.2,SMB,0,3.9,9,1,0,1,0,0,4,24.3,22.3,1
+ACC1736,Financial Services,549,95.9,Mid-Market,0,3.8,5,3,1,1,0,0,22,50.5,25.1,0
+ACC1737,Retail,1376,283.8,Enterprise,0,4.7,4,2,1,0,0,0,14,38.7,16.0,0
+ACC1738,Financial Services,404,51.5,Mid-Market,0,6.0,6,1,0,1,0,0,12,56.5,14.8,0
+ACC1739,Financial Services,1010,177.8,Enterprise,0,5.4,7,3,3,2,0,0,0,59.8,49.3,0
+ACC1740,Financial Services,3347,317.9,Enterprise,1,6.6,11,0,2,0,0,1,0,73.4,26.8,1
+ACC1741,Financial Services,925,139.0,Mid-Market,0,2.8,3,3,1,0,0,0,11,50.5,21.6,0
+ACC1742,Manufacturing,338,70.1,Mid-Market,0,4.0,6,1,0,3,0,0,3,27.2,28.1,0
+ACC1743,Healthcare,952,188.4,Mid-Market,1,5.3,8,1,2,0,0,3,0,25.9,34.1,0
+ACC1744,Technology,295,73.3,Mid-Market,0,9.3,11,2,0,0,0,3,3,66.4,35.4,1
+ACC1745,Retail,252,32.1,Mid-Market,0,5.3,5,1,0,2,0,0,18,30.8,15.9,0
+ACC1746,Financial Services,154,25.4,Mid-Market,0,7.7,12,2,1,0,0,2,6,59.9,36.7,0
+ACC1747,Healthcare,1867,253.9,Enterprise,0,5.6,5,1,1,1,0,2,9,46.0,24.3,0
+ACC1748,Retail,84,13.0,SMB,1,4.5,5,1,4,1,0,3,16,15.6,36.2,0
+ACC1749,Healthcare,1793,404.6,Enterprise,0,5.0,3,3,1,0,1,5,3,43.4,54.0,1
+ACC1750,Technology,468,91.9,Mid-Market,0,5.2,10,1,1,0,0,3,0,54.4,33.2,0
+ACC1751,Education,39,9.0,SMB,0,6.7,6,2,0,0,0,3,3,33.5,28.1,0
+ACC1752,Healthcare,394,45.2,Mid-Market,0,8.2,14,3,1,0,1,3,31,41.6,53.3,0
+ACC1753,Financial Services,15,3.4,SMB,1,6.2,15,2,1,0,0,1,6,42.7,38.1,0
+ACC1754,Technology,551,49.7,Mid-Market,0,7.9,6,1,2,0,0,2,8,64.1,25.2,0
+ACC1755,Manufacturing,773,178.6,Mid-Market,0,3.6,7,3,1,0,0,2,14,29.8,32.1,0
+ACC1756,Healthcare,113,15.4,Mid-Market,0,4.7,6,2,4,0,0,3,1,27.6,44.5,0
+ACC1757,Healthcare,287,38.3,Mid-Market,0,4.1,3,2,1,0,0,3,13,27.1,23.7,0
+ACC1758,Retail,3103,518.4,Enterprise,0,6.1,13,2,0,2,1,2,3,58.6,59.8,1
+ACC1759,Manufacturing,126,30.2,Mid-Market,0,4.8,8,4,2,0,0,0,4,28.0,41.4,1
+ACC1760,Technology,61,5.4,SMB,0,7.0,5,1,1,0,0,1,3,56.8,18.8,0
+ACC1761,Financial Services,1679,234.9,Enterprise,0,3.6,8,3,2,1,0,2,1,59.8,47.4,1
+ACC1762,Technology,3138,708.0,Enterprise,0,5.6,6,1,1,0,0,3,4,79.3,25.8,0
+ACC1763,Manufacturing,245,36.1,Mid-Market,0,6.9,13,2,0,1,0,0,0,36.0,35.6,0
+ACC1764,Technology,911,103.7,Mid-Market,0,1.4,5,2,5,3,0,2,18,45.7,52.0,0
+ACC1765,Healthcare,1399,212.9,Enterprise,0,9.7,10,2,1,0,0,5,3,55.4,43.7,1
+ACC1766,Manufacturing,93,13.5,SMB,1,4.9,10,4,6,1,0,2,10,17.0,68.3,0
+ACC1767,Retail,130,30.6,Mid-Market,0,1.4,4,3,3,1,0,3,3,16.8,47.6,0
+ACC1768,Financial Services,1212,253.9,Enterprise,0,5.8,4,2,2,0,0,3,2,63.0,33.4,0
+ACC1769,Retail,2187,362.8,Enterprise,0,5.6,5,3,1,1,0,1,12,48.8,31.9,0
+ACC1770,Technology,508,126.0,Mid-Market,1,5.3,5,0,2,0,0,1,9,44.1,14.5,0
+ACC1771,Retail,77,12.3,SMB,0,7.5,10,2,1,1,0,0,2,36.5,34.3,0
+ACC1772,Technology,3239,291.2,Enterprise,0,7.0,15,6,0,1,0,1,9,84.8,61.4,0
+ACC1773,Financial Services,122,15.2,Mid-Market,1,6.1,14,1,2,2,0,1,0,43.3,46.8,0
+ACC1774,Manufacturing,158,24.4,Mid-Market,1,6.4,7,0,3,1,0,2,1,22.6,32.3,0
+ACC1775,Technology,381,40.6,Mid-Market,0,5.3,6,3,2,0,0,3,13,54.0,37.9,0
+ACC1776,Technology,1845,444.8,Enterprise,0,9.1,6,4,0,1,0,2,5,79.4,41.0,0
+ACC1777,Manufacturing,742,156.1,Mid-Market,0,2.5,3,2,0,1,1,3,2,25.8,43.6,0
+ACC1778,Manufacturing,419,52.6,Mid-Market,0,5.8,9,2,2,1,0,3,7,33.9,43.6,1
+ACC1779,Healthcare,446,80.5,Mid-Market,1,5.6,8,1,2,0,0,1,6,22.5,26.0,0
+ACC1780,Manufacturing,258,52.3,Mid-Market,0,7.1,6,1,3,3,1,5,10,36.8,66.3,0
+ACC1781,Healthcare,505,121.2,Mid-Market,1,3.8,7,1,0,1,0,2,0,17.0,26.8,0
+ACC1782,Technology,9,2.1,SMB,0,2.0,7,4,2,0,1,1,17,39.8,52.4,0
+ACC1783,Financial Services,166,27.8,Mid-Market,0,5.8,4,2,1,0,0,4,0,53.7,33.2,0
+ACC1784,Technology,334,70.7,Mid-Market,0,6.1,15,2,1,0,1,4,6,56.2,61.6,1
+ACC1785,Retail,54,9.5,SMB,0,8.5,15,1,2,1,0,1,12,39.6,38.7,0
+ACC1786,Healthcare,404,70.3,Mid-Market,0,3.0,12,1,1,1,1,2,4,24.5,51.1,0
+ACC1787,Financial Services,187,18.6,Mid-Market,0,7.8,11,4,1,0,0,2,24,60.5,39.9,0
+ACC1788,Financial Services,2397,243.2,Enterprise,0,10.0,13,2,3,1,0,0,14,87.3,41.9,0
+ACC1789,Education,1891,321.5,Enterprise,0,4.7,7,2,0,1,1,3,5,43.3,48.3,0
+ACC1790,Technology,133,16.7,Mid-Market,0,2.9,6,1,2,0,0,1,2,43.8,24.6,0
+ACC1791,Healthcare,201,16.8,Mid-Market,0,4.7,6,2,1,1,0,4,0,28.3,41.0,0
+ACC1792,Healthcare,222,45.0,Mid-Market,0,5.5,4,3,2,1,0,2,16,31.2,35.7,0
+ACC1793,Healthcare,136,11.6,Mid-Market,0,6.6,10,1,2,3,0,3,2,34.1,50.9,0
+ACC1794,Technology,315,57.1,Mid-Market,0,4.3,3,2,2,1,0,1,3,50.1,30.5,0
+ACC1795,Retail,91,15.6,SMB,0,8.6,10,1,4,0,1,3,0,40.3,59.5,1
+ACC1796,Education,56,13.7,SMB,0,3.3,5,3,3,0,0,2,0,22.4,42.4,0
+ACC1797,Healthcare,549,89.1,Mid-Market,0,2.0,4,3,1,3,0,2,2,22.5,47.0,0
+ACC1798,Manufacturing,554,50.3,Mid-Market,0,7.7,6,2,1,0,0,1,20,41.4,19.5,0
+ACC1799,Education,86,14.9,SMB,1,1.0,6,0,3,0,0,1,15,4.1,17.6,0
+ACC1800,Manufacturing,783,174.6,Mid-Market,0,5.1,8,3,2,2,1,4,14,34.8,67.7,0
+ACC1801,Technology,107,26.7,Mid-Market,0,10.0,13,5,1,2,0,1,17,67.1,58.2,0
+ACC1802,Healthcare,340,52.1,Mid-Market,0,5.5,2,3,2,0,0,1,2,32.2,30.4,0
+ACC1803,Healthcare,710,95.5,Mid-Market,1,3.3,11,1,2,3,0,0,38,17.2,29.6,0
+ACC1804,Financial Services,234,54.8,Mid-Market,0,5.4,9,2,0,0,0,6,2,53.0,41.7,0
+ACC1805,Manufacturing,441,49.6,Mid-Market,0,5.4,6,2,1,0,0,1,1,32.8,26.9,0
+ACC1806,Education,125,23.1,Mid-Market,0,5.8,7,5,5,0,0,0,3,31.3,57.9,0
+ACC1807,Education,189,28.2,Mid-Market,0,6.8,13,2,0,2,0,1,7,35.2,40.7,0
+ACC1808,Financial Services,187,16.3,Mid-Market,1,3.4,7,1,1,0,0,0,1,34.9,19.6,0
+ACC1809,Technology,92,12.8,SMB,0,8.9,6,3,1,0,0,1,13,63.3,28.1,0
+ACC1810,Education,194,24.3,Mid-Market,0,6.0,6,3,1,0,0,4,4,32.6,40.4,1
+ACC1811,Retail,32,6.3,SMB,1,7.0,7,1,4,0,0,4,8,23.4,40.3,0
+ACC1812,Technology,129,31.1,Mid-Market,0,4.2,6,2,3,1,0,2,13,48.1,37.9,0
+ACC1813,Education,168,21.1,Mid-Market,0,8.1,9,3,4,0,1,3,23,39.3,60.8,0
+ACC1814,Retail,175,38.1,Mid-Market,0,5.0,7,1,1,1,0,2,17,29.1,24.1,0
+ACC1815,Healthcare,178,15.9,Mid-Market,0,6.1,16,2,4,0,0,4,7,32.8,59.7,0
+ACC1816,Healthcare,225,38.6,Mid-Market,0,3.6,1,3,2,1,1,2,47,24.9,33.9,0
+ACC1817,Financial Services,456,41.9,Mid-Market,0,3.5,8,3,2,3,0,1,7,48.7,51.9,0
+ACC1818,Technology,762,182.0,Mid-Market,0,6.9,7,2,3,0,1,1,7,62.6,48.5,1
+ACC1819,Financial Services,105,22.1,Mid-Market,1,4.6,7,0,1,3,1,4,1,38.2,54.7,0
+ACC1820,Retail,51,9.8,SMB,1,3.8,4,1,1,0,0,2,1,13.0,21.1,0
+ACC1821,Technology,63,13.9,SMB,0,4.2,8,1,2,0,1,3,1,47.5,48.4,0
+ACC1822,Financial Services,129,24.5,Mid-Market,0,6.9,9,2,1,0,0,2,8,57.0,31.5,0
+ACC1823,Financial Services,154,37.7,Mid-Market,0,4.2,7,2,0,0,0,2,5,48.3,25.9,0
+ACC1824,Healthcare,89,17.9,SMB,0,5.3,5,2,2,1,0,0,4,29.3,30.1,0
+ACC1825,Retail,45,10.7,SMB,0,5.5,9,2,2,0,0,0,1,29.6,32.3,0
+ACC1826,Financial Services,135,22.7,Mid-Market,0,1.7,8,3,2,1,0,1,4,39.9,43.3,0
+ACC1827,Financial Services,309,30.9,Mid-Market,0,2.6,3,1,5,0,1,2,4,44.4,48.7,1
+ACC1828,Manufacturing,530,90.0,Mid-Market,0,6.2,8,1,2,2,0,1,9,36.2,34.5,0
+ACC1829,Financial Services,118,12.0,Mid-Market,1,4.0,9,4,3,1,0,2,4,36.3,57.5,0
+ACC1830,Technology,143,25.8,Mid-Market,0,7.6,7,1,1,1,1,5,5,59.5,52.2,0
+ACC1831,Financial Services,73,11.8,SMB,1,7.4,6,2,4,0,0,1,3,47.2,37.9,0
+ACC1832,Technology,234,43.5,Mid-Market,0,6.9,7,2,2,1,0,3,1,58.0,43.0,0
+ACC1833,Technology,81,6.6,SMB,1,9.1,11,1,3,2,1,3,3,52.9,65.7,1
+ACC1834,Financial Services,515,58.3,Mid-Market,0,5.3,4,1,1,1,0,2,0,55.1,26.3,0
+ACC1835,Financial Services,24,3.9,SMB,0,6.8,11,1,3,1,0,1,2,55.8,40.7,0
+ACC1836,Retail,153,37.0,Mid-Market,0,4.3,11,3,5,0,0,1,3,26.6,54.9,0
+ACC1837,Financial Services,361,52.4,Mid-Market,0,10.0,7,1,1,0,0,1,1,69.3,22.5,0
+ACC1838,Healthcare,310,47.2,Mid-Market,0,9.5,13,2,3,1,0,1,10,45.2,46.3,0
+ACC1839,Healthcare,8110,1634.2,Enterprise,0,5.5,5,1,0,0,0,5,3,73.3,26.6,0
+ACC1840,Technology,385,70.3,Mid-Market,0,6.3,7,2,0,1,0,4,9,57.3,35.0,0
+ACC1841,Manufacturing,66,8.6,SMB,0,8.2,10,3,2,0,1,2,10,38.7,56.6,0
+ACC1842,Technology,216,32.4,Mid-Market,0,5.2,5,3,2,0,0,1,5,52.2,33.7,0
+ACC1843,Education,24,2.8,SMB,0,4.2,6,3,1,0,0,3,5,25.1,37.1,0
+ACC1844,Technology,220,53.7,Mid-Market,0,7.2,9,3,2,2,0,1,8,58.8,48.1,0
+ACC1845,Financial Services,82,8.4,SMB,1,5.7,5,0,2,0,0,2,3,41.6,19.8,0
+ACC1846,Technology,804,115.1,Mid-Market,0,5.9,10,1,3,1,0,1,0,59.7,40.0,1
+ACC1847,Education,119,10.0,Mid-Market,1,3.8,9,1,1,0,0,3,10,13.6,27.8,0
+ACC1848,Healthcare,210,24.7,Mid-Market,0,2.1,6,2,1,0,0,1,9,19.8,23.8,0
+ACC1849,Healthcare,107,22.8,Mid-Market,0,6.0,7,2,3,1,0,4,6,31.8,47.9,0
+ACC1850,Technology,2346,267.9,Enterprise,0,7.3,4,4,1,1,1,2,20,77.9,50.7,1
+ACC1851,Manufacturing,161,15.1,Mid-Market,0,5.0,3,1,2,1,1,1,7,29.0,37.8,1
+ACC1852,Technology,2650,425.7,Enterprise,0,8.4,4,2,0,2,0,1,3,84.2,29.1,0
+ACC1853,Retail,705,57.6,Mid-Market,0,4.1,14,4,5,0,0,3,12,30.8,67.5,1
+ACC1854,Technology,457,43.1,Mid-Market,0,3.4,4,3,1,0,0,1,32,48.4,17.8,0
+ACC1855,Technology,395,85.8,Mid-Market,0,5.4,6,1,2,1,0,1,13,54.4,25.2,0
+ACC1856,Technology,408,86.1,Mid-Market,0,5.3,7,3,0,1,0,1,23,54.2,26.6,0
+ACC1857,Financial Services,19,4.5,SMB,0,7.0,7,2,1,1,0,3,1,56.4,39.1,1
+ACC1858,Healthcare,170,38.3,Mid-Market,0,4.0,5,2,2,3,0,2,1,25.8,46.9,0
+ACC1859,Technology,734,144.0,Mid-Market,0,8.2,6,3,1,1,0,2,1,66.7,40.6,0
+ACC1860,Manufacturing,229,20.4,Mid-Market,0,9.4,8,1,2,0,0,0,12,44.1,20.7,0
+ACC1861,Financial Services,39,8.3,SMB,0,5.4,6,2,3,1,0,2,4,51.3,41.4,1
+ACC1862,Healthcare,228,51.0,Mid-Market,0,8.0,10,2,4,1,0,2,6,39.5,50.3,0
+ACC1863,Financial Services,2242,483.9,Enterprise,0,3.4,10,2,2,0,0,2,3,64.1,38.8,0
+ACC1864,Financial Services,1237,205.9,Enterprise,0,7.7,10,3,2,1,0,0,13,69.5,39.8,0
+ACC1865,Healthcare,225,26.9,Mid-Market,0,7.6,14,3,1,2,0,3,18,38.1,53.5,0
+ACC1866,Technology,842,188.4,Mid-Market,0,7.2,11,3,4,1,0,1,1,64.3,56.7,1
+ACC1867,Technology,151,30.7,Mid-Market,0,5.5,5,2,1,1,0,3,2,52.6,35.8,0
+ACC1868,Retail,26,6.4,SMB,0,1.0,8,1,1,1,0,2,4,14.6,30.6,0
+ACC1869,Education,73,7.8,SMB,0,4.2,6,3,0,1,1,1,3,25.6,47.6,0
+ACC1870,Financial Services,1866,220.9,Enterprise,0,4.2,8,2,1,0,0,2,7,63.4,30.4,1
+ACC1871,Technology,171,19.8,Mid-Market,0,3.5,5,2,2,1,0,0,13,46.2,26.6,0
+ACC1872,Healthcare,178,38.2,Mid-Market,1,5.7,6,1,4,2,0,1,15,20.4,37.1,0
+ACC1873,Financial Services,165,18.4,Mid-Market,0,4.7,5,5,0,0,0,0,2,50.1,35.8,1
+ACC1874,Technology,2908,265.6,Enterprise,0,3.9,7,6,3,0,0,0,1,71.6,56.7,1
+ACC1875,Technology,2025,505.8,Enterprise,0,3.4,6,1,2,1,0,3,4,62.2,34.5,0
+ACC1876,Manufacturing,4378,368.7,Enterprise,0,4.1,2,3,3,1,0,2,1,63.2,42.5,1
+ACC1877,Manufacturing,198,44.0,Mid-Market,1,7.7,6,1,1,0,1,2,0,27.2,39.0,0
+ACC1878,Technology,359,51.0,Mid-Market,0,4.2,5,1,0,2,0,2,2,50.1,28.0,0
+ACC1879,Technology,34,7.6,SMB,1,4.5,6,1,4,0,1,2,5,37.2,48.8,0
+ACC1880,Technology,1669,290.9,Enterprise,0,4.6,8,4,1,3,0,4,8,63.0,62.2,0
+ACC1881,Manufacturing,53,12.4,SMB,0,6.2,12,1,0,0,0,3,12,32.0,27.5,0
+ACC1882,Technology,324,76.9,Mid-Market,0,6.4,13,3,2,0,0,1,2,57.1,46.5,0
+ACC1883,Technology,58,4.7,SMB,0,1.0,6,1,1,0,1,3,17,36.9,35.3,1
+ACC1884,Manufacturing,113,10.5,Mid-Market,0,7.5,5,3,2,0,0,2,0,36.8,38.5,0
+ACC1885,Technology,82,10.1,SMB,0,8.4,16,1,0,0,1,2,5,61.6,47.8,1
+ACC1886,Manufacturing,111,21.5,Mid-Market,0,3.4,5,2,0,1,0,3,10,23.3,28.8,0
+ACC1887,Technology,121,28.0,Mid-Market,1,3.6,12,4,1,2,1,3,3,35.0,76.9,1
+ACC1888,Technology,119,18.8,Mid-Market,0,4.6,8,2,2,0,0,2,11,49.3,32.8,0
+ACC1889,Technology,722,132.3,Mid-Market,0,4.0,4,3,3,0,0,6,20,52.7,44.9,0
+ACC1890,Manufacturing,58,6.5,SMB,0,5.9,2,2,2,2,1,3,0,31.1,55.6,0
+ACC1891,Retail,325,70.5,Mid-Market,0,1.6,5,3,0,1,1,2,7,19.2,47.5,0
+ACC1892,Retail,1191,291.1,Enterprise,0,3.3,8,3,0,0,1,2,0,32.4,49.8,1
+ACC1893,Financial Services,125,15.7,Mid-Market,0,8.6,5,2,1,1,0,1,3,62.6,29.6,1
+ACC1894,Manufacturing,96,15.8,SMB,0,3.6,5,1,1,0,1,2,1,23.8,37.2,0
+ACC1895,Technology,181,17.1,Mid-Market,0,8.0,11,1,2,0,0,1,9,61.1,29.2,0
+ACC1896,Technology,1134,198.5,Enterprise,0,6.2,4,1,0,1,1,2,2,63.6,36.3,0
+ACC1897,Retail,314,52.0,Mid-Market,0,1.9,3,3,2,1,0,0,3,20.1,33.5,0
+ACC1898,Technology,122,12.8,Mid-Market,1,6.8,13,0,1,1,1,5,2,45.6,56.3,1
+ACC1899,Technology,458,71.1,Mid-Market,0,5.3,1,1,4,1,0,2,2,54.6,32.9,0
+ACC1900,Technology,58,7.9,SMB,0,4.6,9,2,4,0,0,0,2,48.8,39.7,0
+ACC1901,Technology,593,100.0,Mid-Market,0,6.0,7,2,2,0,0,1,11,58.2,28.4,0
+ACC1902,Technology,416,74.7,Mid-Market,0,6.4,4,1,1,2,0,1,31,57.9,16.2,0
+ACC1903,Healthcare,163,13.3,Mid-Market,0,6.9,12,1,0,1,0,0,6,35.3,26.0,0
+ACC1904,Financial Services,82,17.2,SMB,0,7.9,11,1,0,1,0,1,9,59.9,26.2,0
+ACC1905,Retail,77,15.5,SMB,0,6.3,10,2,1,0,0,3,17,32.5,32.4,1
+ACC1906,Retail,490,69.7,Mid-Market,0,2.7,9,1,3,1,1,6,6,24.3,65.5,1
+ACC1907,Financial Services,1209,107.6,Enterprise,0,4.6,8,2,2,2,0,4,3,59.0,51.5,0
+ACC1908,Technology,106,22.1,Mid-Market,0,10.0,10,2,4,1,0,2,30,67.1,41.0,0
+ACC1909,Financial Services,444,107.6,Mid-Market,0,6.9,9,3,2,2,0,3,23,59.8,48.1,0
+ACC1910,Healthcare,16,1.9,SMB,0,10.0,12,2,1,2,1,5,2,44.2,71.4,0
+ACC1911,Technology,114,15.4,Mid-Market,0,8.3,9,3,4,1,0,1,12,61.5,49.5,1
+ACC1912,Healthcare,235,26.1,Mid-Market,1,6.0,9,2,4,0,1,3,10,21.9,60.0,0
+ACC1913,Financial Services,74,13.2,SMB,0,6.1,7,2,0,1,0,3,10,53.9,31.7,0
+ACC1914,Healthcare,72,7.7,SMB,0,5.4,7,1,3,1,0,2,17,29.5,31.9,0
+ACC1915,Financial Services,102,14.3,Mid-Market,0,2.0,3,3,0,2,1,2,11,40.6,47.9,1
+ACC1916,Technology,357,70.9,Mid-Market,0,5.5,8,2,0,1,0,1,7,54.4,28.5,0
+ACC1917,Education,191,33.5,Mid-Market,0,7.9,11,4,4,0,0,2,18,38.8,54.0,0
+ACC1918,Manufacturing,13,1.9,SMB,1,4.3,6,1,2,1,0,0,3,14.3,26.1,0
+ACC1919,Technology,15,2.3,SMB,1,6.3,10,0,1,1,1,2,11,43.0,39.6,0
+ACC1920,Retail,111,19.5,Mid-Market,0,7.2,11,2,0,0,0,0,12,35.8,23.1,0
+ACC1921,Financial Services,443,35.9,Mid-Market,0,3.7,9,3,4,0,1,2,20,49.2,59.0,0
+ACC1922,Retail,6,0.6,SMB,0,4.6,6,4,1,0,0,2,63,26.3,17.4,0
+ACC1923,Manufacturing,127,29.2,Mid-Market,0,3.5,6,1,2,1,0,0,8,23.7,24.2,0
+ACC1924,Financial Services,123,11.5,Mid-Market,0,3.9,7,2,1,3,0,1,6,47.1,41.1,0
+ACC1925,Technology,1487,297.6,Enterprise,0,2.9,6,1,0,2,0,3,9,55.8,29.7,0
+ACC1926,Technology,148,35.0,Mid-Market,0,3.7,3,3,0,1,0,1,10,46.6,25.9,0
+ACC1927,Healthcare,402,50.7,Mid-Market,0,8.3,11,2,2,0,0,0,12,42.0,30.9,0
+ACC1928,Healthcare,294,42.0,Mid-Market,0,3.7,9,1,1,1,0,1,3,25.9,29.6,0
+ACC1929,Technology,15,2.7,SMB,0,5.8,11,1,0,0,0,1,6,52.4,22.5,0
+ACC1930,Technology,664,152.6,Mid-Market,0,4.5,2,1,0,0,0,1,4,53.8,10.1,0
+ACC1931,Retail,323,77.6,Mid-Market,0,7.9,7,4,0,2,0,1,0,40.0,46.3,0
+ACC1932,Education,473,97.3,Mid-Market,0,8.1,9,1,1,2,1,1,9,42.0,46.7,1
+ACC1933,Healthcare,40300,3817.4,Enterprise,0,7.2,8,3,0,0,1,5,20,78.9,50.7,1
+ACC1934,Technology,16,3.1,SMB,0,6.1,7,3,0,2,1,2,25,53.4,48.3,1
+ACC1935,Technology,2303,344.9,Enterprise,0,5.0,7,1,1,1,0,3,7,69.9,30.9,0
+ACC1936,Technology,168,26.9,Mid-Market,0,3.1,4,4,0,2,0,1,14,44.8,36.5,0
+ACC1937,Retail,355,31.4,Mid-Market,1,9.4,5,1,0,0,0,1,12,34.2,11.4,0
+ACC1938,Technology,230,25.9,Mid-Market,0,4.0,4,1,3,1,0,1,2,48.3,30.4,0
+ACC1939,Healthcare,140,30.0,Mid-Market,0,6.8,12,1,1,1,1,6,0,34.8,64.4,0
+ACC1940,Technology,116,18.2,Mid-Market,0,7.6,12,3,1,1,1,2,13,59.2,59.3,0
+ACC1941,Healthcare,375,49.2,Mid-Market,1,4.4,5,1,2,1,0,3,3,17.9,33.5,0
+ACC1942,Manufacturing,34,4.9,SMB,0,7.6,9,1,2,1,1,2,7,36.5,49.5,0
+ACC1943,Retail,649,146.2,Mid-Market,1,7.0,8,3,2,0,0,2,7,28.9,40.2,0
+ACC1944,Technology,142,29.4,Mid-Market,0,9.0,16,2,3,1,1,1,17,64.1,62.6,1
+ACC1945,Technology,56,7.1,SMB,1,4.6,9,1,4,2,0,1,10,37.8,43.4,0
+ACC1946,Technology,136,13.6,Mid-Market,0,2.9,5,3,0,0,0,2,18,43.9,23.7,0
+ACC1947,Retail,1254,154.0,Enterprise,0,4.5,4,2,1,0,0,0,13,37.0,16.4,0
+ACC1948,Retail,122,28.9,Mid-Market,1,5.9,5,1,2,0,1,1,86,20.6,5.0,0
+ACC1949,Healthcare,389,69.6,Mid-Market,1,5.6,6,1,0,1,0,4,19,22.0,23.8,0
+ACC1950,Healthcare,94,16.0,SMB,0,4.7,5,2,1,1,1,2,2,27.4,47.5,0
+ACC1951,Manufacturing,655,118.8,Mid-Market,0,1.7,6,1,3,3,0,1,32,22.4,31.4,0
+ACC1952,Technology,596,84.8,Mid-Market,0,6.4,10,4,0,1,1,2,4,59.5,61.9,1
+ACC1953,Retail,2705,587.5,Enterprise,0,9.4,21,4,1,0,1,1,9,66.0,72.1,0
+ACC1954,Financial Services,194,32.8,Mid-Market,0,6.4,14,3,3,0,0,1,28,56.0,41.8,0
+ACC1955,Financial Services,583,58.2,Mid-Market,1,6.7,11,1,1,0,1,3,2,49.4,48.5,0
+ACC1956,Healthcare,277,28.2,Mid-Market,0,6.6,7,2,1,1,0,0,19,35.3,23.3,0
+ACC1957,Technology,1319,225.9,Enterprise,0,6.3,12,1,1,5,1,5,30,65.5,69.3,1
+ACC1958,Technology,96,23.0,SMB,0,7.4,12,3,2,1,0,1,19,58.4,43.3,0
+ACC1959,Manufacturing,644,85.3,Mid-Market,0,6.3,21,2,0,2,0,3,17,37.5,54.3,0
+ACC1960,Technology,189,43.1,Mid-Market,0,4.9,3,1,0,0,0,1,3,51.0,12.0,0
+ACC1961,Healthcare,225,47.2,Mid-Market,0,3.9,4,2,0,1,0,1,5,25.9,23.4,0
+ACC1962,Technology,275,33.6,Mid-Market,0,5.0,7,3,2,1,0,2,14,52.0,40.9,0
+ACC1963,Financial Services,339,29.2,Mid-Market,0,6.1,11,1,0,2,0,0,1,56.2,31.3,0
+ACC1964,Technology,210,20.4,Mid-Market,0,4.9,7,3,1,4,1,1,21,51.1,60.6,0
+ACC1965,Financial Services,323,65.8,Mid-Market,1,6.1,14,0,3,1,0,3,2,45.1,45.1,0
+ACC1966,Manufacturing,1903,216.8,Enterprise,1,6.4,8,1,0,1,0,3,8,38.0,28.1,0
+ACC1967,Technology,881,126.1,Mid-Market,0,7.2,15,2,2,1,1,1,1,64.7,63.5,1
+ACC1968,Healthcare,757,125.1,Mid-Market,0,8.1,16,3,0,0,1,5,2,44.5,69.5,0
+ACC1969,Financial Services,135,27.4,Mid-Market,0,5.7,9,2,3,3,0,1,8,53.1,51.0,0
+ACC1970,Manufacturing,77,7.6,SMB,0,2.9,8,1,0,2,0,2,10,21.3,29.3,0
+ACC1971,Education,847,126.3,Mid-Market,0,4.8,7,1,0,1,0,1,3,34.4,22.7,0
+ACC1972,Manufacturing,764,124.1,Mid-Market,0,5.6,5,1,1,1,0,1,1,36.3,24.5,1
+ACC1973,Technology,1659,285.2,Enterprise,0,1.8,9,3,2,1,0,2,7,53.7,46.5,0
+ACC1974,Technology,111,24.3,Mid-Market,0,8.3,12,6,1,1,0,1,18,61.5,57.4,1
+ACC1975,Technology,181,19.8,Mid-Market,0,5.8,8,2,1,1,0,0,2,53.9,31.4,0
+ACC1976,Healthcare,29,6.3,SMB,1,6.3,10,0,5,1,0,1,11,21.1,37.7,1
+ACC1977,Technology,146,28.9,Mid-Market,0,8.2,7,2,3,1,0,1,4,61.5,39.9,0
+ACC1978,Financial Services,893,155.8,Mid-Market,1,4.2,6,1,2,1,0,4,28,43.8,28.1,0
+ACC1979,Healthcare,133,26.5,Mid-Market,0,6.6,11,1,5,1,0,0,0,34.0,46.3,0
+ACC1980,Financial Services,562,84.3,Mid-Market,0,5.3,11,1,1,0,1,6,0,55.6,58.0,0
+ACC1981,Manufacturing,191,19.8,Mid-Market,0,5.1,8,2,0,1,1,2,1,29.6,48.4,0
+ACC1982,Technology,372,71.9,Mid-Market,0,4.0,1,2,1,0,0,2,15,49.6,17.1,0
+ACC1983,Technology,55,9.3,SMB,0,8.8,7,2,2,1,1,1,25,62.7,42.4,1
+ACC1984,Manufacturing,273,51.5,Mid-Market,0,4.7,7,3,1,0,0,2,17,29.0,30.9,0
+ACC1985,Financial Services,5,0.7,SMB,0,6.9,15,1,0,0,0,0,12,55.9,23.1,0
+ACC1986,Manufacturing,191,44.7,Mid-Market,0,1.7,9,4,0,1,0,5,0,18.3,56.1,0
+ACC1987,Financial Services,29,5.2,SMB,1,7.9,9,1,0,0,0,1,2,48.4,21.2,0
+ACC1988,Technology,1173,110.9,Enterprise,0,7.6,13,3,0,0,1,2,27,68.6,46.5,1
+ACC1989,Retail,672,105.1,Mid-Market,0,5.7,7,2,1,0,0,4,9,35.8,34.0,0
+ACC1990,Manufacturing,448,93.4,Mid-Market,0,5.0,3,2,1,1,0,3,6,31.5,31.3,0
+ACC1991,Manufacturing,1767,379.9,Enterprise,0,6.3,10,2,1,0,0,1,10,47.4,29.3,1
+ACC1992,Technology,71,11.6,SMB,0,10.0,12,1,1,2,0,1,1,66.8,39.6,0
+ACC1993,Healthcare,2372,550.6,Enterprise,0,2.0,4,1,2,2,0,3,22,38.6,29.5,1
+ACC1994,Financial Services,822,103.2,Mid-Market,0,7.1,12,1,2,2,0,2,10,63.8,42.9,1
+ACC1995,Technology,179,26.8,Mid-Market,0,3.7,6,1,2,1,0,2,6,46.9,30.8,0
+ACC1996,Retail,1070,249.1,Enterprise,0,5.5,9,1,1,2,0,1,6,38.7,33.3,0
+ACC1997,Technology,58,13.5,SMB,0,5.0,1,3,1,0,0,3,17,50.1,25.1,0
+ACC1998,Education,83,16.3,SMB,1,4.6,5,2,0,1,0,0,3,15.9,22.7,0
+ACC1999,Financial Services,110,24.9,Mid-Market,0,5.5,3,3,1,1,0,5,1,52.2,45.0,0
+ACC2000,Technology,123,11.7,Mid-Market,0,3.2,9,2,1,1,0,2,2,44.7,38.7,0
+ACC2001,Healthcare,61,13.8,SMB,1,7.6,20,0,1,0,0,6,0,25.7,50.7,0
+ACC2002,Retail,1199,161.3,Enterprise,0,1.9,12,1,2,0,0,1,7,27.9,31.4,0
+ACC2003,Manufacturing,174,19.2,Mid-Market,0,6.6,6,3,1,1,0,2,11,34.4,36.7,1
+ACC2004,Retail,386,46.6,Mid-Market,0,4.8,7,2,1,0,0,1,27,30.3,18.2,0
+ACC2005,Manufacturing,116,17.5,Mid-Market,0,3.2,4,2,1,1,0,4,13,22.6,33.0,0
+ACC2006,Manufacturing,22,2.7,SMB,1,5.9,7,1,3,1,0,0,8,19.7,29.6,0
+ACC2007,Retail,347,46.7,Mid-Market,0,2.4,5,4,0,0,0,1,19,22.0,26.2,0
+ACC2008,Technology,20,2.1,SMB,0,5.6,3,2,1,1,0,3,22,51.8,25.1,0
+ACC2009,Financial Services,223,29.1,Mid-Market,0,2.7,4,3,1,2,0,0,12,44.0,32.4,0
+ACC2010,Technology,41,7.3,SMB,1,6.4,11,1,3,0,0,1,0,43.6,36.6,0
+ACC2011,Education,3240,502.6,Enterprise,0,3.7,8,2,0,0,0,3,3,51.8,31.0,0
+ACC2012,Education,800,111.2,Mid-Market,0,4.6,2,1,2,0,0,5,4,33.3,29.7,0
+ACC2013,Technology,280,57.9,Mid-Market,1,6.1,12,0,3,1,0,1,59,44.7,14.0,0
+ACC2014,Manufacturing,1264,293.1,Enterprise,0,4.0,4,1,4,0,0,2,6,35.4,30.8,0
+ACC2015,Education,81,16.9,SMB,0,5.4,9,2,2,2,1,4,14,29.6,63.3,1
+ACC2016,Technology,495,67.5,Mid-Market,0,2.5,7,1,4,0,1,3,16,45.7,48.9,0
+ACC2017,Healthcare,317,65.5,Mid-Market,0,6.8,7,1,5,3,1,3,10,36.3,69.8,0
+ACC2018,Retail,344,36.4,Mid-Market,0,9.0,7,4,1,2,1,2,0,43.8,67.8,0
+ACC2019,Technology,1279,130.7,Enterprise,0,10.0,8,2,1,2,1,3,0,77.4,60.5,1
+ACC2020,Manufacturing,634,88.0,Mid-Market,0,5.7,8,4,0,0,1,2,17,35.5,49.0,0
+ACC2021,Technology,356,77.4,Mid-Market,0,7.1,6,1,3,1,0,6,13,59.7,43.7,0
+ACC2022,Education,28,3.4,SMB,0,1.9,5,3,3,0,0,2,7,17.6,39.7,0
+ACC2023,Education,70,6.4,SMB,0,8.5,8,1,3,2,0,1,2,39.8,41.2,0
+ACC2024,Education,208,21.3,Mid-Market,0,7.1,6,4,0,0,0,3,0,36.3,41.0,0
+ACC2025,Financial Services,276,62.4,Mid-Market,1,4.5,2,1,0,1,0,4,1,39.4,25.0,0
+ACC2026,Retail,56,10.5,SMB,0,8.0,12,3,1,0,1,2,8,38.0,56.4,1
+ACC2027,Retail,5626,692.2,Enterprise,1,5.0,9,0,2,0,1,2,7,60.6,38.7,0
+ACC2028,Financial Services,1756,306.2,Enterprise,0,4.6,7,1,0,0,0,2,28,63.8,11.0,1
+ACC2029,Retail,535,90.8,Mid-Market,0,6.5,8,3,1,0,0,0,31,37.2,21.1,0
+ACC2030,Technology,268,51.3,Mid-Market,0,3.4,10,2,2,1,0,3,8,46.7,44.7,1
+ACC2031,Healthcare,185,22.1,Mid-Market,0,7.5,10,3,1,0,0,2,18,37.5,34.9,0
+ACC2032,Technology,70,15.9,SMB,0,3.4,4,4,1,1,0,1,16,44.9,34.7,0
+ACC2033,Technology,270,35.8,Mid-Market,0,3.4,7,2,1,0,1,2,13,46.7,41.3,0
+ACC2034,Technology,342,67.7,Mid-Market,1,3.7,6,2,2,1,1,2,5,37.3,51.7,1
+ACC2035,Manufacturing,48,4.0,SMB,0,7.0,8,3,1,0,0,2,4,34.6,37.5,0
+ACC2036,Financial Services,377,54.0,Mid-Market,0,4.3,2,1,0,0,0,4,3,50.6,19.3,0
+ACC2037,Manufacturing,199,27.8,Mid-Market,1,2.8,9,0,0,0,0,3,27,11.0,11.4,0
+ACC2038,Technology,20,3.4,SMB,1,4.3,1,1,1,0,0,1,17,36.4,7.5,0
+ACC2039,Financial Services,79,7.3,SMB,1,5.4,7,0,4,1,0,3,1,40.6,39.1,0
+ACC2040,Healthcare,142,30.4,Mid-Market,0,3.1,5,2,1,0,1,4,2,22.5,48.5,0
+ACC2041,Manufacturing,2846,333.0,Enterprise,0,3.2,9,2,1,1,0,3,8,46.7,39.3,0
+ACC2042,Financial Services,504,98.3,Mid-Market,0,9.7,13,2,2,0,0,2,5,69.6,42.4,0
+ACC2043,Healthcare,43,9.3,SMB,0,3.8,6,4,3,0,1,2,2,24.0,63.6,0
+ACC2044,Retail,460,80.7,Mid-Market,0,4.9,4,2,1,1,0,1,15,31.3,23.4,1
+ACC2045,Healthcare,32,6.6,SMB,0,4.8,6,4,2,1,0,0,0,27.2,44.9,0
+ACC2046,Technology,999,192.3,Mid-Market,0,4.7,2,1,2,2,0,1,4,57.4,27.7,1
+ACC2047,Technology,132,18.5,Mid-Market,0,6.7,6,5,0,0,0,0,26,56.4,27.9,0
+ACC2048,Retail,216,47.0,Mid-Market,0,7.4,13,2,1,1,0,4,14,37.4,45.8,0
+ACC2049,Technology,1371,178.4,Enterprise,0,4.9,8,2,0,0,0,2,5,61.4,27.3,0
+ACC2050,Retail,45,8.0,SMB,0,3.0,6,1,0,2,0,2,26,21.3,20.1,0
+ACC2051,Healthcare,39,8.1,SMB,0,8.0,7,1,0,1,1,5,23,37.8,41.3,0
+ACC2052,Education,114,16.5,Mid-Market,0,5.3,6,5,2,1,0,2,0,29.6,56.6,0
+ACC2053,Manufacturing,943,124.0,Mid-Market,0,9.0,10,2,2,0,0,3,1,49.1,42.5,1
+ACC2054,Education,33,5.2,SMB,0,1.0,9,4,2,2,0,1,4,14.6,55.5,0
+ACC2055,Financial Services,6,1.3,SMB,0,5.9,5,3,3,2,0,2,26,52.6,42.0,0
+ACC2056,Manufacturing,136,32.4,Mid-Market,0,9.3,12,1,2,0,1,2,18,43.0,44.7,0
+ACC2057,Financial Services,501,86.5,Mid-Market,1,4.8,5,1,3,3,1,3,0,42.3,62.9,0
+ACC2058,Financial Services,1164,224.0,Enterprise,0,5.0,4,1,0,1,0,2,7,59.9,19.7,1
+ACC2059,Healthcare,134,31.3,Mid-Market,0,6.1,12,2,0,1,0,3,12,32.4,38.2,0
+ACC2060,Retail,143,13.8,Mid-Market,0,4.4,4,1,1,0,0,1,3,26.8,17.4,0
+ACC2061,Education,1096,130.9,Enterprise,0,4.9,6,2,0,0,1,2,12,36.9,36.3,1
+ACC2062,Manufacturing,21,4.2,SMB,0,4.8,7,3,4,0,0,3,4,27.1,50.6,0
+ACC2063,Financial Services,147,32.3,Mid-Market,0,4.2,8,2,0,0,0,0,3,48.3,22.2,0
+ACC2064,Financial Services,313,70.6,Mid-Market,0,8.0,8,1,2,0,0,2,4,62.3,29.7,0
+ACC2065,Manufacturing,438,65.9,Mid-Market,0,6.4,11,2,1,1,0,3,30,36.1,33.7,0
+ACC2066,Technology,126,12.0,Mid-Market,0,6.0,5,3,1,0,0,5,23,54.0,34.4,0
+ACC2067,Technology,255,39.4,Mid-Market,0,7.1,14,3,2,2,1,3,24,58.8,69.7,1
+ACC2068,Financial Services,9,1.1,SMB,0,5.0,6,5,3,0,0,1,24,49.7,43.3,0
+ACC2069,Technology,103,13.3,Mid-Market,0,4.0,3,2,4,1,0,1,1,47.2,39.1,0
+ACC2070,Technology,441,93.2,Mid-Market,0,4.3,7,2,1,2,0,1,22,51.2,30.0,0
+ACC2071,Technology,68,6.3,SMB,0,5.5,7,1,1,2,1,2,2,51.9,49.5,1
+ACC2072,Technology,264,58.3,Mid-Market,1,3.4,6,0,2,3,0,0,18,35.6,24.2,0
+ACC2073,Technology,437,66.7,Mid-Market,0,4.5,7,2,5,0,0,1,7,51.8,41.7,0
+ACC2074,Education,156,28.3,Mid-Market,0,4.5,5,2,2,0,0,1,2,27.3,29.0,1
+ACC2075,Financial Services,305,29.0,Mid-Market,1,9.7,9,2,3,0,1,1,5,56.8,52.2,0
+ACC2076,Financial Services,69,9.5,SMB,0,1.0,4,1,2,1,0,2,5,37.0,28.3,0
+ACC2077,Manufacturing,187,17.8,Mid-Market,0,5.1,1,4,3,0,0,3,13,29.5,40.3,0
+ACC2078,Technology,540,131.5,Mid-Market,0,9.0,7,2,1,0,0,2,9,67.6,28.2,0
+ACC2079,Education,300,65.2,Mid-Market,0,5.7,3,1,1,3,1,1,16,32.5,40.1,1
+ACC2080,Manufacturing,114,18.0,Mid-Market,1,7.0,11,2,3,2,0,3,5,24.2,56.1,0
+ACC2081,Technology,327,38.6,Mid-Market,0,5.7,10,2,2,1,0,2,13,54.8,39.8,1
+ACC2082,Financial Services,619,147.7,Mid-Market,0,4.2,2,1,2,1,0,1,15,52.4,18.5,0
+ACC2083,Retail,17,2.4,SMB,0,1.0,6,2,0,2,1,2,0,14.5,50.7,1
+ACC2084,Education,1104,118.5,Enterprise,0,5.9,6,3,1,1,0,0,4,40.3,33.6,0
+ACC2085,Financial Services,158,27.8,Mid-Market,1,3.9,4,3,1,0,0,5,21,36.3,33.8,0
+ACC2086,Healthcare,425,102.2,Mid-Market,0,3.9,5,2,2,1,0,1,12,27.7,30.0,0
+ACC2087,Technology,1160,93.6,Enterprise,0,4.5,5,2,1,0,0,1,5,58.2,23.9,0
+ACC2088,Education,41,4.9,SMB,0,9.0,8,3,2,2,0,2,2,41.2,51.9,1
+ACC2089,Technology,97,23.2,SMB,0,10.0,10,2,1,1,0,1,1,67.0,37.7,0
+ACC2090,Education,168,18.3,Mid-Market,0,5.9,4,4,0,2,1,2,2,32.0,58.7,1
+ACC2091,Healthcare,88,8.7,SMB,0,4.6,5,2,6,1,0,2,2,27.0,52.4,0
+ACC2092,Healthcare,2334,413.0,Enterprise,0,3.1,6,2,1,0,0,3,4,41.9,31.6,1
+ACC2093,Healthcare,80,18.1,SMB,0,6.4,5,1,2,0,0,2,1,32.9,26.4,0
+ACC2094,Technology,118,19.0,Mid-Market,1,9.1,12,0,0,0,1,3,1,53.2,40.6,1
+ACC2095,Technology,319,79.5,Mid-Market,0,5.0,2,3,5,1,1,2,18,52.4,58.3,0
+ACC2096,Technology,51,10.0,SMB,0,1.0,5,2,1,0,1,3,2,36.8,45.6,0
+ACC2097,Technology,146,13.5,Mid-Market,1,6.8,18,2,0,1,0,2,8,45.8,45.7,1
+ACC2098,Manufacturing,369,91.8,Mid-Market,0,7.5,10,1,1,1,0,1,2,39.1,31.4,0
+ACC2099,Financial Services,158,23.6,Mid-Market,1,2.3,5,1,1,1,0,2,6,31.1,25.5,0
+ACC2100,Technology,216,27.8,Mid-Market,1,5.9,6,1,2,0,1,4,3,43.5,47.6,0
+ACC2101,Education,122,21.3,Mid-Market,0,6.4,16,2,0,1,0,1,0,33.3,42.9,0
+ACC2102,Retail,34,4.5,SMB,0,5.4,1,2,1,0,0,4,40,29.2,13.2,0
+ACC2103,Education,371,35.1,Mid-Market,0,3.9,9,3,2,0,0,4,6,27.2,47.9,0
+ACC2104,Education,2395,192.2,Enterprise,0,7.5,14,1,1,0,0,1,4,57.0,31.6,0
+ACC2105,Technology,250,39.1,Mid-Market,0,4.7,4,2,1,2,0,1,2,50.8,33.4,0
+ACC2106,Financial Services,327,72.7,Mid-Market,0,2.5,3,1,1,0,0,1,6,44.2,14.7,0
+ACC2107,Manufacturing,602,106.7,Mid-Market,0,1.4,9,2,1,1,0,1,10,21.0,32.7,0
+ACC2108,Manufacturing,46,11.5,SMB,0,8.0,5,1,1,3,0,2,3,37.9,36.4,0
+ACC2109,Technology,2237,288.0,Enterprise,0,6.7,6,2,1,0,0,1,6,75.0,25.0,0
+ACC2110,Retail,318,40.6,Mid-Market,1,5.7,8,1,1,0,1,3,2,21.7,44.1,1
+ACC2111,Technology,2041,218.7,Enterprise,0,4.6,6,3,1,0,0,3,7,66.3,36.3,0
+ACC2112,Technology,94,10.1,SMB,0,4.4,12,1,0,1,0,1,15,48.5,25.4,0
+ACC2113,Healthcare,2600,334.1,Enterprise,0,3.3,7,1,2,0,0,4,0,44.9,35.6,0
+ACC2114,Healthcare,670,143.9,Mid-Market,1,4.6,7,1,1,0,0,2,7,21.1,23.1,0
+ACC2115,Healthcare,502,117.5,Mid-Market,1,1.3,9,1,2,1,0,1,5,8.7,32.7,0
+ACC2116,Technology,331,81.3,Mid-Market,0,4.0,3,1,1,0,0,1,0,49.2,17.1,0
+ACC2117,Retail,177,21.1,Mid-Market,1,4.9,5,3,0,0,0,1,28,17.8,16.9,0
+ACC2118,Technology,1165,267.7,Enterprise,0,6.7,6,2,1,0,0,2,3,65.5,29.1,0
+ACC2119,Technology,293,39.8,Mid-Market,1,5.4,3,0,0,0,0,3,8,42.5,10.0,0
+ACC2120,Retail,18,1.8,SMB,0,7.1,14,2,2,1,1,2,4,34.7,63.8,0
+ACC2121,Education,57,13.0,SMB,0,8.2,10,2,1,1,0,2,3,38.7,39.8,0
+ACC2122,Retail,192,36.1,Mid-Market,0,7.6,7,2,2,1,1,3,7,37.9,55.3,0
+ACC2123,Retail,366,39.5,Mid-Market,0,6.4,19,1,2,0,0,0,11,35.4,37.2,0
+ACC2124,Manufacturing,227,34.7,Mid-Market,0,5.5,6,4,2,0,0,2,15,31.2,40.0,0
+ACC2125,Healthcare,1193,153.7,Enterprise,0,3.5,6,1,5,1,0,4,10,33.1,46.8,0
+ACC2126,Technology,19,3.9,SMB,1,7.0,3,3,1,1,1,2,7,45.4,48.5,1
+ACC2127,Financial Services,294,46.2,Mid-Market,0,8.9,9,1,1,1,0,2,15,65.1,27.8,0
+ACC2128,Financial Services,23,5.7,SMB,0,6.2,4,5,1,0,0,5,7,53.8,50.9,0
+ACC2129,Technology,656,58.6,Mid-Market,0,9.3,11,4,1,1,0,1,36,69.6,37.2,0
+ACC2130,Manufacturing,216,30.3,Mid-Market,0,2.4,4,4,0,0,0,1,7,20.9,29.5,0
+ACC2131,Financial Services,422,68.3,Mid-Market,1,3.2,6,2,3,0,0,1,3,36.4,34.0,0
+ACC2132,Technology,79,13.1,SMB,0,7.2,10,2,2,2,0,3,5,57.6,50.7,0
+ACC2133,Technology,1291,172.6,Enterprise,0,6.0,9,5,0,2,0,0,6,64.3,49.9,1
+ACC2134,Manufacturing,947,193.2,Mid-Market,0,8.1,9,2,2,0,0,1,3,46.2,34.4,1
+ACC2135,Technology,522,119.4,Mid-Market,0,5.5,9,1,3,1,0,2,1,55.9,41.1,1
+ACC2136,Retail,206,49.4,Mid-Market,1,3.8,5,3,2,0,0,0,5,14.4,30.7,1
+ACC2137,Financial Services,519,112.6,Mid-Market,0,5.1,4,3,1,1,0,3,22,54.5,32.4,0
+ACC2138,Financial Services,97,21.8,SMB,1,2.4,7,0,1,1,0,3,2,30.8,27.0,0
+ACC2139,Healthcare,744,129.2,Mid-Market,0,3.2,8,3,1,2,0,0,4,28.2,41.4,0
+ACC2140,Retail,2088,460.2,Enterprise,0,7.4,5,3,0,1,0,2,14,53.9,30.1,0
+ACC2141,Financial Services,984,129.5,Mid-Market,1,7.2,6,2,2,0,0,4,0,54.5,40.0,1
+ACC2142,Manufacturing,94,13.9,SMB,0,6.2,13,3,2,2,0,0,17,32.4,47.5,0
+ACC2143,Healthcare,391,52.3,Mid-Market,0,2.1,6,2,2,4,0,2,12,21.4,49.0,0
+ACC2144,Technology,45,7.2,SMB,0,4.8,5,2,2,2,0,4,7,49.3,45.6,0
+ACC2145,Retail,514,66.1,Mid-Market,0,3.1,5,2,0,1,0,0,2,25.8,23.1,0
+ACC2146,Manufacturing,439,106.9,Mid-Market,1,7.9,9,1,2,0,1,3,0,30.0,50.2,0
+ACC2147,Manufacturing,21,2.8,SMB,0,4.3,7,3,2,0,0,3,2,25.4,43.6,0
+ACC2148,Retail,54,5.2,SMB,1,3.3,4,3,1,1,0,0,14,11.4,26.7,0
+ACC2149,Retail,169,28.7,Mid-Market,0,5.6,12,1,2,2,0,2,27,31.0,36.3,0
+ACC2150,Manufacturing,165,14.8,Mid-Market,0,4.2,7,2,2,1,0,1,13,26.4,32.5,0
+ACC2151,Retail,50,4.9,SMB,0,8.5,11,4,4,0,0,2,7,39.6,58.2,0
+ACC2152,Manufacturing,405,47.5,Mid-Market,0,4.0,6,3,1,2,0,6,30,27.8,45.9,0
+ACC2153,Manufacturing,339,53.9,Mid-Market,1,2.7,9,0,4,0,1,2,17,11.9,42.6,0
+ACC2154,Healthcare,190,29.2,Mid-Market,0,1.2,6,1,2,0,0,1,10,16.7,21.5,0
+ACC2155,Manufacturing,91,19.7,SMB,0,5.4,11,1,3,2,0,2,0,29.7,49.3,0
+ACC2156,Technology,956,196.7,Mid-Market,1,4.4,9,0,1,1,0,2,3,45.0,26.6,0
+ACC2157,Retail,2104,320.8,Enterprise,0,2.6,6,4,0,0,0,0,3,38.2,31.0,0
+ACC2158,Retail,130,17.8,Mid-Market,0,7.9,12,1,1,1,1,1,4,38.3,48.2,0
+ACC2159,Technology,110,14.7,Mid-Market,0,6.8,8,4,3,4,0,2,4,56.5,70.6,1
+ACC2160,Retail,463,98.0,Mid-Market,0,5.4,7,2,1,0,0,1,28,33.0,17.9,0
+ACC2161,Technology,153,13.6,Mid-Market,0,8.2,10,1,2,1,0,3,13,61.5,36.9,0
+ACC2162,Financial Services,204,16.8,Mid-Market,0,6.8,15,3,0,1,0,4,11,57.4,51.8,0
+ACC2163,Manufacturing,640,137.8,Mid-Market,0,3.9,2,4,1,0,0,0,5,29.6,28.3,0
+ACC2164,Technology,20,3.2,SMB,0,3.4,8,1,3,0,1,3,4,44.5,51.1,0
+ACC2165,Retail,1358,138.9,Enterprise,0,7.1,15,3,1,1,0,0,1,46.5,47.9,0
+ACC2166,Retail,268,32.2,Mid-Market,0,6.3,12,2,1,1,1,5,6,34.2,65.0,0
+ACC2167,Healthcare,143,34.1,Mid-Market,0,5.8,4,1,1,1,0,2,2,31.5,25.6,0
+ACC2168,Technology,217,49.1,Mid-Market,1,3.8,4,1,1,0,0,3,4,36.5,22.8,0
+ACC2169,Technology,233,46.8,Mid-Market,0,6.7,15,2,3,1,0,0,1,57.3,49.9,0
+ACC2170,Healthcare,25,4.0,SMB,0,4.0,7,1,2,0,1,2,4,24.5,42.8,0
+ACC2171,Education,1708,287.7,Enterprise,0,5.3,5,5,4,1,0,1,0,43.6,60.0,0
+ACC2172,Healthcare,258,63.4,Mid-Market,0,8.4,7,2,1,1,0,2,0,41.1,36.6,0
+ACC2173,Technology,435,106.2,Mid-Market,0,4.2,10,3,0,1,0,1,20,50.8,32.2,1
+ACC2174,Healthcare,843,98.3,Mid-Market,0,2.4,8,3,3,0,0,5,10,26.4,51.7,0
+ACC2175,Healthcare,64,13.9,SMB,0,3.4,5,1,0,0,0,2,8,22.8,15.9,0
+ACC2176,Manufacturing,452,51.3,Mid-Market,0,7.5,9,4,1,0,0,3,7,39.8,46.5,0
+ACC2177,Technology,172,20.0,Mid-Market,0,6.0,10,2,2,2,0,4,12,54.4,50.9,0
+ACC2178,Manufacturing,735,143.3,Mid-Market,0,5.2,10,2,3,4,0,2,13,34.7,58.3,0
+ACC2179,Healthcare,15,2.2,SMB,0,4.5,4,2,1,0,0,0,27,26.0,10.9,1
+ACC2180,Education,215,51.2,Mid-Market,0,6.5,6,2,0,0,0,1,2,34.4,22.6,0
+ACC2181,Financial Services,111,10.6,Mid-Market,0,3.8,4,1,2,1,0,1,15,46.6,21.5,0
+ACC2182,Healthcare,429,71.6,Mid-Market,0,6.1,12,4,1,1,1,2,47,35.0,51.9,0
+ACC2183,Education,450,106.3,Mid-Market,0,4.0,9,2,4,0,1,2,0,28.2,61.0,1
+ACC2184,Technology,97,22.7,SMB,0,3.7,7,3,3,1,0,2,4,46.2,48.7,0
+ACC2185,Education,96,10.2,SMB,0,4.2,8,2,4,1,1,4,5,25.8,68.3,0
+ACC2186,Manufacturing,211,30.0,Mid-Market,1,4.7,9,1,0,0,1,2,17,17.4,32.9,0
+ACC2187,Technology,76,14.1,SMB,1,5.4,4,0,1,1,0,3,0,40.6,23.4,1
+ACC2188,Financial Services,731,78.3,Mid-Market,0,6.0,3,2,0,2,0,3,9,59.4,31.1,0
+ACC2189,Manufacturing,151,36.9,Mid-Market,0,1.0,4,4,4,0,1,2,22,15.7,56.8,0
+ACC2190,Technology,5,1.2,SMB,0,3.9,11,1,0,0,0,2,1,46.0,27.4,0
+ACC2191,Healthcare,150,16.3,Mid-Market,0,4.7,13,2,0,0,0,0,1,27.9,30.3,1
+ACC2192,Financial Services,63,6.3,SMB,0,8.5,9,1,1,0,0,5,84,61.7,4.8,0
+ACC2193,Healthcare,29,2.7,SMB,0,3.3,7,2,0,1,0,0,17,22.2,20.2,0
+ACC2194,Technology,48,11.3,SMB,0,5.8,6,4,1,1,0,3,11,52.7,45.5,0
+ACC2195,Retail,282,31.8,Mid-Market,0,8.5,9,3,0,2,1,3,5,41.6,62.0,1
+ACC2196,Education,1376,207.5,Enterprise,0,2.9,8,4,1,1,0,1,19,32.8,39.4,0
+ACC2197,Education,367,57.4,Mid-Market,0,6.3,9,3,3,0,1,3,25,35.1,56.1,0
+ACC2198,Manufacturing,111,20.2,Mid-Market,0,3.9,10,1,2,0,0,3,13,24.9,32.0,0
+ACC2199,Technology,442,40.8,Mid-Market,0,4.5,3,1,1,1,0,1,5,51.9,20.0,0
+ACC2200,Manufacturing,134,15.9,Mid-Market,0,3.9,8,1,1,0,0,2,8,25.1,24.2,0
+ACC2201,Technology,99,23.6,SMB,1,4.0,9,1,2,2,0,1,1,36.2,39.1,1
+ACC2202,Technology,54,12.7,SMB,0,10.0,8,3,4,0,1,1,1,66.6,62.0,1
+ACC2203,Financial Services,25,5.3,SMB,0,7.2,15,2,1,1,1,4,15,57.1,62.9,0
+ACC2204,Financial Services,147,12.2,Mid-Market,0,7.7,8,1,2,0,0,4,0,59.8,37.1,0
+ACC2205,Manufacturing,300,40.7,Mid-Market,1,6.5,7,0,3,2,0,3,0,24.1,40.5,0
+ACC2206,Manufacturing,215,40.2,Mid-Market,0,2.3,6,5,2,2,0,1,7,20.5,55.8,0
+ACC2207,Financial Services,142,18.0,Mid-Market,0,6.3,7,3,2,0,0,1,1,55.2,38.1,0
+ACC2208,Technology,71,16.7,SMB,0,7.6,7,3,0,0,0,1,3,58.8,29.6,1
+ACC2209,Education,539,101.2,Mid-Market,0,3.8,6,1,3,1,0,0,5,28.3,29.3,0
+ACC2210,Financial Services,44,4.1,SMB,0,7.4,14,1,0,0,0,2,7,57.9,29.5,0
+ACC2211,Financial Services,671,157.4,Mid-Market,1,6.9,5,0,1,1,0,2,3,50.8,20.8,0
+ACC2212,Technology,66,16.0,SMB,0,9.2,10,1,2,0,0,0,6,64.1,26.0,1
+ACC2213,Manufacturing,92,8.6,SMB,1,4.7,7,3,1,1,0,0,4,16.4,35.0,0
+ACC2214,Manufacturing,36,6.1,SMB,0,3.3,6,1,1,0,0,0,0,22.3,18.5,0
+ACC2215,Technology,127,16.7,Mid-Market,1,4.8,10,0,1,1,0,3,20,39.0,24.4,0
+ACC2216,Technology,869,127.6,Mid-Market,0,8.4,13,1,0,0,0,3,3,68.5,32.5,0
+ACC2217,Manufacturing,478,52.8,Mid-Market,1,1.8,10,1,3,1,0,1,9,10.2,36.5,0
+ACC2218,Manufacturing,873,155.6,Mid-Market,0,1.4,5,2,1,1,0,2,8,23.4,30.5,0
+ACC2219,Technology,482,117.1,Mid-Market,0,5.7,15,1,2,0,0,1,2,56.2,37.8,0
+ACC2220,Education,58,9.6,SMB,0,4.6,5,1,1,1,0,5,0,26.8,36.6,0
+ACC2221,Technology,159,15.0,Mid-Market,0,5.5,8,2,3,0,1,3,19,52.7,51.1,1
+ACC2222,Financial Services,88,16.3,SMB,0,7.4,12,1,2,1,0,1,6,58.3,36.7,1
+ACC2223,Education,1379,190.1,Enterprise,1,4.4,6,1,2,0,0,3,5,26.7,29.3,0
+ACC2224,Financial Services,51,11.5,SMB,0,1.8,10,3,1,0,0,2,14,39.5,36.5,0
+ACC2225,Healthcare,781,120.2,Mid-Market,0,9.6,13,1,3,1,0,1,0,49.7,44.4,1
+ACC2226,Financial Services,781,88.1,Mid-Market,0,3.5,5,2,1,0,0,2,14,51.5,23.3,0
+ACC2227,Technology,2639,296.9,Enterprise,1,3.4,9,3,3,0,0,2,5,56.6,46.3,1
+ACC2228,Education,143,30.1,Mid-Market,0,7.7,11,1,0,3,0,2,8,37.8,39.3,0
+ACC2229,Financial Services,617,77.2,Mid-Market,0,4.7,7,3,3,0,0,1,13,54.1,37.4,1
+ACC2230,Retail,4751,999.8,Enterprise,0,5.4,8,3,2,0,1,4,7,70.8,60.7,1
+ACC2231,Technology,109,12.5,Mid-Market,0,6.5,13,2,1,1,0,1,0,55.5,42.4,1
+ACC2232,Technology,33,4.4,SMB,0,7.7,13,2,1,1,0,2,13,58.8,40.3,0
+ACC2233,Technology,21,3.3,SMB,0,4.8,10,1,0,1,0,1,15,49.1,22.4,0
+ACC2234,Manufacturing,618,148.5,Mid-Market,0,8.5,9,3,1,1,0,2,6,44.6,43.0,0
+ACC2235,Financial Services,21,5.0,SMB,0,1.2,3,2,3,0,1,4,5,37.2,52.2,0
+ACC2236,Retail,150,17.3,Mid-Market,0,7.0,13,2,4,2,1,3,2,35.5,78.7,1
+ACC2237,Financial Services,432,60.9,Mid-Market,0,3.8,4,3,2,1,0,3,10,49.5,41.0,0
+ACC2238,Education,311,32.8,Mid-Market,0,8.2,6,2,0,1,0,1,21,40.9,20.1,0
+ACC2239,Technology,425,70.8,Mid-Market,0,5.8,4,4,2,0,0,2,10,56.0,39.0,0
+ACC2240,Retail,326,51.6,Mid-Market,0,4.2,6,3,2,1,0,1,14,27.8,36.5,0
+ACC2241,Manufacturing,1290,300.7,Enterprise,0,6.8,8,2,2,0,0,1,18,44.9,27.1,1
+ACC2242,Manufacturing,70,16.7,SMB,0,7.3,15,1,1,1,0,1,2,35.8,38.7,0
+ACC2243,Retail,101,14.7,Mid-Market,0,6.8,12,1,0,0,0,1,5,34.4,24.4,0
+ACC2244,Manufacturing,89,14.6,SMB,0,3.4,6,1,2,1,0,2,5,23.1,31.2,0
+ACC2245,Healthcare,719,167.1,Mid-Market,0,4.5,11,5,0,1,1,4,8,32.3,73.5,0
+ACC2246,Technology,788,171.1,Mid-Market,0,5.5,8,4,1,1,0,2,0,58.2,49.8,0
+ACC2247,Technology,439,35.4,Mid-Market,0,5.4,5,2,1,3,0,6,8,54.8,52.0,0
+ACC2248,Education,1139,153.1,Enterprise,1,7.0,6,0,1,1,1,2,0,33.2,38.0,0
+ACC2249,Healthcare,52,7.9,SMB,0,1.5,7,3,1,1,0,3,16,16.4,39.1,0
+ACC2250,Manufacturing,2137,254.4,Enterprise,0,6.2,8,2,4,0,0,2,32,50.4,32.4,0
+ACC2251,Financial Services,1772,201.9,Enterprise,0,4.9,4,2,2,1,0,2,3,64.9,34.9,0
+ACC2252,Technology,636,55.0,Mid-Market,0,3.8,0,2,2,0,0,3,7,51.3,25.6,0
+ACC2253,Technology,2480,469.6,Enterprise,0,4.0,8,2,3,3,1,1,17,68.2,60.7,1
+ACC2254,Manufacturing,28,3.5,SMB,0,5.1,10,2,0,0,0,6,3,28.1,42.7,0
+ACC2255,Financial Services,123,10.9,Mid-Market,1,1.0,7,0,4,1,0,0,1,26.4,30.3,0
+ACC2256,Technology,94,11.2,SMB,0,4.1,3,2,1,0,0,0,13,47.5,14.9,0
+ACC2257,Financial Services,625,135.2,Mid-Market,0,3.7,10,2,4,1,0,2,11,50.8,48.4,1
+ACC2258,Technology,62,13.9,SMB,0,6.6,10,1,0,0,0,0,8,55.5,17.4,0
+ACC2259,Healthcare,655,106.2,Mid-Market,0,3.9,10,5,2,0,0,5,28,29.7,55.4,0
+ACC2260,Technology,1453,219.0,Enterprise,0,5.1,2,2,2,1,0,3,31,62.8,24.0,0
+ACC2261,Manufacturing,604,148.7,Mid-Market,0,8.6,14,2,1,0,0,1,19,44.8,31.6,0
+ACC2262,Financial Services,353,40.3,Mid-Market,0,7.5,5,3,0,1,0,3,3,61.0,37.4,0
+ACC2263,Financial Services,67,7.8,SMB,0,7.3,9,2,0,0,0,2,2,57.8,30.0,0
+ACC2264,Technology,81,10.5,SMB,1,4.5,9,0,3,0,0,1,18,37.6,20.8,0
+ACC2265,Technology,1242,135.8,Enterprise,0,6.6,6,1,0,0,1,3,10,65.9,34.1,1
+ACC2266,Financial Services,673,97.2,Mid-Market,0,5.0,8,3,1,0,0,2,5,55.6,37.1,0
+ACC2267,Financial Services,232,54.5,Mid-Market,0,5.1,5,1,1,1,0,2,5,52.0,25.9,0
+ACC2268,Healthcare,142,26.2,Mid-Market,0,6.3,9,1,1,3,0,1,19,33.1,33.1,0
+ACC2269,Technology,17,2.6,SMB,1,4.3,5,0,1,3,0,1,1,36.4,28.4,0
+ACC2270,Manufacturing,60,14.3,SMB,0,8.5,12,2,1,2,1,3,28,39.7,55.4,1
+ACC2271,Retail,2936,259.1,Enterprise,0,5.2,12,3,2,1,0,3,10,54.1,52.7,1
+ACC2272,Manufacturing,46,5.3,SMB,0,6.7,12,3,0,0,0,2,15,33.6,35.1,0
+ACC2273,Technology,313,55.2,Mid-Market,0,8.4,7,2,1,0,0,0,4,63.6,24.3,0
+ACC2274,Financial Services,906,167.3,Mid-Market,0,7.6,11,1,1,0,0,4,8,66.2,34.4,0
+ACC2275,Technology,47,4.1,SMB,0,2.7,5,1,3,1,0,0,13,42.4,24.7,0
+ACC2276,Technology,311,46.2,Mid-Market,1,6.4,14,2,4,0,0,4,5,46.0,57.6,1
+ACC2277,Education,828,157.6,Mid-Market,0,7.2,11,2,2,0,0,2,6,42.1,39.1,0
+ACC2278,Technology,248,49.3,Mid-Market,0,7.3,9,4,4,1,0,2,8,59.4,59.8,0
+ACC2279,Financial Services,10187,1920.1,Enterprise,0,3.3,7,4,1,3,0,1,0,88.1,55.1,0
+ACC2280,Healthcare,27,3.6,SMB,0,4.2,7,1,1,1,0,1,19,25.2,20.4,0
+ACC2281,Manufacturing,969,92.9,Mid-Market,0,7.5,6,1,0,0,0,0,20,44.4,6.8,0
+ACC2282,Healthcare,195,29.8,Mid-Market,0,4.0,5,1,0,2,0,1,3,26.0,24.7,0
+ACC2283,Technology,667,68.0,Mid-Market,0,4.9,6,2,1,1,1,1,21,55.2,38.6,0
+ACC2284,Financial Services,434,104.6,Mid-Market,0,8.7,15,2,0,1,0,0,13,65.7,33.5,0
+ACC2285,Healthcare,94,15.1,SMB,0,5.4,5,2,1,4,0,1,6,29.7,43.0,1
+ACC2286,Technology,329,44.1,Mid-Market,0,4.0,1,1,2,1,0,1,4,49.2,21.4,0
+ACC2287,Financial Services,21,4.4,SMB,1,3.7,4,0,2,0,1,3,5,34.5,35.1,0
+ACC2288,Technology,536,88.3,Mid-Market,0,6.2,8,6,1,1,0,4,7,58.3,64.6,1
+ACC2289,Technology,360,47.8,Mid-Market,1,2.8,7,2,2,1,0,2,5,34.5,38.5,1
+ACC2290,Financial Services,561,122.3,Mid-Market,0,5.0,5,2,3,1,0,2,5,54.6,39.5,1
+ACC2291,Technology,968,220.1,Mid-Market,0,6.2,10,3,2,0,1,4,2,62.1,65.6,0
+ACC2292,Healthcare,394,76.6,Mid-Market,0,8.1,5,3,0,0,0,1,12,41.3,23.1,0
+ACC2293,Manufacturing,296,26.0,Mid-Market,0,6.8,4,5,6,0,0,0,9,36.1,55.0,0
+ACC2294,Retail,77,13.6,SMB,1,4.1,5,0,2,0,0,2,48,14.2,2.2,0
+ACC2295,Technology,96,20.1,SMB,0,7.9,12,1,1,0,0,2,1,60.1,32.8,0
+ACC2296,Technology,1144,118.1,Enterprise,1,4.9,8,0,0,1,0,3,1,48.3,25.0,0
+ACC2297,Technology,1583,188.2,Enterprise,0,3.0,5,2,0,2,0,3,7,57.0,34.8,0
+ACC2298,Healthcare,179,41.2,Mid-Market,0,5.2,3,1,3,0,0,2,1,29.8,27.4,0
+ACC2299,Manufacturing,259,21.6,Mid-Market,0,8.4,11,1,1,1,0,3,9,41.1,36.0,1
+ACC2300,Technology,75,15.6,SMB,0,5.8,8,2,1,0,0,3,2,52.9,35.3,0
+ACC2301,Education,1123,180.3,Enterprise,0,5.5,5,2,1,1,0,0,6,39.1,25.5,0
+ACC2302,Technology,581,90.6,Mid-Market,0,8.8,7,3,1,1,0,3,9,67.3,41.9,0
+ACC2303,Healthcare,3052,247.8,Enterprise,0,2.6,7,3,1,1,0,2,6,46.5,40.1,0
+ACC2304,Manufacturing,78,17.1,SMB,0,2.9,8,2,0,0,0,2,3,21.3,28.1,0
+ACC2305,Retail,149,21.0,Mid-Market,0,2.3,8,2,1,2,1,4,15,19.9,57.6,0
+ACC2306,Manufacturing,330,56.7,Mid-Market,0,6.2,5,6,4,1,0,1,19,34.4,58.4,0
+ACC2307,Retail,567,110.6,Mid-Market,0,5.8,6,3,3,1,0,2,3,35.2,47.6,1
+ACC2308,Financial Services,184,36.7,Mid-Market,0,8.6,7,1,5,1,1,2,16,63.1,54.7,1
+ACC2309,Retail,78,18.9,SMB,0,6.0,8,1,5,0,0,1,4,31.6,38.4,0
+ACC2310,Technology,769,131.0,Mid-Market,1,4.7,11,0,0,2,0,3,6,44.4,32.3,0
+ACC2311,Retail,624,92.3,Mid-Market,0,5.5,9,1,2,1,0,7,2,34.7,51.4,0
+ACC2312,Healthcare,74,17.9,SMB,0,5.7,10,3,1,0,0,1,9,30.5,35.5,0
+ACC2313,Retail,1425,269.6,Enterprise,1,2.2,4,2,2,1,0,1,1,19.8,32.8,0
+ACC2314,Financial Services,1120,146.4,Enterprise,1,10.0,5,0,3,1,0,4,8,65.0,32.5,1
+ACC2315,Healthcare,291,29.5,Mid-Market,1,6.5,7,0,2,2,0,5,45,24.1,24.9,0
+ACC2316,Healthcare,271,60.5,Mid-Market,0,5.9,5,2,3,2,0,0,14,32.9,35.0,0
+ACC2317,Manufacturing,502,71.1,Mid-Market,0,6.7,12,1,1,1,1,5,22,37.6,52.9,1
+ACC2318,Technology,79,15.2,SMB,0,6.9,13,1,0,0,0,0,6,56.6,22.5,0
+ACC2319,Technology,254,40.6,Mid-Market,0,5.2,4,5,0,1,0,1,1,52.5,42.5,1
+ACC2320,Technology,14,1.6,SMB,1,4.2,4,1,0,0,0,3,3,36.1,19.3,0
+ACC2321,Technology,764,139.3,Mid-Market,0,6.7,8,2,1,1,0,1,0,62.0,35.1,0
+ACC2322,Retail,32,2.9,SMB,0,6.3,15,2,3,0,1,4,6,32.1,69.4,0
+ACC2323,Technology,1727,259.5,Enterprise,0,3.9,5,1,1,0,0,7,10,61.2,33.7,0
+ACC2324,Education,159,27.5,Mid-Market,0,8.3,9,2,1,2,1,2,5,39.9,57.1,1
+ACC2325,Financial Services,185,28.5,Mid-Market,0,6.1,8,1,1,1,0,0,8,54.9,23.2,0
+ACC2326,Technology,108,22.4,Mid-Market,0,7.0,11,3,4,1,0,0,3,57.2,53.0,1
+ACC2327,Manufacturing,168,37.1,Mid-Market,1,8.3,7,1,4,0,0,1,0,28.9,34.6,0
+ACC2328,Manufacturing,1547,326.6,Enterprise,1,5.5,5,2,1,1,0,1,5,31.8,28.8,0
+ACC2329,Financial Services,9,0.8,SMB,0,6.1,8,1,0,0,1,6,7,53.3,47.0,1
+ACC2330,Healthcare,1286,145.3,Enterprise,0,7.1,12,2,2,0,1,5,40,45.9,50.7,0
+ACC2331,Manufacturing,379,64.9,Mid-Market,0,4.1,3,2,2,0,0,3,4,27.9,31.1,1
+ACC2332,Technology,50,11.9,SMB,0,5.6,8,2,3,1,0,1,11,52.0,38.6,0
+ACC2333,Education,60,13.3,SMB,1,5.8,3,1,1,0,0,1,17,19.7,10.4,0
+ACC2334,Education,2163,482.8,Enterprise,0,3.6,8,2,3,0,1,2,4,42.0,54.0,0
+ACC2335,Manufacturing,71,9.3,SMB,0,10.0,14,1,0,0,0,0,26,44.7,16.2,1
+ACC2336,Technology,54,8.3,SMB,0,2.7,9,2,2,1,0,3,4,42.5,44.8,0
+ACC2337,Manufacturing,1073,171.7,Enterprise,0,2.9,7,1,2,0,1,2,35,30.1,30.7,0
+ACC2338,Technology,379,40.5,Mid-Market,0,8.1,6,2,1,0,0,2,0,63.2,30.2,0
+ACC2339,Technology,72,6.1,SMB,0,6.9,5,2,2,0,0,0,10,56.5,22.9,0
+ACC2340,Technology,324,78.1,Mid-Market,0,3.4,4,4,2,0,1,3,15,47.2,54.6,0
+ACC2341,Financial Services,64,7.7,SMB,0,6.7,9,4,1,2,0,1,3,55.8,52.0,1
+ACC2342,Retail,1023,123.6,Enterprise,0,8.4,4,1,2,0,0,0,1,47.8,19.1,0
+ACC2343,Manufacturing,972,91.5,Mid-Market,0,5.4,5,2,0,0,0,2,0,37.5,24.9,0
+ACC2344,Manufacturing,488,116.1,Mid-Market,0,10.0,10,3,0,0,0,3,0,48.4,41.0,0
+ACC2345,Financial Services,391,69.8,Mid-Market,0,2.1,6,2,2,1,0,1,7,43.5,33.4,0
+ACC2346,Financial Services,2415,467.1,Enterprise,0,6.9,11,1,1,1,0,1,18,77.2,26.6,0
+ACC2347,Financial Services,244,57.3,Mid-Market,0,7.8,15,1,1,1,0,1,0,61.0,39.5,0
+ACC2348,Education,52,7.2,SMB,0,7.3,11,2,1,1,0,2,1,35.6,42.0,0
+ACC2349,Technology,438,81.3,Mid-Market,1,5.1,6,1,1,0,0,6,0,42.8,36.1,0
+ACC2350,Retail,3684,319.0,Enterprise,0,4.9,6,3,2,1,1,3,3,59.7,61.3,0
+ACC2351,Healthcare,65,7.3,SMB,0,6.4,10,4,1,2,0,3,25,32.8,50.7,0
+ACC2352,Financial Services,152,33.6,Mid-Market,0,7.1,12,3,0,0,0,2,3,57.9,39.8,1
+ACC2353,Manufacturing,420,88.3,Mid-Market,0,6.7,6,3,0,1,1,4,5,36.9,55.6,0
+ACC2354,Financial Services,228,31.8,Mid-Market,0,7.6,11,1,1,0,0,2,1,60.2,31.3,0
+ACC2355,Retail,68,9.8,SMB,1,3.5,3,0,1,0,1,2,1,12.2,28.4,0
+ACC2356,Retail,1051,179.4,Enterprise,0,5.0,9,1,0,0,0,5,2,36.8,32.9,0
+ACC2357,Financial Services,4994,399.7,Enterprise,0,3.6,3,3,2,2,1,2,2,89.0,59.2,1
+ACC2358,Technology,315,38.1,Mid-Market,0,4.7,8,1,2,2,0,4,1,51.4,46.4,0
+ACC2359,Healthcare,75,8.7,SMB,0,7.5,20,4,3,0,1,3,15,36.5,82.0,1
+ACC2360,Retail,32,3.9,SMB,0,5.7,5,3,2,1,0,0,6,30.2,35.2,0
+ACC2361,Technology,342,74.2,Mid-Market,0,10.0,13,1,2,0,0,0,7,69.2,30.0,0
+ACC2362,Healthcare,1027,131.0,Enterprise,0,5.9,7,1,2,0,0,1,4,39.6,25.3,0
+ACC2363,Healthcare,453,51.0,Mid-Market,0,5.6,5,1,4,0,0,2,2,33.5,33.9,0
+ACC2364,Manufacturing,243,40.3,Mid-Market,0,5.7,5,3,1,1,0,1,0,32.0,36.6,0
+ACC2365,Technology,113,25.7,Mid-Market,0,4.2,4,3,4,1,0,2,0,48.0,49.8,0
+ACC2366,Manufacturing,59,7.1,SMB,0,5.4,11,1,0,1,0,2,2,29.4,31.9,0
+ACC2367,Retail,724,67.6,Mid-Market,0,7.8,8,3,3,1,0,3,18,43.2,47.6,0
+ACC2368,Technology,802,112.8,Mid-Market,0,5.7,10,3,2,0,0,1,2,59.0,42.1,0
+ACC2369,Technology,32,6.6,SMB,0,3.9,9,3,2,0,0,0,4,46.3,37.0,0
+ACC2370,Education,1932,335.4,Enterprise,0,3.6,8,3,2,1,0,1,8,40.0,41.8,0
+ACC2371,Technology,516,112.9,Mid-Market,0,4.6,6,2,2,1,0,2,7,52.8,36.3,1
+ACC2372,Retail,1509,366.9,Enterprise,1,5.6,4,0,1,1,0,2,10,31.8,16.6,0
+ACC2373,Financial Services,42,9.0,SMB,0,7.9,10,2,1,0,0,1,2,59.6,32.4,0
+ACC2374,Technology,41,7.5,SMB,0,2.8,6,4,0,0,0,2,7,42.7,35.3,0
+ACC2375,Retail,201,32.9,Mid-Market,0,4.9,6,1,2,0,0,1,14,29.0,19.9,0
+ACC2376,Financial Services,470,40.8,Mid-Market,0,5.8,10,3,1,1,0,1,4,56.4,42.3,0
+ACC2377,Healthcare,2528,625.3,Enterprise,0,1.8,5,2,1,1,0,3,35,39.3,22.9,0
+ACC2378,Financial Services,612,88.9,Mid-Market,0,3.8,5,3,2,3,1,4,8,51.0,70.5,1
+ACC2379,Healthcare,178,18.8,Mid-Market,0,4.1,8,1,0,1,0,1,11,26.2,21.1,0
+ACC2380,Technology,64,12.4,SMB,0,3.9,4,2,3,0,0,0,6,46.5,26.9,0
+ACC2381,Financial Services,1210,155.3,Enterprise,0,5.9,6,4,3,1,0,3,19,63.3,50.1,0
+ACC2382,Education,69,12.4,SMB,0,5.2,10,1,0,2,0,1,6,28.8,30.8,0
+ACC2383,Technology,2032,365.3,Enterprise,0,4.4,6,3,2,0,1,1,28,65.6,40.8,0
+ACC2384,Manufacturing,169,26.3,Mid-Market,0,6.4,8,3,1,1,1,4,3,33.7,63.2,0
+ACC2385,Financial Services,1934,429.6,Enterprise,0,8.9,17,3,0,1,0,1,20,79.6,42.4,0
+ACC2386,Manufacturing,591,73.9,Mid-Market,0,8.8,7,3,1,2,0,4,10,45.3,49.3,0
+ACC2387,Technology,204,31.9,Mid-Market,0,1.7,9,1,1,2,1,2,16,40.5,46.9,0
+ACC2388,Education,124,21.3,Mid-Market,0,6.7,9,2,1,0,0,2,0,34.3,34.6,0
+ACC2389,Financial Services,157,30.3,Mid-Market,0,5.1,5,2,1,1,1,2,3,51.3,47.1,1
+ACC2390,Technology,427,91.1,Mid-Market,0,5.8,10,3,1,0,0,1,18,56.0,32.0,0
+ACC2391,Technology,270,39.7,Mid-Market,1,4.7,2,1,2,1,0,3,3,40.0,29.1,0
+ACC2392,Technology,113,21.5,Mid-Market,0,5.7,7,1,1,2,0,3,12,52.9,33.9,0
+ACC2393,Healthcare,197,20.8,Mid-Market,0,5.8,2,2,1,0,0,1,48,31.9,2.7,0
+ACC2394,Financial Services,271,64.6,Mid-Market,0,4.3,3,3,5,1,1,5,1,49.7,75.2,1
+ACC2395,Retail,15,2.2,SMB,0,3.7,8,3,1,1,0,3,5,23.4,44.9,0
+ACC2396,Financial Services,443,90.4,Mid-Market,0,4.6,7,2,0,1,0,1,1,52.2,29.4,0
+ACC2397,Technology,68,5.7,SMB,0,6.0,9,1,3,0,0,3,1,53.5,39.1,0
+ACC2398,Healthcare,54,6.2,SMB,0,6.7,6,2,1,0,0,1,10,33.7,23.4,0
+ACC2399,Manufacturing,27,4.4,SMB,0,7.2,9,3,1,1,0,1,2,35.1,41.7,1
+ACC2400,Technology,23,5.3,SMB,0,4.5,6,2,0,3,0,2,6,48.2,38.6,0
+ACC2401,Technology,42,7.1,SMB,0,6.1,13,2,1,0,1,1,38,53.6,37.4,0
+ACC2402,Technology,97,23.1,SMB,0,7.4,11,1,1,1,0,3,4,58.4,38.0,0
+ACC2403,Manufacturing,3100,503.0,Enterprise,1,7.8,8,2,4,2,0,2,20,53.1,46.8,1
+ACC2404,Manufacturing,123,20.1,Mid-Market,1,5.4,7,2,0,1,1,3,5,18.9,48.3,1
+ACC2405,Financial Services,308,30.9,Mid-Market,0,5.1,9,2,0,0,0,6,3,52.7,41.3,1
+ACC2406,Retail,411,89.0,Mid-Market,0,5.9,7,3,2,0,0,3,4,34.2,42.8,0
+ACC2407,Retail,290,35.4,Mid-Market,0,3.2,3,1,3,1,0,3,1,24.2,35.2,0
+ACC2408,Healthcare,221,51.5,Mid-Market,0,5.1,4,2,3,0,0,0,11,29.8,25.0,0
+ACC2409,Retail,51,12.0,SMB,0,7.0,13,2,1,1,0,3,7,34.6,45.6,0
+ACC2410,Technology,1613,387.7,Enterprise,0,6.8,12,3,2,1,0,2,9,69.8,50.1,1
+ACC2411,Technology,2564,431.9,Enterprise,1,5.0,7,2,0,0,1,3,3,61.2,44.2,1
+ACC2412,Technology,27,5.3,SMB,0,5.9,7,3,0,0,0,3,10,52.8,32.7,0
+ACC2413,Technology,64,13.6,SMB,0,3.9,8,3,3,1,0,4,1,46.5,57.2,1
+ACC2414,Healthcare,170,17.4,Mid-Market,0,6.9,10,1,0,0,0,2,10,35.3,22.4,0
+ACC2415,Education,69,12.6,SMB,0,5.3,5,2,1,0,1,4,0,29.2,49.3,0
+ACC2416,Technology,472,40.5,Mid-Market,0,4.9,3,2,0,1,0,0,5,53.4,19.0,0
+ACC2417,Technology,94,15.5,SMB,0,4.8,3,4,3,0,0,1,9,49.8,38.9,1
+ACC2418,Financial Services,4082,434.0,Enterprise,0,5.4,4,3,0,2,0,0,19,86.9,25.8,0
+ACC2419,Education,1150,127.8,Enterprise,0,4.6,5,2,1,2,0,5,16,36.4,41.1,0
+ACC2420,Financial Services,322,45.7,Mid-Market,0,6.8,12,1,2,1,0,1,7,58.4,36.3,0
+ACC2421,Healthcare,929,142.6,Mid-Market,0,4.7,7,4,2,2,0,0,21,34.8,43.0,0
+ACC2422,Technology,1030,191.5,Enterprise,0,8.7,10,1,2,1,0,3,7,70.9,39.2,0
+ACC2423,Technology,117,10.8,Mid-Market,0,8.4,11,2,0,0,1,2,7,61.9,45.6,1
+ACC2424,Education,84,13.9,SMB,0,3.7,7,1,2,3,0,3,12,24.0,42.6,0
+ACC2425,Education,270,30.0,Mid-Market,0,5.6,5,1,0,0,0,0,21,31.9,5.0,0
+ACC2426,Technology,750,133.2,Mid-Market,0,4.2,6,2,2,0,0,2,9,53.6,30.6,1
+ACC2427,Education,293,55.2,Mid-Market,0,4.8,5,4,3,1,1,3,28,29.5,59.8,0
+ACC2428,Healthcare,31,5.4,SMB,1,9.5,8,1,0,2,1,2,2,31.7,47.0,0
+ACC2429,Retail,86,17.7,SMB,1,4.9,4,0,0,3,0,0,25,17.0,10.7,0
+ACC2430,Financial Services,222,30.4,Mid-Market,0,6.2,9,1,3,1,0,2,2,55.5,40.7,0
+ACC2431,Healthcare,221,46.4,Mid-Market,1,6.6,14,0,1,0,0,1,7,23.8,24.6,0
+ACC2432,Financial Services,3178,488.0,Enterprise,0,3.5,3,3,1,1,0,0,15,72.7,24.9,0
+ACC2433,Manufacturing,40,6.5,SMB,1,3.8,3,3,1,1,1,4,16,12.9,50.8,0
+ACC2434,Technology,472,89.8,Mid-Market,0,3.1,7,1,0,3,0,1,3,47.5,32.5,0
+ACC2435,Technology,1695,140.9,Enterprise,0,3.7,5,1,1,0,0,1,42,60.3,3.6,0
+ACC2436,Financial Services,4688,896.2,Enterprise,0,1.0,4,2,3,2,0,0,0,77.7,39.0,0
+ACC2437,Manufacturing,144,26.7,Mid-Market,0,6.6,7,2,0,1,0,4,0,34.1,38.5,0
+ACC2438,Technology,463,61.4,Mid-Market,0,9.6,8,2,1,0,0,2,18,68.9,26.1,0
+ACC2439,Manufacturing,513,48.5,Mid-Market,0,5.8,3,2,1,1,0,0,17,34.7,18.2,0
+ACC2440,Education,315,30.1,Mid-Market,0,2.7,5,3,1,0,0,2,12,22.7,30.0,0
+ACC2441,Technology,215,50.9,Mid-Market,0,4.2,3,3,2,2,1,1,19,48.9,49.7,0
+ACC2442,Manufacturing,431,85.0,Mid-Market,0,4.6,5,1,1,1,0,3,1,30.0,30.3,0
+ACC2443,Financial Services,9,0.9,SMB,0,3.5,7,5,2,2,0,1,1,44.7,59.6,0
+ACC2444,Retail,593,83.4,Mid-Market,1,7.2,8,1,0,0,0,2,34,29.0,10.1,0
+ACC2445,Technology,288,52.0,Mid-Market,0,7.1,6,2,0,1,1,3,9,59.1,45.3,1
+ACC2446,Manufacturing,183,40.6,Mid-Market,0,3.2,7,2,0,1,0,0,25,23.2,17.1,0
+ACC2447,Retail,3501,306.1,Enterprise,0,7.0,9,2,2,0,0,2,23,65.1,29.6,0
+ACC2448,Education,101,12.1,Mid-Market,0,8.6,7,2,1,1,0,0,10,40.4,26.8,0
+ACC2449,Manufacturing,144,33.3,Mid-Market,0,9.3,11,3,1,1,0,0,9,43.1,38.9,1
+ACC2450,Financial Services,3258,265.7,Enterprise,1,10.0,16,2,0,1,1,3,4,83.9,61.9,1
+ACC2451,Healthcare,82,9.4,SMB,0,3.7,3,2,2,0,1,3,1,24.0,46.9,1
+ACC2452,Retail,119,28.9,Mid-Market,0,10.0,9,3,2,1,0,2,11,45.2,45.0,0
+ACC2453,Healthcare,202,37.2,Mid-Market,0,4.8,9,3,2,0,0,0,17,28.7,31.9,0
+ACC2454,Technology,729,90.7,Mid-Market,0,4.3,8,5,2,2,0,2,7,53.7,61.7,1
+ACC2455,Education,320,29.2,Mid-Market,0,6.2,17,3,2,0,1,2,0,34.4,70.7,0
+ACC2456,Manufacturing,45,3.8,SMB,0,4.3,8,1,1,0,0,0,1,25.6,21.1,0
+ACC2457,Manufacturing,122,14.8,Mid-Market,0,6.3,9,1,3,1,0,1,1,32.9,38.1,1
+ACC2458,Technology,111,25.5,Mid-Market,0,2.9,8,2,3,1,0,1,10,43.6,39.0,0
+ACC2459,Manufacturing,221,33.3,Mid-Market,0,5.0,7,1,1,0,0,0,8,29.5,16.9,0
+ACC2460,Financial Services,425,86.0,Mid-Market,0,8.1,15,3,4,1,0,3,6,63.6,66.4,0
+ACC2461,Manufacturing,421,99.4,Mid-Market,1,5.4,4,0,0,2,0,1,7,21.6,15.8,0
+ACC2462,Technology,24,3.6,SMB,0,5.8,6,1,2,2,1,3,3,52.5,54.4,0
+ACC2463,Manufacturing,975,109.7,Mid-Market,1,6.5,12,0,0,2,1,2,16,30.1,41.6,0
+ACC2464,Education,339,56.9,Mid-Market,0,7.8,12,3,1,1,0,2,3,39.8,48.6,0
+ACC2465,Technology,1480,346.9,Enterprise,0,2.2,7,1,2,0,0,2,10,53.4,25.9,0
+ACC2466,Education,435,94.3,Mid-Market,0,6.7,10,2,2,0,1,2,4,37.0,53.1,1
+ACC2467,Financial Services,1024,93.4,Enterprise,0,5.0,5,1,2,0,0,2,0,58.6,26.8,0
+ACC2468,Retail,448,88.6,Mid-Market,0,5.8,4,2,2,2,0,0,2,34.2,34.3,0
+ACC2469,Manufacturing,1408,249.5,Enterprise,0,7.6,7,2,0,1,1,3,33,48.6,37.4,0
+ACC2470,Healthcare,482,112.9,Mid-Market,0,3.1,6,1,0,0,0,0,2,25.5,13.9,0
+ACC2471,Manufacturing,215,21.7,Mid-Market,0,3.5,8,2,1,2,0,1,1,24.5,39.6,0
+ACC2472,Retail,4694,801.7,Enterprise,0,1.6,5,1,2,2,1,1,3,57.7,47.1,1
+ACC2473,Financial Services,777,178.3,Mid-Market,1,4.4,7,1,1,0,1,1,21,43.5,29.4,0
+ACC2474,Financial Services,515,77.1,Mid-Market,0,8.2,8,4,0,0,1,1,3,64.7,51.5,0
+ACC2475,Manufacturing,46,7.4,SMB,0,5.3,6,3,2,1,0,3,5,29.0,45.9,1
+ACC2476,Retail,45,4.1,SMB,0,2.8,7,2,0,1,0,1,3,20.7,28.6,0
+ACC2477,Manufacturing,357,45.4,Mid-Market,0,4.5,9,2,2,0,0,0,45,29.1,15.1,0
+ACC2478,Manufacturing,295,39.9,Mid-Market,0,2.5,5,1,3,2,0,2,89,21.9,5.8,0
+ACC2479,Financial Services,110,26.5,Mid-Market,0,3.2,9,2,1,1,1,2,6,44.6,51.8,1
+ACC2480,Retail,293,37.5,Mid-Market,0,6.3,7,2,1,2,1,3,15,34.4,53.2,0
+ACC2481,Technology,1929,305.5,Enterprise,0,3.2,5,3,1,2,1,3,2,60.7,61.2,0
+ACC2482,Healthcare,604,117.2,Mid-Market,0,7.7,10,2,2,3,0,2,4,41.8,53.1,0
+ACC2483,Technology,55,5.9,SMB,1,5.4,14,0,2,0,0,1,11,40.4,26.9,0
+ACC2484,Financial Services,211,34.3,Mid-Market,0,5.7,1,3,5,0,1,5,3,53.8,66.6,0
+ACC2485,Financial Services,85,17.5,SMB,0,4.9,5,1,2,1,0,1,2,50.0,28.0,0
+ACC2486,Financial Services,147,33.4,Mid-Market,0,7.0,16,2,1,1,0,1,25,57.5,37.1,0
+ACC2487,Manufacturing,142,26.5,Mid-Market,1,7.1,12,1,1,0,0,4,2,24.7,38.2,0
+ACC2488,Financial Services,131,25.4,Mid-Market,0,6.2,8,2,1,0,0,0,0,54.7,27.3,0
+ACC2489,Financial Services,47,4.8,SMB,0,6.6,9,2,2,0,1,4,13,55.3,54.0,0
+ACC2490,Technology,207,49.8,Mid-Market,0,5.1,3,2,4,0,0,2,2,51.8,36.8,0
+ACC2491,Financial Services,118,12.1,Mid-Market,0,6.6,5,1,2,1,0,1,5,55.9,26.8,0
+ACC2492,Technology,5,1.1,SMB,0,4.8,4,4,0,2,1,1,1,49.0,56.2,0
+ACC2493,Technology,3529,441.2,Enterprise,1,5.5,4,1,2,0,1,6,0,71.4,51.7,1
+ACC2494,Healthcare,1007,240.4,Enterprise,0,5.0,4,2,1,1,0,4,6,36.4,35.7,0
+ACC2495,Manufacturing,150,30.4,Mid-Market,0,4.6,7,1,1,3,1,6,4,27.6,65.3,0
+ACC2496,Healthcare,250,52.0,Mid-Market,0,4.1,10,1,0,0,1,4,7,26.8,44.1,0
+ACC2497,Financial Services,53,6.2,SMB,0,6.4,16,3,2,2,1,2,33,54.7,66.1,1
+ACC2498,Financial Services,2218,344.5,Enterprise,0,8.1,5,2,1,1,0,3,5,79.4,34.6,0
+ACC2499,Retail,2882,533.3,Enterprise,1,7.8,9,3,0,1,0,1,9,51.2,35.0,0
+ACC2500,Healthcare,299,63.1,Mid-Market,0,3.0,6,2,3,0,0,2,1,23.6,37.7,0
+ACC2501,Financial Services,925,90.3,Mid-Market,1,8.1,12,1,1,0,0,0,21,57.0,19.1,0
+ACC2502,Technology,307,74.8,Mid-Market,1,4.9,11,2,0,0,1,3,16,41.0,45.0,1
+ACC2503,Financial Services,43,9.9,SMB,0,6.7,12,2,2,1,0,1,7,55.6,42.1,0
+ACC2504,Financial Services,143,18.0,Mid-Market,0,3.7,7,5,2,2,1,3,2,46.6,79.7,0
+ACC2505,Financial Services,290,63.8,Mid-Market,0,5.8,6,1,2,0,0,0,5,54.8,20.5,0
+ACC2506,Healthcare,135,22.7,Mid-Market,0,6.1,6,1,4,2,0,0,3,32.4,38.8,0
+ACC2507,Healthcare,184,29.2,Mid-Market,0,2.5,3,2,2,0,0,3,52,20.9,12.4,0
+ACC2508,Healthcare,217,29.0,Mid-Market,0,6.7,17,4,4,1,0,2,6,35.1,72.3,0
+ACC2509,Manufacturing,220,39.3,Mid-Market,0,8.2,8,3,4,1,0,0,5,40.1,47.8,0
+ACC2510,Retail,261,53.3,Mid-Market,0,5.2,4,1,0,0,1,3,1,30.5,34.7,0
+ACC2511,Manufacturing,61,9.1,SMB,1,8.2,11,2,3,1,0,0,2,27.7,43.6,0
+ACC2512,Education,96,17.9,SMB,0,5.1,5,2,1,0,0,0,12,28.7,18.2,1
+ACC2513,Technology,46,9.1,SMB,0,7.2,11,1,2,1,1,2,7,57.3,52.4,0
+ACC2514,Technology,872,175.2,Mid-Market,0,1.1,11,1,3,0,1,1,4,44.4,49.7,1
+ACC2515,Technology,15,1.3,SMB,0,10.0,7,1,2,0,0,1,3,66.3,25.7,1
+ACC2516,Healthcare,1096,247.9,Enterprise,0,8.5,7,2,2,0,0,0,2,48.8,29.0,0
+ACC2517,Retail,1483,234.2,Enterprise,0,4.9,3,2,1,0,0,3,0,40.3,28.8,1
+ACC2518,Technology,165,20.6,Mid-Market,0,1.6,4,4,1,0,0,0,37,39.8,18.7,0
+ACC2519,Education,8,1.0,SMB,0,6.1,9,2,1,1,0,2,13,31.3,34.4,0
+ACC2520,Technology,152,24.6,Mid-Market,0,2.6,4,2,0,1,0,1,26,43.0,15.2,0
+ACC2521,Education,225,51.9,Mid-Market,0,6.4,11,2,2,0,0,3,5,34.2,42.4,0
+ACC2522,Financial Services,65,9.4,SMB,0,6.3,10,3,1,0,0,4,20,54.5,40.0,0
+ACC2523,Technology,125,25.9,Mid-Market,1,3.6,6,2,4,1,0,4,2,35.1,51.9,0
+ACC2524,Financial Services,1788,172.5,Enterprise,0,7.7,11,2,1,2,0,2,7,74.3,44.6,1
+ACC2525,Technology,580,93.3,Mid-Market,0,7.1,15,1,1,1,1,4,2,61.7,62.1,1
+ACC2526,Technology,73,18.1,SMB,0,7.5,14,1,1,0,1,3,14,58.5,48.2,1
+ACC2527,Financial Services,30,6.3,SMB,0,5.5,4,1,0,0,1,6,6,51.5,41.6,1
+ACC2528,Retail,159,18.4,Mid-Market,0,2.7,12,3,1,1,0,1,7,21.4,44.1,0
+ACC2529,Healthcare,185,30.6,Mid-Market,0,7.5,7,1,1,1,0,2,19,37.5,23.3,0
+ACC2530,Financial Services,466,55.8,Mid-Market,1,5.0,4,1,3,1,0,1,13,42.7,26.1,0
+ACC2531,Healthcare,122,18.3,Mid-Market,0,2.7,5,3,1,0,0,2,33,21.0,21.8,0
+ACC2532,Manufacturing,475,101.0,Mid-Market,0,8.2,7,1,1,1,0,1,5,42.3,25.9,0
+ACC2533,Technology,3028,639.2,Enterprise,0,9.7,12,3,2,0,0,1,6,91.9,43.5,0
+ACC2534,Financial Services,706,83.9,Mid-Market,0,5.4,7,2,1,1,0,3,9,57.2,36.0,0
+ACC2535,Technology,229,54.2,Mid-Market,0,9.8,11,2,1,1,1,3,6,67.5,57.7,1
+ACC2536,Technology,192,34.7,Mid-Market,0,5.7,5,4,0,0,0,0,5,53.6,28.8,0
+ACC2537,Manufacturing,153,22.1,Mid-Market,0,4.7,7,3,0,0,0,1,4,27.9,29.2,0
+ACC2538,Technology,1135,187.6,Enterprise,0,4.2,4,1,1,1,1,2,17,57.0,34.3,0
+ACC2539,Healthcare,108,19.7,Mid-Market,0,8.8,5,3,1,0,0,0,7,41.1,26.0,0
+ACC2540,Manufacturing,259,45.4,Mid-Market,0,3.9,8,3,1,1,0,2,9,26.2,40.4,0
+ACC2541,Technology,261,42.5,Mid-Market,0,7.0,9,2,3,1,1,2,2,58.5,61.2,1
+ACC2542,Healthcare,127,21.1,Mid-Market,1,4.4,14,0,0,2,0,1,2,15.7,32.4,0
+ACC2543,Technology,41,4.5,SMB,0,4.6,5,3,3,0,1,1,4,48.7,52.6,0
+ACC2544,Education,372,81.2,Mid-Market,0,7.6,15,1,0,0,0,7,6,39.4,46.0,1
+ACC2545,Financial Services,226,38.9,Mid-Market,0,4.7,5,1,1,0,0,3,0,50.6,25.9,0
+ACC2546,Retail,468,47.9,Mid-Market,1,4.7,3,1,1,0,0,6,21,19.7,23.5,0
+ACC2547,Healthcare,122,25.7,Mid-Market,0,7.8,13,3,2,1,0,5,23,37.9,54.9,0
+ACC2548,Technology,1196,285.3,Enterprise,0,8.7,5,5,3,0,0,2,10,72.4,50.2,0
+ACC2549,Healthcare,78,18.8,SMB,0,6.8,7,4,0,0,1,1,3,34.2,50.0,0
+ACC2550,Education,2265,323.3,Enterprise,0,4.2,8,1,0,0,0,1,4,44.9,18.9,0
+ACC2551,Healthcare,25,2.6,SMB,0,4.5,6,2,1,0,0,0,13,26.1,19.3,0
+ACC2552,Retail,430,72.3,Mid-Market,1,5.7,7,0,2,1,1,4,3,22.6,48.1,0
+ACC2553,Retail,453,44.9,Mid-Market,1,6.1,11,2,3,0,0,1,9,24.2,38.9,0
+ACC2554,Technology,86,20.5,SMB,0,3.5,2,1,2,1,0,4,23,45.4,24.2,0
+ACC2555,Technology,424,47.2,Mid-Market,0,6.9,9,2,0,1,0,3,5,59.6,36.6,0
+ACC2556,Healthcare,1291,158.8,Enterprise,0,5.7,1,2,1,0,0,2,8,41.3,19.8,0
+ACC2557,Financial Services,13,1.9,SMB,0,2.1,7,2,2,3,0,1,26,40.1,37.2,1
+ACC2558,Retail,470,68.2,Mid-Market,1,3.6,3,3,2,0,0,1,4,16.1,31.1,0
+ACC2559,Retail,9,1.9,SMB,0,4.5,7,4,3,0,0,1,14,26.0,42.8,1
+ACC2560,Financial Services,69,10.9,SMB,0,5.4,4,3,0,1,0,1,14,51.5,25.8,1
+ACC2561,Technology,2034,221.8,Enterprise,0,9.3,8,4,0,1,0,2,26,81.8,35.7,0
+ACC2562,Manufacturing,114,14.3,Mid-Market,0,6.0,3,1,2,1,0,2,19,31.9,21.4,0
+ACC2563,Technology,53,8.8,SMB,0,3.8,6,3,2,1,0,0,13,46.1,34.0,1
+ACC2564,Retail,189,19.9,Mid-Market,0,5.9,6,2,1,3,0,2,10,32.2,41.0,0
+ACC2565,Financial Services,3598,662.0,Enterprise,0,4.8,6,4,2,2,0,2,2,80.7,54.8,0
+ACC2566,Manufacturing,22,3.9,SMB,0,6.1,11,2,2,0,0,1,11,31.4,34.2,0
+ACC2567,Technology,62,12.5,SMB,1,6.7,9,3,3,1,1,2,3,44.8,66.6,0
+ACC2568,Healthcare,1714,410.3,Enterprise,0,7.9,8,3,0,0,1,2,5,52.3,47.8,0
+ACC2569,Financial Services,2738,643.7,Enterprise,0,5.5,4,4,0,0,1,4,12,75.4,50.9,1
+ACC2570,Healthcare,213,51.3,Mid-Market,0,8.8,7,2,2,0,0,0,11,42.0,25.5,0
+ACC2571,Technology,48,5.8,SMB,0,7.3,12,1,2,0,1,1,5,57.6,46.8,1
+ACC2572,Manufacturing,3731,381.9,Enterprise,0,4.1,6,4,2,1,1,4,2,57.5,70.4,1
+ACC2573,Retail,1944,255.4,Enterprise,0,9.9,9,3,0,3,0,0,6,60.9,43.0,0
+ACC2574,Technology,591,137.2,Mid-Market,0,6.2,7,1,0,0,0,2,3,58.8,20.8,1
+ACC2575,Technology,85,20.8,SMB,0,3.8,5,1,3,1,0,1,2,46.4,31.9,0
+ACC2576,Technology,229,51.8,Mid-Market,0,8.8,12,2,1,1,0,2,3,64.2,42.7,0
+ACC2577,Healthcare,198,19.5,Mid-Market,1,9.7,12,0,0,0,0,1,12,33.8,15.8,0
+ACC2578,Healthcare,376,90.6,Mid-Market,0,5.4,9,3,2,0,0,2,6,32.2,42.0,0
+ACC2579,Healthcare,1613,245.1,Enterprise,0,4.5,5,1,1,0,0,0,4,40.1,15.5,0
+ACC2580,Technology,767,62.6,Mid-Market,1,5.2,3,1,1,2,0,3,23,46.0,23.7,0
+ACC2581,Financial Services,60,9.3,SMB,0,6.9,10,1,1,0,1,3,12,56.4,43.1,1
+ACC2582,Healthcare,1464,128.6,Enterprise,0,8.1,9,4,3,2,0,1,6,50.7,58.6,1
+ACC2583,Financial Services,367,63.3,Mid-Market,0,6.6,17,3,2,0,0,3,5,58.1,57.1,0
+ACC2584,Education,597,82.1,Mid-Market,0,5.7,7,3,2,0,0,1,17,35.1,31.9,0
+ACC2585,Technology,1646,264.2,Enterprise,0,8.5,17,1,0,0,0,0,1,75.7,30.3,0
+ACC2586,Manufacturing,57,10.5,SMB,0,4.9,7,1,1,1,0,3,10,27.7,29.8,0
+ACC2587,Financial Services,233,53.1,Mid-Market,0,7.6,11,3,0,1,0,3,0,60.3,47.3,0
+ACC2588,Financial Services,122,23.5,Mid-Market,0,4.9,4,2,1,0,0,2,0,50.4,27.3,0
+ACC2589,Manufacturing,31,4.8,SMB,0,6.4,12,1,1,1,1,2,26,32.5,42.5,0
+ACC2590,Manufacturing,384,84.2,Mid-Market,0,5.3,10,1,2,1,0,0,7,31.9,30.4,0
+ACC2591,Education,6406,1498.7,Enterprise,0,5.4,6,2,1,2,0,1,3,73.0,35.9,0
+ACC2592,Technology,22,2.2,SMB,0,4.7,5,2,1,0,0,0,15,48.8,17.1,0
+ACC2593,Technology,234,39.9,Mid-Market,0,8.2,9,1,3,1,0,2,41,62.3,25.5,1
+ACC2594,Manufacturing,562,72.1,Mid-Market,1,4.0,4,3,0,2,0,4,0,18.2,44.9,0
+ACC2595,Healthcare,287,25.3,Mid-Market,0,4.0,12,1,0,1,0,2,0,26.8,34.1,1
+ACC2596,Technology,211,40.9,Mid-Market,0,9.7,7,2,2,1,0,3,19,67.0,36.0,1
+ACC2597,Technology,45,10.2,SMB,0,7.5,8,4,1,0,0,2,8,58.3,41.8,0
+ACC2598,Technology,331,35.6,Mid-Market,0,1.0,13,2,3,2,0,3,21,39.3,52.8,0
+ACC2599,Retail,91,19.8,SMB,1,4.4,7,2,0,2,0,2,11,15.4,33.3,0
+ACC2600,Technology,14,3.2,SMB,0,1.9,5,2,1,1,1,3,6,39.5,48.9,0
+ACC2601,Financial Services,1156,272.2,Enterprise,0,3.6,3,2,1,0,1,4,1,55.2,46.0,1
+ACC2602,Technology,850,106.3,Mid-Market,0,1.0,5,5,0,3,1,2,4,43.9,70.1,0
+ACC2603,Financial Services,261,61.0,Mid-Market,1,5.2,3,0,2,2,1,5,15,41.6,45.4,1
+ACC2604,Technology,329,44.3,Mid-Market,1,3.2,13,2,1,0,0,4,2,35.5,45.6,0
+ACC2605,Healthcare,988,171.8,Mid-Market,0,5.6,7,3,2,0,0,3,12,38.3,39.7,0
+ACC2606,Technology,327,29.0,Mid-Market,1,2.2,5,2,3,0,0,0,2,32.2,30.0,0
+ACC2607,Retail,792,69.3,Mid-Market,0,5.7,4,2,1,0,0,2,6,36.9,25.0,0
+ACC2608,Technology,166,33.6,Mid-Market,0,4.7,9,3,2,1,0,0,0,50.1,43.4,0
+ACC2609,Healthcare,1346,209.4,Enterprise,1,8.5,9,1,2,2,0,2,6,40.0,40.1,0
+ACC2610,Retail,371,45.8,Mid-Market,1,8.3,10,3,0,0,0,3,9,30.7,37.5,0
+ACC2611,Manufacturing,314,35.3,Mid-Market,0,7.1,13,2,2,1,1,4,8,37.3,66.6,0
+ACC2612,Healthcare,46,8.9,SMB,0,4.8,3,2,3,0,0,1,5,27.3,28.8,0
+ACC2613,Financial Services,355,28.4,Mid-Market,0,9.5,9,3,2,0,0,2,4,67.6,42.8,1
+ACC2614,Financial Services,82,17.8,SMB,0,2.4,6,1,5,1,0,3,3,41.7,46.6,0
+ACC2615,Manufacturing,106,9.9,Mid-Market,1,2.7,7,2,1,1,1,3,14,9.9,48.7,0
+ACC2616,Education,84,9.5,SMB,0,5.3,9,2,0,1,1,3,15,29.3,47.3,1
+ACC2617,Manufacturing,61,8.9,SMB,1,10.0,4,0,0,0,0,0,6,33.6,3.5,0
+ACC2618,Healthcare,3874,629.2,Enterprise,1,5.1,4,2,2,0,0,1,4,51.0,26.7,0
+ACC2619,Manufacturing,1381,193.8,Enterprise,0,5.1,3,2,2,0,0,2,10,40.1,25.9,0
+ACC2620,Financial Services,2970,399.5,Enterprise,1,2.6,5,1,3,2,0,0,8,56.8,31.5,1
+ACC2621,Technology,49,11.9,SMB,0,7.4,14,1,1,0,0,2,11,58.0,31.8,0
+ACC2622,Healthcare,268,50.7,Mid-Market,0,7.4,17,4,0,1,1,2,3,37.9,72.5,0
+ACC2623,Education,45,3.8,SMB,0,7.1,6,3,2,0,0,2,15,34.9,34.1,0
+ACC2624,Technology,99,15.2,SMB,0,4.2,9,1,1,0,0,3,3,47.8,30.5,0
+ACC2625,Manufacturing,74,16.9,SMB,0,4.1,10,3,4,1,1,3,5,25.2,74.1,1
+ACC2626,Technology,1225,160.8,Enterprise,1,2.9,4,0,1,0,0,2,1,42.4,15.2,0
+ACC2627,Healthcare,146,14.0,Mid-Market,0,5.7,7,3,1,1,0,1,19,31.2,32.1,0
+ACC2628,Technology,981,205.0,Mid-Market,0,3.3,9,3,2,2,0,0,10,52.6,44.4,0
+ACC2629,Financial Services,536,98.1,Mid-Market,1,3.1,7,1,1,1,0,4,2,37.0,35.8,0
+ACC2630,Manufacturing,4888,864.9,Enterprise,0,4.7,12,2,4,0,0,2,19,69.7,43.3,1
+ACC2631,Financial Services,35,3.1,SMB,0,4.5,3,2,0,2,1,3,12,48.3,44.6,0
+ACC2632,Manufacturing,1257,130.6,Enterprise,0,4.4,3,2,1,1,0,2,5,36.7,28.8,0
+ACC2633,Manufacturing,1086,201.8,Enterprise,0,6.4,9,1,2,2,0,1,45,41.8,22.0,0
+ACC2634,Education,69,8.0,SMB,0,5.7,7,2,4,2,0,1,4,30.5,48.7,0
+ACC2635,Technology,906,150.1,Mid-Market,0,4.9,4,2,2,0,0,0,1,57.3,25.0,1
+ACC2636,Financial Services,378,65.3,Mid-Market,0,5.9,3,2,1,0,0,1,13,55.9,17.9,0
+ACC2637,Technology,182,23.3,Mid-Market,0,3.5,7,1,1,1,0,4,14,46.3,31.1,0
+ACC2638,Education,83,20.0,SMB,0,5.7,7,2,5,2,0,0,0,30.6,51.2,1
+ACC2639,Education,96,21.4,SMB,0,5.8,6,2,0,1,0,1,17,31.1,21.7,0
+ACC2640,Healthcare,3514,712.7,Enterprise,0,2.5,0,1,2,4,0,1,14,50.3,30.6,0
+ACC2641,Retail,244,22.8,Mid-Market,0,7.5,3,2,1,0,1,4,26,38.0,36.2,0
+ACC2642,Healthcare,676,66.3,Mid-Market,0,3.7,8,1,1,1,1,5,1,29.2,55.2,0
+ACC2643,Healthcare,87,14.2,SMB,0,5.7,6,1,2,2,0,1,9,30.6,31.6,0
+ACC2644,Technology,88,9.4,SMB,0,7.8,12,1,5,0,0,0,2,59.7,42.1,0
+ACC2645,Manufacturing,998,245.8,Mid-Market,0,7.4,11,1,0,0,0,1,5,44.3,22.9,0
+ACC2646,Technology,42,4.5,SMB,0,5.6,7,1,3,0,0,2,3,52.0,32.5,0
+ACC2647,Retail,142,23.1,Mid-Market,0,4.8,4,1,1,0,0,0,5,28.2,13.7,0
+ACC2648,Manufacturing,255,36.2,Mid-Market,0,7.4,13,2,0,1,0,3,1,37.8,44.0,0
+ACC2649,Manufacturing,282,53.2,Mid-Market,0,6.8,13,3,1,1,0,0,3,36.0,44.2,0
+ACC2650,Technology,193,19.7,Mid-Market,0,4.3,6,1,2,0,0,0,0,49.0,22.4,0
+ACC2651,Financial Services,409,62.6,Mid-Market,0,3.9,9,1,2,1,0,1,6,49.6,32.3,1
+ACC2652,Technology,602,76.3,Mid-Market,0,1.4,5,3,2,0,0,1,3,43.0,34.4,0
+ACC2653,Financial Services,635,146.6,Mid-Market,0,5.8,6,2,2,1,0,0,8,57.9,30.0,1
+ACC2654,Technology,67,5.8,SMB,1,5.3,2,1,0,0,0,1,6,40.2,9.4,0
+ACC2655,Education,169,39.8,Mid-Market,0,7.8,12,3,2,2,0,4,2,38.3,63.6,0
+ACC2656,Healthcare,1156,256.2,Enterprise,0,6.2,6,4,0,1,0,1,1,41.7,39.6,0
+ACC2657,Financial Services,782,102.1,Mid-Market,1,8.2,13,3,0,1,0,0,13,56.1,36.4,0
+ACC2658,Financial Services,41,8.8,SMB,0,4.1,9,5,1,1,0,0,10,47.0,47.3,1
+ACC2659,Financial Services,386,32.9,Mid-Market,0,7.8,3,2,0,0,0,1,0,62.3,19.0,0
+ACC2660,Healthcare,18,4.4,SMB,0,4.4,3,2,4,2,0,4,45,25.7,35.6,0
+ACC2661,Healthcare,260,44.1,Mid-Market,0,7.1,11,2,2,1,0,4,10,36.8,48.3,0
+ACC2662,Retail,2884,379.4,Enterprise,1,2.6,8,3,1,2,0,1,2,34.0,45.1,0
+ACC2663,Financial Services,71,10.1,SMB,1,6.0,5,0,0,0,0,4,18,42.5,12.0,0
+ACC2664,Education,82,7.5,SMB,0,1.5,8,3,0,1,0,1,21,16.7,28.9,0
+ACC2665,Retail,660,163.8,Mid-Market,1,5.0,8,2,3,1,0,2,8,22.4,42.7,1
+ACC2666,Technology,32,2.8,SMB,0,6.4,7,3,0,0,0,3,21,54.5,28.4,0
+ACC2667,Education,107,20.5,Mid-Market,0,4.5,7,1,2,1,0,0,0,26.9,28.8,0
+ACC2668,Technology,531,82.4,Mid-Market,1,3.4,5,1,0,2,0,0,29,38.0,11.6,0
+ACC2669,Retail,107,25.8,Mid-Market,0,7.2,11,2,2,0,0,3,0,35.8,44.4,0
+ACC2670,Financial Services,180,21.9,Mid-Market,0,5.3,4,2,1,1,0,2,10,52.2,28.3,0
+ACC2671,Retail,643,109.6,Mid-Market,0,4.5,9,3,0,1,0,0,4,31.6,34.0,0
+ACC2672,Retail,423,68.5,Mid-Market,0,5.6,6,1,3,0,0,1,0,33.3,29.3,0
+ACC2673,Retail,346,69.0,Mid-Market,0,10.0,8,5,1,0,0,2,26,47.2,40.6,0
+ACC2674,Manufacturing,157,14.4,Mid-Market,0,7.8,8,3,0,2,1,2,1,38.2,59.1,1
+ACC2675,Financial Services,395,44.6,Mid-Market,0,7.8,5,4,4,1,1,2,19,62.4,64.3,1
+ACC2676,Technology,208,24.2,Mid-Market,0,6.4,7,2,2,1,0,2,4,56.1,38.9,0
+ACC2677,Financial Services,443,91.0,Mid-Market,1,5.8,6,0,1,1,0,0,13,45.1,12.5,0
+ACC2678,Technology,128,14.4,Mid-Market,0,1.0,5,2,1,0,0,2,2,37.5,28.0,0
+ACC2679,Manufacturing,192,34.1,Mid-Market,0,4.1,5,2,0,1,0,2,8,26.3,26.6,0
+ACC2680,Financial Services,67,7.8,SMB,1,4.5,8,1,0,1,0,2,16,37.5,22.0,0
+ACC2681,Education,233,52.8,Mid-Market,0,1.8,9,1,1,1,1,2,8,19.0,45.2,0
+ACC2682,Healthcare,85,20.4,SMB,0,3.2,4,2,0,5,0,2,3,22.4,46.6,0
+ACC2683,Retail,57,9.6,SMB,0,1.5,6,2,0,1,0,2,2,16.5,30.4,0
+ACC2684,Technology,342,47.8,Mid-Market,0,5.4,4,1,0,0,0,2,1,54.0,17.2,1
+ACC2685,Retail,322,38.6,Mid-Market,0,7.1,5,3,2,1,0,3,18,37.3,39.3,0
+ACC2686,Education,677,59.9,Mid-Market,0,7.7,12,1,0,2,0,1,9,42.5,32.6,0
+ACC2687,Financial Services,139,17.5,Mid-Market,0,6.3,8,1,4,0,0,6,7,55.1,48.0,0
+ACC2688,Healthcare,415,79.4,Mid-Market,0,3.6,9,1,2,2,0,0,2,26.6,35.8,0
+ACC2689,Manufacturing,500,85.4,Mid-Market,1,1.6,7,0,2,1,0,0,5,9.7,21.0,0
+ACC2690,Technology,436,104.9,Mid-Market,0,2.0,4,3,0,0,0,1,9,43.5,22.8,0
+ACC2691,Healthcare,83,12.2,SMB,1,3.0,7,4,1,2,0,1,0,10.7,50.2,0
+ACC2692,Financial Services,297,58.8,Mid-Market,1,3.7,6,2,0,0,0,2,4,36.9,24.8,0
+ACC2693,Technology,392,64.0,Mid-Market,0,5.2,5,1,1,0,0,0,2,53.7,16.3,0
+ACC2694,Financial Services,246,41.1,Mid-Market,0,3.5,8,3,3,2,0,2,10,46.8,52.7,0
+ACC2695,Technology,16,2.0,SMB,0,6.2,9,3,0,0,0,1,9,53.7,30.1,0
+ACC2696,Technology,301,47.4,Mid-Market,1,5.0,4,2,2,0,0,3,3,41.2,33.0,0
+ACC2697,Technology,4342,694.9,Enterprise,0,5.5,10,1,2,3,0,1,0,89.6,45.9,0
+ACC2698,Education,153,30.6,Mid-Market,0,7.8,8,3,1,0,0,0,2,38.2,32.4,0
+ACC2699,Healthcare,94,22.6,SMB,0,3.1,5,2,2,0,1,4,1,22.1,52.8,0
+ACC2700,Education,397,54.0,Mid-Market,0,6.3,9,5,3,1,0,1,8,35.4,58.8,0
+ACC2701,Financial Services,367,32.0,Mid-Market,1,5.5,3,1,4,1,0,1,1,43.5,33.3,0
+ACC2702,Financial Services,1153,189.5,Enterprise,0,4.8,3,1,1,1,0,2,6,59.1,22.5,0
+ACC2703,Healthcare,47,8.1,SMB,1,7.3,7,0,1,2,0,1,9,24.6,23.3,0
+ACC2704,Financial Services,633,68.8,Mid-Market,0,7.3,17,2,2,0,0,1,21,62.8,39.1,0
+ACC2705,Technology,527,110.3,Mid-Market,0,3.6,3,1,2,0,0,3,2,49.6,26.0,0
+ACC2706,Healthcare,203,50.2,Mid-Market,1,5.1,6,0,0,1,0,1,2,18.7,15.8,0
+ACC2707,Technology,380,91.5,Mid-Market,0,6.1,10,5,0,2,0,1,1,56.6,56.2,0
+ACC2708,Healthcare,932,105.8,Mid-Market,1,5.0,10,1,1,1,0,2,4,24.8,33.6,0
+ACC2709,Manufacturing,760,173.9,Mid-Market,0,6.7,10,2,0,3,1,4,10,39.9,63.4,1
+ACC2710,Technology,55,11.0,SMB,0,6.1,11,2,2,1,0,0,11,53.7,36.2,0
+ACC2711,Technology,710,111.6,Mid-Market,0,9.2,10,2,3,1,0,1,2,69.8,45.1,1
+ACC2712,Manufacturing,224,38.5,Mid-Market,1,2.4,9,0,1,0,0,5,1,9.9,31.3,0
+ACC2713,Financial Services,269,60.4,Mid-Market,1,5.3,8,1,1,2,0,3,5,42.0,38.0,0
+ACC2714,Technology,269,43.5,Mid-Market,0,3.7,8,2,0,0,0,2,1,47.7,28.9,0
+ACC2715,Education,201,28.8,Mid-Market,0,6.7,8,1,2,1,0,1,16,35.0,26.9,0
+ACC2716,Technology,1151,188.6,Enterprise,0,2.3,1,3,1,0,0,2,0,50.8,28.8,0
+ACC2717,Manufacturing,219,39.1,Mid-Market,0,6.2,4,3,1,1,0,3,13,33.5,35.9,0
+ACC2718,Education,57,6.4,SMB,0,4.2,7,1,1,2,1,1,0,25.4,47.3,0
+ACC2719,Technology,146,34.0,Mid-Market,0,4.0,1,3,1,1,0,0,16,47.6,21.6,0
+ACC2720,Technology,308,59.9,Mid-Market,1,2.6,4,1,0,0,0,0,9,33.4,8.2,0
+ACC2721,Technology,1209,226.9,Enterprise,0,4.6,7,1,4,0,0,2,3,59.0,36.4,0
+ACC2722,Financial Services,535,51.8,Mid-Market,1,7.7,6,0,1,1,0,5,5,52.2,30.2,0
+ACC2723,Technology,80,14.6,SMB,0,5.4,7,4,3,0,0,1,11,51.6,44.0,0
+ACC2724,Manufacturing,6190,622.5,Enterprise,0,6.8,8,1,0,0,0,1,2,77.6,19.7,1
+ACC2725,Technology,345,32.2,Mid-Market,1,8.8,4,0,1,2,1,4,22,54.2,37.3,0
+ACC2726,Healthcare,1284,217.8,Enterprise,0,6.0,19,2,0,2,0,3,6,42.2,55.7,0
+ACC2727,Education,200,29.7,Mid-Market,1,4.4,6,0,1,1,1,2,14,16.3,32.6,0
+ACC2728,Retail,489,88.1,Mid-Market,1,6.4,6,0,2,1,0,4,7,25.5,30.4,0
+ACC2729,Healthcare,728,69.3,Mid-Market,0,4.4,5,3,0,1,0,2,6,32.0,33.3,0
+ACC2730,Financial Services,1192,182.7,Enterprise,0,4.5,7,3,1,3,1,5,6,58.5,73.3,1
+ACC2731,Healthcare,967,106.1,Mid-Market,0,2.5,7,1,0,4,0,4,4,27.8,45.8,0
+ACC2732,Healthcare,760,188.3,Mid-Market,0,7.4,4,2,1,0,0,1,13,42.2,19.3,0
+ACC2733,Financial Services,162,28.4,Mid-Market,0,4.7,7,2,2,0,1,2,18,50.1,43.2,0
+ACC2734,Technology,116,22.8,Mid-Market,0,5.9,3,2,1,0,0,3,19,53.6,21.4,0
+ACC2735,Retail,377,51.0,Mid-Market,0,3.4,6,3,2,1,0,2,1,25.6,44.5,0
+ACC2736,Financial Services,823,79.1,Mid-Market,0,6.4,11,1,3,0,0,4,14,61.5,39.9,0
+ACC2737,Technology,183,45.0,Mid-Market,0,4.0,6,2,0,0,0,0,2,47.9,19.7,0
+ACC2738,Financial Services,977,125.7,Mid-Market,0,5.2,6,2,0,1,0,1,0,58.9,28.3,0
+ACC2739,Financial Services,1617,245.9,Enterprise,0,7.3,6,3,1,0,1,4,3,71.5,55.4,0
+ACC2740,Retail,74,14.1,SMB,0,7.1,7,2,3,0,0,0,3,35.2,32.5,0
+ACC2741,Manufacturing,82,6.9,SMB,0,5.5,6,2,1,0,0,0,16,29.9,18.1,0
+ACC2742,Manufacturing,203,44.2,Mid-Market,0,2.0,7,4,1,3,0,0,13,19.4,47.1,0
+ACC2743,Technology,364,62.3,Mid-Market,0,10.0,8,4,1,1,1,3,0,69.4,67.3,1
+ACC2744,Financial Services,123,15.7,Mid-Market,0,9.0,13,4,2,0,1,3,3,63.9,72.5,1
+ACC2745,Financial Services,1419,128.4,Enterprise,1,6.9,13,1,1,2,0,4,2,57.4,49.5,0
+ACC2746,Technology,424,45.6,Mid-Market,0,4.0,9,1,0,0,0,2,9,50.0,21.4,0
+ACC2747,Technology,257,59.7,Mid-Market,0,5.3,8,1,5,3,1,2,7,52.9,69.5,0
+ACC2748,Manufacturing,37,7.3,SMB,1,4.4,8,2,1,0,1,2,11,14.9,43.5,0
+ACC2749,Technology,44,5.4,SMB,1,8.0,12,5,0,0,0,2,24,48.9,43.3,1
+ACC2750,Healthcare,352,32.1,Mid-Market,0,6.0,13,3,2,1,0,4,5,34.0,59.0,0
+ACC2751,Technology,15,3.0,SMB,0,3.9,5,2,1,1,0,3,10,46.1,32.7,0
+ACC2752,Technology,912,161.7,Mid-Market,0,4.6,3,2,1,0,0,1,25,56.3,13.2,0
+ACC2753,Technology,199,29.6,Mid-Market,0,7.7,7,1,0,0,1,3,7,60.3,36.8,1
+ACC2754,Education,16581,2351.4,Enterprise,1,8.7,14,0,2,0,0,2,3,72.9,33.0,1
+ACC2755,Retail,4916,574.5,Enterprise,0,8.6,8,2,2,0,0,1,5,82.8,32.2,0
+ACC2756,Education,193,37.4,Mid-Market,1,7.0,8,3,4,0,0,3,14,24.9,48.2,0
+ACC2757,Financial Services,213,52.2,Mid-Market,0,5.0,9,2,0,0,1,3,12,51.5,43.6,0
+ACC2758,Technology,892,98.0,Mid-Market,1,1.0,9,0,3,0,0,1,13,33.2,22.7,0
+ACC2759,Healthcare,2239,406.4,Enterprise,0,6.1,11,3,3,1,0,1,13,51.0,48.1,0
+ACC2760,Financial Services,29,4.4,SMB,0,5.5,2,2,0,0,0,2,25,51.5,10.7,0
+ACC2761,Retail,23,3.6,SMB,0,5.8,7,4,3,1,1,2,14,30.4,65.3,0
+ACC2762,Technology,109,13.4,Mid-Market,0,5.6,8,3,1,1,0,2,19,52.6,36.5,0
+ACC2763,Financial Services,521,114.8,Mid-Market,0,2.8,6,2,4,1,0,3,8,46.9,46.6,0
+ACC2764,Technology,466,75.7,Mid-Market,1,6.6,6,1,3,0,1,2,10,48.0,42.9,1
+ACC2765,Financial Services,983,169.4,Mid-Market,0,6.8,10,1,2,1,0,2,34,64.2,25.8,0
+ACC2766,Manufacturing,51,6.7,SMB,0,6.9,12,3,1,1,0,1,20,34.3,39.0,0
+ACC2767,Financial Services,12,1.3,SMB,0,7.4,10,2,1,1,0,0,15,57.7,29.3,0
+ACC2768,Financial Services,746,70.6,Mid-Market,0,6.7,8,3,3,0,0,1,11,61.8,39.6,1
+ACC2769,Financial Services,83,16.7,SMB,1,4.7,8,3,0,1,1,3,4,38.3,56.0,0
+ACC2770,Financial Services,17,1.9,SMB,0,5.4,3,2,1,1,0,3,7,51.1,30.9,0
+ACC2771,Manufacturing,295,58.2,Mid-Market,0,5.7,6,5,3,1,1,2,0,32.5,75.1,0
+ACC2772,Retail,686,100.4,Mid-Market,0,5.7,6,6,4,2,0,1,5,35.9,70.2,1
+ACC2773,Education,208,31.3,Mid-Market,0,7.5,12,4,0,1,0,0,1,37.7,45.5,0
+ACC2774,Manufacturing,134,21.4,Mid-Market,1,6.8,12,0,2,1,1,1,13,23.7,42.7,0
+ACC2775,Financial Services,198,28.2,Mid-Market,0,9.7,9,2,1,0,1,3,22,66.9,43.6,1
+ACC2776,Manufacturing,151,14.7,Mid-Market,0,9.9,11,1,2,0,0,0,1,45.1,29.4,0
+ACC2777,Financial Services,42,5.6,SMB,1,5.7,7,1,2,0,0,1,2,41.3,26.0,0
+ACC2778,Technology,96,18.5,SMB,0,1.0,4,2,2,1,0,1,19,37.2,25.8,0
+ACC2779,Retail,481,92.9,Mid-Market,0,8.0,10,3,1,0,0,3,8,41.7,41.8,0
+ACC2780,Technology,371,47.7,Mid-Market,1,4.4,9,1,0,1,1,4,8,39.9,47.1,0
+ACC2781,Retail,304,48.1,Mid-Market,0,3.9,5,4,1,0,0,2,8,26.6,37.4,0
+ACC2782,Financial Services,67,7.6,SMB,0,4.7,4,1,1,2,0,1,2,49.2,27.5,1
+ACC2783,Healthcare,193,22.3,Mid-Market,0,4.6,2,2,2,1,0,2,2,27.9,32.4,0
+ACC2784,Manufacturing,14,1.2,SMB,1,6.7,13,2,2,0,0,3,29,22.3,36.0,0
+ACC2785,Retail,308,71.6,Mid-Market,1,2.4,12,0,1,1,0,1,12,10.7,24.6,0
+ACC2786,Healthcare,1567,181.5,Enterprise,0,3.3,5,3,0,1,0,2,0,35.8,35.6,0
+ACC2787,Healthcare,36,4.3,SMB,0,6.2,9,2,1,1,0,2,2,31.9,38.7,0
+ACC2788,Technology,114,14.5,Mid-Market,0,6.7,14,1,1,2,1,4,9,56.2,62.8,1
+ACC2789,Healthcare,375,38.1,Mid-Market,0,6.8,7,6,1,0,0,1,3,36.8,51.0,0
+ACC2790,Technology,1247,235.3,Enterprise,0,3.9,4,3,1,1,0,2,2,57.0,37.3,0
+ACC2791,Manufacturing,136,12.6,Mid-Market,0,3.5,6,4,3,1,1,2,2,23.8,68.5,0
+ACC2792,Healthcare,99,10.2,SMB,0,4.5,2,1,3,1,0,3,2,26.8,33.4,0
+ACC2793,Manufacturing,18,3.4,SMB,1,6.0,5,0,3,1,1,2,9,20.0,40.9,0
+ACC2794,Technology,279,38.4,Mid-Market,0,8.5,11,4,4,0,0,4,23,63.7,57.9,0
+ACC2795,Technology,3479,697.0,Enterprise,0,1.4,10,1,1,0,0,1,4,68.4,25.8,0
+ACC2796,Manufacturing,350,61.2,Mid-Market,0,5.1,3,5,0,2,0,0,1,31.0,43.0,0
+ACC2797,Technology,237,29.3,Mid-Market,0,2.8,5,2,2,0,1,3,1,44.4,49.9,0
+ACC2798,Technology,371,70.7,Mid-Market,0,2.2,9,1,2,0,0,0,27,43.6,16.3,0
+ACC2799,Technology,241,24.0,Mid-Market,0,7.4,11,2,1,2,0,1,7,59.7,41.7,0
+ACC2800,Education,85,14.6,SMB,1,6.6,10,2,0,1,1,2,6,22.6,49.4,0
+ACC2801,Manufacturing,713,110.0,Mid-Market,1,6.4,8,0,0,0,1,2,22,27.5,23.6,0
+ACC2802,Financial Services,328,41.2,Mid-Market,0,7.3,7,2,2,0,1,3,7,60.1,50.4,1
+ACC2803,Technology,250,45.7,Mid-Market,0,4.5,9,1,2,2,0,4,6,50.2,46.0,0
+ACC2804,Financial Services,68,15.5,SMB,0,4.6,5,2,2,1,0,4,26,48.9,33.3,0
+ACC2805,Manufacturing,1332,332.8,Enterprise,0,9.9,9,1,2,0,0,2,6,55.5,30.3,0
+ACC2806,Manufacturing,580,106.3,Mid-Market,0,5.0,7,1,1,2,0,3,4,32.7,37.0,0
+ACC2807,Technology,119,17.7,Mid-Market,0,7.0,6,2,0,2,0,2,8,57.3,33.0,0
+ACC2808,Technology,899,106.3,Mid-Market,0,5.5,7,3,1,0,0,2,37,59.2,23.1,0
+ACC2809,Technology,128,15.8,Mid-Market,0,1.8,7,3,4,0,0,3,33,40.2,39.3,0
+ACC2810,Manufacturing,88,14.2,SMB,0,1.4,9,3,2,1,1,4,14,16.4,64.3,0
+ACC2811,Manufacturing,91,13.0,SMB,0,4.3,9,1,1,0,0,2,6,26.1,26.4,0
+ACC2812,Technology,24,5.6,SMB,0,7.6,6,2,4,0,0,0,21,58.4,27.9,0
+ACC2813,Technology,451,64.3,Mid-Market,1,7.1,8,1,0,1,0,2,5,49.5,26.3,0
+ACC2814,Technology,22,3.2,SMB,1,7.3,12,1,1,1,0,2,10,46.4,34.1,0
+ACC2815,Education,49,7.1,SMB,0,3.5,10,3,3,1,0,2,1,23.0,54.2,0
+ACC2816,Technology,16,3.6,SMB,0,8.7,9,1,2,2,0,3,10,62.0,41.5,1
+ACC2817,Manufacturing,218,41.6,Mid-Market,0,3.6,1,3,1,0,1,1,3,24.9,39.3,0
+ACC2818,Healthcare,201,37.1,Mid-Market,0,5.9,3,2,1,1,1,6,14,32.3,51.6,0
+ACC2819,Financial Services,160,21.9,Mid-Market,0,5.5,3,4,0,2,0,3,5,52.7,44.4,0
+ACC2820,Technology,63,13.8,SMB,0,5.2,8,4,3,0,0,2,5,50.8,50.7,0
+ACC2821,Technology,53,4.6,SMB,0,8.2,8,2,1,0,0,1,13,60.7,25.2,0
+ACC2822,Healthcare,447,101.9,Mid-Market,0,4.1,10,3,0,1,0,2,5,28.5,41.0,1
+ACC2823,Manufacturing,119,19.9,Mid-Market,0,2.8,7,3,3,0,0,2,12,21.3,40.7,0
+ACC2824,Healthcare,369,54.5,Mid-Market,1,5.5,7,0,0,1,1,2,19,21.4,28.2,0
+ACC2825,Healthcare,77,12.7,SMB,0,4.7,7,2,1,0,1,4,1,27.3,51.8,0
+ACC2826,Technology,309,59.8,Mid-Market,0,10.0,12,1,2,2,0,0,6,68.9,38.6,0
+ACC2827,Education,1331,109.4,Enterprise,0,6.9,12,2,1,1,0,2,28,45.6,33.0,0
+ACC2828,Manufacturing,524,119.6,Mid-Market,0,4.7,8,2,2,1,0,1,16,31.2,32.8,0
+ACC2829,Technology,143,22.3,Mid-Market,0,3.4,4,2,3,0,0,0,36,45.6,15.2,0
+ACC2830,Education,341,47.2,Mid-Market,0,1.7,5,1,1,2,1,4,19,19.7,45.8,0
+ACC2831,Healthcare,178,18.4,Mid-Market,0,3.4,4,2,0,0,0,2,3,23.8,22.2,1
+ACC2832,Healthcare,247,38.2,Mid-Market,0,5.7,8,4,0,0,0,2,1,32.1,40.6,0
+ACC2833,Manufacturing,160,26.3,Mid-Market,0,8.4,8,1,1,0,1,2,2,40.2,41.2,1
+ACC2834,Retail,197,29.3,Mid-Market,0,7.7,7,1,0,0,0,0,2,38.2,15.3,0
+ACC2835,Manufacturing,322,62.9,Mid-Market,0,6.0,5,1,2,0,0,4,0,33.7,32.7,0
+ACC2836,Technology,67,10.2,SMB,0,4.9,3,2,2,2,0,1,23,49.9,27.6,0
+ACC2837,Financial Services,65,15.8,SMB,0,6.0,12,4,1,2,0,1,6,53.5,55.2,0
+ACC2838,Education,40,7.3,SMB,0,4.5,6,2,5,2,0,2,1,26.3,55.2,0
+ACC2839,Technology,30,6.5,SMB,0,8.9,6,1,1,0,0,0,14,62.8,13.1,0
+ACC2840,Financial Services,50,4.9,SMB,0,5.1,6,2,3,0,1,3,3,50.4,54.4,0
+ACC2841,Financial Services,301,44.4,Mid-Market,1,5.3,6,1,4,0,0,0,0,42.2,30.2,0
+ACC2842,Financial Services,76,10.4,SMB,1,1.1,7,0,2,0,0,2,2,26.4,23.1,0
+ACC2843,Healthcare,477,84.3,Mid-Market,0,5.1,7,3,2,1,0,1,10,32.1,39.5,0
+ACC2844,Education,255,57.7,Mid-Market,1,7.2,8,1,0,0,1,3,15,26.1,35.1,0
+ACC2845,Technology,18,1.7,SMB,0,3.4,8,2,0,2,1,4,2,44.5,58.7,0
+ACC2846,Technology,573,52.9,Mid-Market,1,4.0,2,2,3,2,1,2,8,40.3,53.5,0
+ACC2847,Technology,702,157.6,Mid-Market,0,7.1,8,1,1,2,0,3,0,62.8,40.0,1
+ACC2848,Retail,67,7.8,SMB,0,2.5,6,5,2,0,0,5,3,19.9,59.3,0
+ACC2849,Healthcare,422,81.7,Mid-Market,0,7.6,17,2,1,0,0,3,2,39.9,48.5,1
+ACC2850,Technology,80,13.8,SMB,0,4.4,4,4,1,0,1,2,0,48.3,53.7,0
+ACC2851,Retail,277,61.4,Mid-Market,0,4.7,4,3,1,2,0,1,6,29.0,37.7,0
+ACC2852,Retail,47,4.8,SMB,1,3.3,2,0,3,1,0,0,9,11.3,16.0,0
+ACC2853,Retail,23,2.3,SMB,0,6.3,11,4,3,0,0,0,0,32.1,51.2,0
+ACC2854,Retail,148,25.8,Mid-Market,0,10.0,13,1,3,0,0,1,1,45.4,39.1,0
+ACC2855,Technology,208,50.1,Mid-Market,0,7.1,4,1,1,0,0,1,26,58.4,8.4,0
+ACC2856,Manufacturing,145,21.8,Mid-Market,0,3.8,7,1,0,0,0,1,2,24.9,18.2,0
+ACC2857,Financial Services,52,7.1,SMB,0,7.8,8,2,3,1,0,2,14,59.3,40.4,0
+ACC2858,Retail,145,26.6,Mid-Market,0,4.9,6,1,1,1,0,1,13,28.5,21.3,0
+ACC2859,Manufacturing,347,82.6,Mid-Market,0,8.2,12,3,2,2,0,4,3,41.2,63.2,1
+ACC2860,Manufacturing,230,51.1,Mid-Market,0,7.1,11,4,0,1,0,2,2,36.5,49.5,0
+ACC2861,Manufacturing,310,77.3,Mid-Market,0,1.0,6,2,1,0,0,2,2,17.1,29.5,0
+ACC2862,Technology,102,8.6,Mid-Market,0,3.5,7,1,2,0,0,1,8,45.6,23.7,0
+ACC2863,Healthcare,1122,111.3,Enterprise,0,7.4,7,2,3,1,0,2,4,45.4,42.8,0
+ACC2864,Education,53,9.7,SMB,1,5.8,10,1,2,0,1,1,6,19.7,43.5,0
+ACC2865,Education,461,101.2,Mid-Market,0,3.5,7,2,1,2,0,1,16,26.7,32.3,0
+ACC2866,Technology,1137,146.1,Enterprise,0,4.2,7,3,2,2,1,3,6,57.0,66.4,1
+ACC2867,Technology,457,55.1,Mid-Market,0,1.7,5,1,1,1,0,2,53,42.7,7.1,0
+ACC2868,Technology,188,40.2,Mid-Market,0,5.3,7,1,4,1,0,0,10,52.3,32.7,0
+ACC2869,Manufacturing,123,11.0,Mid-Market,0,9.9,7,1,2,0,0,4,2,44.9,34.8,0
+ACC2870,Retail,940,134.2,Mid-Market,0,7.1,5,2,1,2,1,8,6,42.8,68.4,0
+ACC2871,Technology,38,6.3,SMB,0,9.9,11,2,1,3,0,3,16,66.2,48.9,0
+ACC2872,Healthcare,69,12.1,SMB,0,7.3,11,2,5,5,0,3,2,35.8,79.7,0
+ACC2873,Retail,145,29.6,Mid-Market,0,7.6,13,2,2,1,1,2,13,37.4,58.8,0
+ACC2874,Manufacturing,1222,171.5,Enterprise,0,9.4,12,3,2,0,0,5,0,52.9,57.6,1
+ACC2875,Healthcare,400,73.7,Mid-Market,0,6.3,12,1,2,1,1,1,28,35.4,42.7,0
+ACC2876,Healthcare,69,12.4,SMB,0,5.1,4,3,3,2,0,3,10,28.5,49.8,0
+ACC2877,Healthcare,163,28.2,Mid-Market,0,7.6,22,3,2,0,0,3,1,37.6,66.0,0
+ACC2878,Technology,110,20.8,Mid-Market,0,8.4,7,2,0,1,1,3,20,61.8,42.4,1
+ACC2879,Healthcare,97,12.0,SMB,1,4.5,11,0,7,1,0,0,0,15.7,48.3,0
+ACC2880,Manufacturing,873,82.4,Mid-Market,0,4.1,9,2,1,1,0,1,5,32.3,34.6,0
+ACC2881,Retail,41,4.1,SMB,0,5.8,4,1,3,0,0,4,13,30.6,30.0,0
+ACC2882,Healthcare,1981,234.1,Enterprise,0,7.2,9,1,3,0,0,2,27,52.3,26.0,0
+ACC2883,Manufacturing,718,118.5,Mid-Market,0,7.1,14,3,2,1,0,1,4,40.8,52.1,0
+ACC2884,Technology,1010,225.1,Enterprise,0,2.7,6,1,2,1,0,0,17,50.9,20.7,0
+ACC2885,Financial Services,134,26.7,Mid-Market,0,9.3,9,3,3,2,0,2,2,65.0,57.3,1
+ACC2886,Technology,201,43.0,Mid-Market,0,4.2,6,3,2,1,0,1,0,48.7,42.0,0
+ACC2887,Technology,37,5.2,SMB,0,5.0,6,1,2,1,0,2,0,49.9,33.2,0
+ACC2888,Manufacturing,123,18.3,Mid-Market,0,3.7,5,2,5,1,0,0,10,24.3,39.5,0
+ACC2889,Education,464,68.2,Mid-Market,0,10.0,7,4,0,1,0,4,1,48.2,49.9,1
+ACC2890,Technology,1319,148.5,Enterprise,0,6.0,8,2,1,1,0,3,0,64.6,41.0,0
+ACC2891,Financial Services,58,5.2,SMB,1,3.8,1,1,1,0,1,2,37,35.1,17.3,0
+ACC2892,Retail,152,27.4,Mid-Market,0,7.2,9,1,0,2,0,4,2,36.2,39.7,0
+ACC2893,Technology,201,49.9,Mid-Market,1,7.0,7,3,2,0,1,2,6,47.0,53.8,1
+ACC2894,Healthcare,39,4.2,SMB,1,5.1,6,3,2,2,0,1,9,17.2,43.3,0
+ACC2895,Manufacturing,527,46.3,Mid-Market,1,7.2,9,2,3,1,0,2,1,28.5,46.9,1
+ACC2896,Healthcare,95,20.2,SMB,1,3.8,4,2,0,2,0,2,4,13.4,31.6,0
+ACC2897,Technology,189,23.2,Mid-Market,0,4.5,4,1,2,2,0,4,10,49.6,37.1,0
+ACC2898,Financial Services,135,29.8,Mid-Market,0,1.5,6,2,2,2,0,2,10,39.2,40.0,0
+ACC2899,Manufacturing,87,17.4,SMB,0,2.9,4,1,2,2,0,1,18,21.4,25.2,0
+ACC2900,Healthcare,242,58.3,Mid-Market,0,9.1,8,2,2,1,0,4,5,43.3,45.9,0
+ACC2901,Technology,184,27.5,Mid-Market,1,8.8,11,1,1,1,0,0,22,52.8,22.1,0
+ACC2902,Manufacturing,150,28.9,Mid-Market,1,5.6,6,1,2,1,0,1,11,19.8,26.0,0
+ACC2903,Technology,94,14.9,SMB,0,8.8,6,3,2,1,0,0,8,63.0,35.9,0
+ACC2904,Manufacturing,370,69.3,Mid-Market,0,5.2,9,2,1,0,0,0,1,31.5,28.4,0
+ACC2905,Technology,2100,328.5,Enterprise,0,5.0,11,1,1,1,0,1,8,68.1,30.5,0
+ACC2906,Education,293,32.8,Mid-Market,0,5.6,2,2,0,0,0,2,9,32.1,17.0,0
+ACC2907,Financial Services,893,148.5,Mid-Market,0,5.3,8,4,1,0,0,4,14,58.5,45.3,0
+ACC2908,Financial Services,40,6.8,SMB,0,5.1,5,2,1,3,1,4,12,50.3,59.2,0
+ACC2909,Technology,300,65.3,Mid-Market,1,7.8,13,2,0,2,0,3,7,50.5,46.5,0
+ACC2910,Financial Services,58,11.9,SMB,0,5.8,9,2,1,0,0,0,8,52.8,25.7,1
+ACC2911,Retail,35,6.7,SMB,1,6.9,9,0,2,1,1,3,14,23.1,43.8,0
+ACC2912,Education,93,9.2,SMB,0,7.6,10,2,1,0,0,3,4,37.0,37.5,0
+ACC2913,Financial Services,1152,233.3,Enterprise,1,6.3,5,2,0,0,0,2,1,53.0,24.5,0
+ACC2914,Financial Services,841,138.8,Mid-Market,0,3.6,9,3,2,0,0,3,20,52.4,39.5,0
+ACC2915,Manufacturing,335,77.7,Mid-Market,1,2.8,3,0,1,2,0,1,33,12.2,8.1,0
+ACC2916,Retail,33,7.8,SMB,0,5.8,8,3,2,1,0,3,5,30.5,48.8,0
+ACC2917,Healthcare,189,16.9,Mid-Market,0,5.2,9,3,1,1,0,1,46,29.9,24.5,0
+ACC2918,Financial Services,362,79.5,Mid-Market,0,5.7,3,3,1,1,1,3,3,55.1,53.0,1
+ACC2919,Financial Services,307,26.5,Mid-Market,1,5.5,8,4,1,1,0,0,0,43.0,43.9,0
+ACC2920,Manufacturing,22,3.1,SMB,0,10.0,7,1,3,0,0,0,8,44.3,24.7,0
+ACC2921,Technology,76,13.1,SMB,0,2.8,5,2,2,1,0,4,20,43.0,35.6,0
+ACC2922,Healthcare,225,23.7,Mid-Market,0,1.5,6,3,1,1,1,5,9,18.0,60.9,0
+ACC2923,Financial Services,491,101.6,Mid-Market,0,6.2,6,2,0,0,1,5,0,57.9,49.8,1
+ACC2924,Manufacturing,14,1.1,SMB,1,4.7,8,0,1,2,0,2,0,15.7,31.2,0
+ACC2925,Technology,198,21.5,Mid-Market,0,6.1,13,2,3,0,0,1,12,55.0,40.7,0
+ACC2926,Healthcare,294,52.5,Mid-Market,0,6.7,8,2,1,1,0,3,18,35.8,34.0,0
+ACC2927,Financial Services,738,148.7,Mid-Market,1,8.1,12,1,2,1,1,4,2,55.4,61.7,1
+ACC2928,Healthcare,602,142.0,Mid-Market,0,2.5,5,2,4,0,0,1,6,24.6,35.2,0
+ACC2929,Technology,521,104.2,Mid-Market,1,4.4,6,0,0,0,0,1,32,41.2,0.0,0
+ACC2930,Healthcare,86,16.7,SMB,0,6.4,15,3,0,1,0,2,6,33.0,47.9,0
+ACC2931,Healthcare,20,2.9,SMB,0,7.0,17,1,2,1,1,3,1,34.4,66.4,1
+ACC2932,Healthcare,146,11.7,Mid-Market,0,9.9,13,3,2,3,0,1,24,45.1,52.6,0
+ACC2933,Healthcare,899,90.3,Mid-Market,0,7.4,6,1,2,0,0,1,6,43.4,23.0,0
+ACC2934,Manufacturing,1497,255.8,Enterprise,0,5.4,6,1,5,0,0,6,4,42.1,50.1,0
+ACC2935,Retail,616,120.0,Mid-Market,0,3.7,5,1,1,2,0,1,1,28.7,29.4,0
+ACC2936,Technology,427,64.5,Mid-Market,0,4.4,7,1,1,1,1,3,6,51.4,46.0,1
+ACC2937,Retail,400,81.7,Mid-Market,0,4.3,8,2,2,1,1,2,14,28.8,51.1,1
+ACC2938,Financial Services,118,19.9,Mid-Market,1,6.8,9,1,5,1,0,0,12,45.6,38.7,0
+ACC2939,Technology,206,19.1,Mid-Market,0,6.0,10,2,1,0,0,0,6,54.7,27.9,0
+ACC2940,Technology,2142,241.3,Enterprise,0,2.9,6,1,2,3,0,1,12,61.6,35.3,0
+ACC2941,Financial Services,71,15.8,SMB,1,4.6,7,1,2,0,0,1,4,37.9,25.3,0
+ACC2942,Manufacturing,1996,405.7,Enterprise,0,7.3,8,2,1,0,0,3,13,52.8,31.0,0
+ACC2943,Manufacturing,160,37.1,Mid-Market,0,6.2,8,3,0,1,1,3,0,32.9,57.6,0
+ACC2944,Manufacturing,1370,137.0,Enterprise,1,6.6,15,1,0,0,0,1,2,33.9,30.0,0
+ACC2945,Healthcare,39,9.7,SMB,1,6.3,12,0,3,2,0,0,21,21.2,30.8,0
+ACC2946,Financial Services,524,60.6,Mid-Market,0,8.8,6,2,3,1,0,2,3,66.8,41.8,1
+ACC2947,Technology,93,7.6,SMB,0,6.0,8,2,2,2,0,1,2,53.7,43.1,0
+ACC2948,Financial Services,38,9.5,SMB,0,4.7,5,1,3,3,0,4,0,49.0,51.2,0
+ACC2949,Financial Services,325,41.5,Mid-Market,0,3.7,4,2,0,2,0,1,4,48.2,28.7,0
+ACC2950,Technology,908,175.8,Mid-Market,0,6.0,5,1,1,0,0,1,0,60.9,20.0,0
+ACC2951,Technology,81,8.9,SMB,0,1.0,4,2,1,0,0,0,6,37.1,19.1,0
+ACC2952,Healthcare,34,6.1,SMB,0,5.1,6,2,0,1,1,3,25,28.2,39.0,1
+ACC2953,Manufacturing,217,50.7,Mid-Market,0,5.1,5,1,2,0,1,3,15,29.8,38.5,0
+ACC2954,Education,218,29.3,Mid-Market,0,2.8,4,1,3,1,0,2,0,22.2,34.1,0
+ACC2955,Education,499,96.8,Mid-Market,0,3.6,3,2,1,2,0,2,3,27.3,34.4,0
+ACC2956,Healthcare,840,94.0,Mid-Market,0,7.1,13,1,2,1,0,4,2,41.9,48.5,0
+ACC2957,Financial Services,226,42.1,Mid-Market,0,6.0,3,1,0,3,0,4,0,54.9,36.6,0
+ACC2958,Healthcare,2730,374.5,Enterprise,0,5.7,7,1,0,1,0,4,1,54.0,32.3,0
+ACC2959,Manufacturing,327,37.9,Mid-Market,0,6.1,7,1,0,1,1,2,23,34.1,32.5,0
+ACC2960,Technology,155,20.7,Mid-Market,0,5.7,4,3,0,1,0,1,3,53.3,30.0,0
+ACC2961,Financial Services,30,3.3,SMB,0,8.0,12,1,1,0,1,2,4,59.8,46.2,0
+ACC2962,Retail,173,40.4,Mid-Market,0,5.7,4,1,2,0,0,1,6,31.4,20.1,0
+ACC2963,Financial Services,158,23.3,Mid-Market,0,2.6,8,4,2,1,1,3,13,43.1,66.1,1
+ACC2964,Healthcare,852,103.7,Mid-Market,0,8.8,4,1,0,0,1,3,16,47.6,28.9,0
+ACC2965,Healthcare,446,69.7,Mid-Market,0,6.2,7,1,0,1,0,1,33,35.5,11.0,0
+ACC2966,Technology,52,7.0,SMB,0,4.3,4,2,1,0,0,2,2,47.8,26.5,0
+ACC2967,Financial Services,306,63.2,Mid-Market,0,3.0,4,4,0,0,0,1,3,45.7,31.0,0
+ACC2968,Financial Services,585,143.4,Mid-Market,0,6.3,6,2,2,1,1,2,3,59.1,52.5,1
+ACC2969,Technology,1783,275.4,Enterprise,0,5.3,7,2,1,1,0,5,5,66.3,43.4,0
+ACC2970,Technology,775,175.4,Mid-Market,0,8.6,13,3,1,1,0,1,16,68.4,42.0,0
+ACC2971,Retail,657,115.8,Mid-Market,1,4.8,5,2,1,0,1,3,2,21.7,45.6,0
+ACC2972,Technology,264,28.2,Mid-Market,0,3.8,3,2,0,1,0,0,15,48.0,15.1,0
+ACC2973,Healthcare,405,79.9,Mid-Market,0,7.3,8,4,0,0,0,2,2,38.7,40.2,1
+ACC2974,Technology,1241,207.6,Enterprise,1,7.4,8,1,1,0,0,1,12,57.5,19.7,0
+ACC2975,Education,43,8.2,SMB,1,5.8,6,1,1,1,1,3,16,19.6,40.6,0
+ACC2976,Technology,155,35.8,Mid-Market,0,6.9,12,2,1,1,1,5,19,57.3,59.9,0
+ACC2977,Financial Services,89,13.8,SMB,0,5.4,8,2,3,0,0,0,7,51.7,32.4,0
+ACC2978,Retail,400,93.3,Mid-Market,0,6.0,9,1,5,1,0,1,3,34.4,45.2,0
+ACC2979,Retail,1211,251.4,Enterprise,0,7.8,9,5,0,1,0,4,14,47.5,53.6,1
+ACC2980,Technology,112,18.3,Mid-Market,0,6.8,3,1,0,1,0,1,3,56.6,16.9,0
+ACC2981,Retail,10,1.8,SMB,0,5.2,7,1,2,2,0,4,1,28.3,45.0,0
+ACC2982,Financial Services,143,19.4,Mid-Market,0,8.2,14,2,1,0,0,0,17,61.5,29.5,0
+ACC2983,Financial Services,802,198.3,Mid-Market,0,1.0,3,2,1,0,0,2,5,43.5,23.9,0
+ACC2984,Technology,492,95.2,Mid-Market,0,9.6,13,1,2,3,0,0,8,69.2,44.2,1
+ACC2985,Technology,426,37.3,Mid-Market,1,2.1,6,1,1,1,0,0,25,32.8,13.7,0
+ACC2986,Manufacturing,170,23.0,Mid-Market,0,4.2,12,2,4,1,0,1,1,26.4,52.3,1
+ACC2987,Financial Services,46,8.6,SMB,0,5.4,5,3,1,0,0,4,8,51.3,37.4,0
+ACC2988,Financial Services,478,42.8,Mid-Market,0,5.2,6,2,1,0,0,2,8,54.5,27.1,0
+ACC2989,Manufacturing,82,6.9,SMB,0,7.5,18,1,4,0,0,1,19,36.6,43.3,1
+ACC2990,Manufacturing,4185,655.0,Enterprise,0,3.4,4,3,3,0,0,0,4,59.2,33.6,0
+ACC2991,Technology,513,70.1,Mid-Market,1,6.0,7,0,3,0,0,1,5,46.4,22.9,0
+ACC2992,Healthcare,115,17.8,Mid-Market,1,4.3,4,1,0,0,0,2,7,15.2,14.8,0
+ACC2993,Technology,110,13.7,Mid-Market,0,6.1,10,3,3,1,0,2,1,54.2,54.2,0
+ACC2994,Manufacturing,216,23.3,Mid-Market,0,5.4,7,3,4,0,0,2,6,30.8,46.9,0
+ACC2995,Manufacturing,179,35.3,Mid-Market,0,5.7,9,2,2,1,0,2,5,31.5,41.5,0
+ACC2996,Education,1045,175.0,Enterprise,0,4.4,7,1,1,0,0,3,2,34.8,28.0,1
+ACC2997,Technology,311,35.5,Mid-Market,0,4.5,7,1,0,0,0,3,17,50.7,18.2,0
+ACC2998,Technology,94,12.6,SMB,0,6.1,7,3,0,1,0,2,5,54.1,36.6,0
+ACC2999,Technology,2857,516.0,Enterprise,0,7.4,6,3,2,0,0,2,3,82.8,38.8,0
+ACC3000,Technology,260,24.0,Mid-Market,0,4.3,6,3,0,1,0,3,1,49.6,39.6,0
+ACC3001,Technology,664,69.8,Mid-Market,0,3.8,4,3,2,1,0,0,0,51.5,36.1,1
+ACC3002,Retail,110,10.2,Mid-Market,1,6.7,10,1,2,0,0,0,32,23.1,15.8,0
+ACC3003,Technology,392,85.5,Mid-Market,0,5.4,12,2,2,0,0,2,53,54.4,22.2,1
+ACC3004,Technology,366,76.1,Mid-Market,0,7.2,13,3,2,1,1,2,22,60.1,61.2,1
+ACC3005,Manufacturing,20,4.2,SMB,0,3.7,7,2,1,0,0,3,6,23.4,32.3,1
+ACC3006,Financial Services,3360,678.0,Enterprise,0,1.9,3,2,1,0,0,3,16,69.0,22.5,0
+ACC3007,Manufacturing,1310,253.9,Enterprise,0,4.4,8,3,1,0,0,1,17,37.1,29.5,0
+ACC3008,Technology,146,23.5,Mid-Market,0,4.0,9,2,0,0,1,3,3,47.6,47.1,1
+ACC3009,Financial Services,58,11.0,SMB,1,5.3,8,1,3,0,0,1,8,40.1,29.1,0
+ACC3010,Technology,384,33.2,Mid-Market,0,4.2,5,1,3,1,0,1,31,50.4,20.6,0
+ACC3011,Technology,273,50.7,Mid-Market,0,7.0,11,1,2,2,0,2,3,58.6,44.2,1
+ACC3012,Retail,388,82.3,Mid-Market,0,4.9,4,3,3,1,0,3,10,30.7,44.9,0
+ACC3013,Technology,313,51.7,Mid-Market,1,5.8,4,1,2,0,1,3,10,44.0,39.0,0
+ACC3014,Healthcare,472,66.4,Mid-Market,1,5.8,7,0,1,0,0,1,6,23.3,14.7,0
+ACC3015,Financial Services,1605,204.1,Enterprise,0,5.9,6,2,1,0,0,2,6,66.7,27.9,0
+ACC3016,Financial Services,512,96.9,Mid-Market,0,5.5,7,2,2,0,0,3,6,55.8,36.2,0
+ACC3017,Retail,62,12.3,SMB,0,6.5,5,2,4,1,1,2,7,33.1,57.3,1
+ACC3018,Technology,1438,328.0,Enterprise,0,3.9,7,2,1,1,0,1,1,58.7,33.3,0
+ACC3019,Manufacturing,2064,285.2,Enterprise,0,8.3,9,2,3,1,0,3,15,56.7,44.4,1
+ACC3020,Education,14730,3106.0,Enterprise,0,5.0,5,2,3,0,0,5,10,71.7,41.5,0
+ACC3021,Healthcare,56,9.8,SMB,0,2.9,4,3,1,2,0,0,36,21.1,23.0,0
+ACC3022,Education,335,77.1,Mid-Market,0,5.9,4,1,2,1,0,2,2,33.5,29.5,0
+ACC3023,Technology,16,2.7,SMB,0,3.8,10,3,1,1,1,2,1,45.8,61.1,0
+ACC3024,Financial Services,502,84.3,Mid-Market,1,6.8,9,0,3,0,0,1,4,49.0,26.2,0
+ACC3025,Technology,119,21.2,Mid-Market,0,9.9,12,1,0,1,0,2,7,66.9,31.4,0
+ACC3026,Manufacturing,2982,618.4,Enterprise,0,3.9,4,2,1,0,0,3,2,50.2,29.5,0
+ACC3027,Education,89,21.7,SMB,0,6.2,6,3,2,1,1,3,6,32.3,60.1,0
+ACC3028,Technology,27,2.5,SMB,0,2.0,4,2,2,0,1,3,10,39.9,44.9,0
+ACC3029,Manufacturing,132,11.8,Mid-Market,0,6.4,11,1,2,1,1,2,0,33.4,55.1,0
+ACC3030,Technology,18,4.3,SMB,0,3.7,3,1,0,1,0,1,14,45.5,12.6,0
+ACC3031,Healthcare,649,110.4,Mid-Market,0,4.3,6,1,3,2,0,3,28,31.0,34.0,0
+ACC3032,Financial Services,16,3.0,SMB,0,3.3,4,2,1,2,0,2,3,44.1,35.9,0
+ACC3033,Education,253,41.0,Mid-Market,0,7.0,12,3,3,2,0,2,14,36.4,57.0,0
+ACC3034,Healthcare,16,1.5,SMB,0,7.5,18,2,1,0,0,3,5,36.0,48.8,0
+ACC3035,Financial Services,161,33.9,Mid-Market,1,5.5,5,1,2,1,0,1,10,41.7,24.9,0
+ACC3036,Technology,2072,429.0,Enterprise,0,3.8,8,2,2,0,0,1,13,63.9,29.1,0
+ACC3037,Technology,391,52.0,Mid-Market,0,8.7,9,1,1,1,0,1,3,65.3,29.6,1
+ACC3038,Technology,79,10.4,SMB,0,4.0,4,1,3,1,0,1,15,47.0,25.4,0
+ACC3039,Technology,234,52.0,Mid-Market,1,1.2,3,1,1,1,1,3,1,28.1,42.0,0
+ACC3040,Retail,250,23.1,Mid-Market,0,6.4,13,3,1,0,0,1,43,34.4,26.6,0
+ACC3041,Healthcare,452,103.9,Mid-Market,0,3.3,6,2,2,0,0,6,4,25.9,44.3,0
+ACC3042,Healthcare,41,5.1,SMB,1,7.5,13,2,0,2,1,2,2,25.2,60.2,1
+ACC3043,Technology,528,95.5,Mid-Market,0,4.7,5,2,2,1,0,3,1,53.3,40.1,0
+ACC3044,Retail,7,1.7,SMB,0,6.7,12,2,1,1,0,0,16,33.2,31.8,0
+ACC3045,Manufacturing,107,20.9,Mid-Market,0,8.3,6,2,0,0,0,3,8,39.4,26.1,0
+ACC3046,Technology,129,19.4,Mid-Market,1,3.1,5,1,5,1,0,0,30,33.4,25.9,0
+ACC3047,Manufacturing,557,109.9,Mid-Market,0,4.4,5,2,0,0,0,0,10,30.5,15.1,0
+ACC3048,Healthcare,251,34.8,Mid-Market,0,5.3,6,1,0,1,1,2,4,30.8,38.4,1
+ACC3049,Technology,39,5.0,SMB,0,8.6,8,1,2,3,0,2,18,61.9,38.8,0
+ACC3050,Financial Services,68,17.0,SMB,0,4.2,5,1,2,0,0,3,3,47.6,28.6,0
+ACC3051,Financial Services,316,65.6,Mid-Market,0,4.3,7,1,1,1,0,1,3,50.1,26.6,0
+ACC3052,Technology,220,41.7,Mid-Market,0,6.5,10,2,1,1,0,1,0,56.5,38.0,0
+ACC3053,Education,115,16.1,Mid-Market,0,4.3,8,1,0,1,0,4,2,26.3,33.4,0
+ACC3054,Retail,130,11.5,Mid-Market,0,5.8,5,4,4,1,0,4,3,31.4,61.8,0
+ACC3055,Manufacturing,604,51.5,Mid-Market,0,2.4,9,1,4,1,0,1,3,24.3,41.3,0
+ACC3056,Financial Services,124,21.6,Mid-Market,1,9.9,10,1,2,0,0,1,4,55.9,29.7,0
+ACC3057,Financial Services,218,45.7,Mid-Market,0,2.8,6,1,1,0,1,6,8,44.3,47.6,1
+ACC3058,Manufacturing,4108,703.9,Enterprise,1,4.9,3,0,4,2,0,0,2,52.4,29.0,0
+ACC3059,Healthcare,38,8.5,SMB,0,5.4,6,1,1,0,0,2,10,29.2,20.5,1
+ACC3060,Technology,22,1.9,SMB,0,9.3,10,3,3,1,0,2,1,64.0,54.2,1
+ACC3061,Healthcare,677,96.4,Mid-Market,0,2.9,6,1,0,2,1,3,26,26.6,37.7,0
+ACC3062,Retail,101,12.2,Mid-Market,0,9.5,9,2,1,0,0,3,0,43.3,37.6,0
+ACC3063,Financial Services,161,25.1,Mid-Market,1,7.0,7,2,0,0,0,0,23,46.6,13.0,0
+ACC3064,Technology,88,8.1,SMB,1,6.3,15,0,1,0,0,3,7,43.7,31.9,1
+ACC3065,Manufacturing,174,42.1,Mid-Market,0,3.5,7,2,1,1,0,5,12,24.1,40.7,0
+ACC3066,Technology,1954,230.5,Enterprise,0,6.6,5,1,2,0,0,4,3,72.1,31.5,0
+ACC3067,Technology,694,164.3,Mid-Market,0,4.1,3,2,0,2,0,3,1,52.8,34.2,1
+ACC3068,Technology,750,114.3,Mid-Market,0,8.0,7,2,2,0,0,3,29,66.2,27.2,0
+ACC3069,Financial Services,38,9.4,SMB,0,3.6,5,2,1,0,0,3,5,45.3,29.8,0
+ACC3070,Manufacturing,54,9.4,SMB,0,5.3,7,2,1,0,0,3,6,29.0,32.3,0
+ACC3071,Healthcare,6,1.4,SMB,0,4.4,5,3,1,0,0,1,42,25.6,15.3,0
+ACC3072,Technology,85,6.9,SMB,0,3.5,8,2,0,1,0,0,4,45.4,26.7,0
+ACC3073,Retail,848,175.7,Mid-Market,1,7.0,10,1,0,0,1,2,1,30.6,40.6,1
+ACC3074,Retail,479,111.9,Mid-Market,0,6.6,14,2,1,0,0,0,8,37.1,33.0,0
+ACC3075,Retail,183,19.0,Mid-Market,0,7.9,10,2,1,1,0,3,8,38.8,40.8,1
+ACC3076,Technology,237,22.8,Mid-Market,1,1.9,5,3,5,3,0,0,14,30.4,53.6,1
+ACC3077,Financial Services,99,15.1,SMB,0,7.6,13,4,1,0,0,0,31,59.1,34.2,0
+ACC3078,Education,319,76.2,Mid-Market,0,10.0,9,2,1,1,0,0,3,46.9,32.5,1
+ACC3079,Manufacturing,662,114.0,Mid-Market,0,4.6,4,1,3,1,0,3,12,32.1,32.4,0
+ACC3080,Technology,29,4.9,SMB,0,9.3,11,2,2,3,0,3,5,64.1,57.1,0
+ACC3081,Technology,361,37.5,Mid-Market,0,5.0,6,2,2,0,0,2,15,52.8,28.3,0
+ACC3082,Financial Services,822,65.9,Mid-Market,1,2.8,5,0,2,1,0,2,1,38.6,25.5,0
+ACC3083,Retail,142,30.9,Mid-Market,1,4.9,3,0,1,0,0,0,6,17.5,6.0,0
+ACC3084,Healthcare,608,57.7,Mid-Market,0,7.6,13,2,2,2,1,2,0,41.5,68.8,1
+ACC3085,Financial Services,9500,1783.7,Enterprise,0,3.8,7,2,0,1,0,2,8,89.7,29.6,0
+ACC3086,Technology,213,50.2,Mid-Market,0,4.3,4,3,2,1,0,0,1,49.2,35.7,0
+ACC3087,Manufacturing,408,47.1,Mid-Market,0,6.7,11,1,0,0,0,3,32,36.8,18.2,0
+ACC3088,Retail,93,18.0,SMB,0,5.5,6,1,3,2,0,1,8,30.0,35.9,0
+ACC3089,Financial Services,309,28.9,Mid-Market,0,6.7,16,4,0,1,1,1,7,58.0,66.5,0
+ACC3090,Manufacturing,445,81.3,Mid-Market,0,6.0,5,6,1,0,0,4,35,34.8,44.4,0
+ACC3091,Education,315,34.0,Mid-Market,0,6.5,7,3,3,0,0,1,6,35.3,40.1,1
+ACC3092,Technology,65,13.3,SMB,0,4.6,8,3,4,1,0,2,11,48.9,51.3,0
+ACC3093,Healthcare,319,41.9,Mid-Market,0,6.0,6,2,2,0,1,2,0,33.7,48.8,0
+ACC3094,Technology,1637,259.9,Enterprise,0,3.6,9,2,3,1,0,1,12,59.4,39.7,1
+ACC3095,Manufacturing,438,79.7,Mid-Market,0,8.1,8,1,2,0,1,3,1,41.7,48.4,0
+ACC3096,Healthcare,854,93.2,Mid-Market,0,4.2,6,2,0,1,0,5,15,32.4,34.1,0
+ACC3097,Healthcare,179,36.9,Mid-Market,0,7.8,9,2,1,1,0,3,20,38.4,34.6,0
+ACC3098,Manufacturing,648,85.2,Mid-Market,0,5.0,5,2,1,1,0,2,3,33.3,32.5,0
+ACC3099,Financial Services,351,67.6,Mid-Market,1,5.9,8,0,3,0,1,4,21,44.7,41.6,1
+ACC3100,Retail,71,7.6,SMB,0,4.5,7,2,0,0,0,2,6,26.5,25.5,0
+ACC3101,Healthcare,370,72.9,Mid-Market,0,3.5,5,3,1,1,0,4,8,25.9,42.2,0
+ACC3102,Technology,67,6.8,SMB,0,2.0,9,2,3,0,0,1,5,40.3,37.6,1
+ACC3103,Manufacturing,107,16.3,Mid-Market,0,3.4,8,2,1,0,0,1,6,23.2,27.9,0
+ACC3104,Manufacturing,312,38.1,Mid-Market,0,4.9,7,3,4,0,0,3,23,30.0,43.2,0
+ACC3105,Financial Services,360,74.6,Mid-Market,0,5.9,4,2,3,1,0,2,29,55.8,28.7,0
+ACC3106,Retail,52,6.5,SMB,1,7.5,9,0,2,1,0,2,5,25.3,29.8,0
+ACC3107,Retail,963,221.4,Mid-Market,0,4.6,7,2,3,2,0,1,7,34.7,43.6,1
+ACC3108,Technology,514,119.0,Mid-Market,0,3.7,5,3,1,1,0,2,1,49.8,39.1,0
+ACC3109,Education,97,11.0,SMB,0,2.6,3,4,1,1,0,2,3,20.5,41.3,0
+ACC3110,Technology,33,6.1,SMB,0,6.5,7,2,1,0,0,0,7,54.9,23.1,0
+ACC3111,Technology,202,19.2,Mid-Market,0,8.3,11,2,3,0,1,1,2,62.3,56.3,1
+ACC3112,Technology,137,20.1,Mid-Market,0,8.0,13,2,1,2,0,2,8,60.7,47.1,0
+ACC3113,Retail,283,57.0,Mid-Market,1,6.9,10,0,0,0,0,0,11,25.3,10.3,0
+ACC3114,Manufacturing,152,29.2,Mid-Market,0,6.8,15,1,2,0,1,4,10,34.9,58.0,0
+ACC3115,Technology,17,3.2,SMB,1,8.9,5,0,2,0,0,1,5,51.6,16.1,0
+ACC3116,Financial Services,147,18.8,Mid-Market,0,6.2,10,1,2,2,0,4,14,54.9,44.3,0
+ACC3117,Healthcare,164,23.7,Mid-Market,0,6.8,11,4,1,1,0,1,3,35.0,50.0,0
+ACC3118,Technology,557,54.3,Mid-Market,0,4.9,5,2,1,2,0,2,6,54.2,36.2,0
+ACC3119,Retail,98,19.8,SMB,0,2.8,7,1,3,3,1,2,3,21.2,61.8,0
+ACC3120,Retail,2169,359.3,Enterprise,1,4.1,6,1,1,0,0,4,9,32.7,26.7,0
+ACC3121,Healthcare,20,4.0,SMB,0,5.5,4,4,3,1,1,2,5,29.4,64.4,0
+ACC3122,Education,1345,164.5,Enterprise,0,5.6,5,1,1,2,0,1,2,41.4,29.0,0
+ACC3123,Financial Services,182,24.6,Mid-Market,1,9.4,17,2,1,0,1,3,3,54.7,62.7,1
+ACC3124,Education,748,102.3,Mid-Market,1,5.7,7,0,1,0,1,4,3,25.5,39.3,0
+ACC3125,Manufacturing,271,22.9,Mid-Market,0,7.9,14,2,1,1,0,3,24,39.5,40.4,0
+ACC3126,Healthcare,1076,148.5,Enterprise,1,4.6,5,1,1,2,0,1,7,24.7,27.0,0
+ACC3127,Technology,147,31.8,Mid-Market,0,4.9,6,3,1,0,0,0,10,50.6,26.3,1
+ACC3128,Retail,58,13.5,SMB,1,2.8,6,2,0,1,0,3,27,9.8,23.6,1
+ACC3129,Financial Services,1551,260.7,Enterprise,0,4.0,3,3,0,0,0,3,2,60.0,30.0,0
+ACC3130,Technology,211,33.2,Mid-Market,1,6.6,5,1,0,3,0,2,27,45.7,23.1,0
+ACC3131,Technology,326,27.8,Mid-Market,0,5.5,8,2,0,1,1,2,7,54.1,46.0,0
+ACC3132,Healthcare,1218,279.5,Enterprise,0,7.4,9,2,1,0,0,3,19,46.2,30.1,0
+ACC3133,Healthcare,63,5.2,SMB,0,5.9,4,2,1,1,0,4,1,31.1,37.7,0
+ACC3134,Manufacturing,530,127.5,Mid-Market,0,4.8,10,1,1,0,0,2,3,31.6,29.1,0
+ACC3135,Retail,113,18.4,Mid-Market,0,9.8,13,2,3,3,1,4,2,44.4,82.6,1
+ACC3136,Technology,206,28.5,Mid-Market,0,5.3,9,2,2,0,0,0,10,52.4,28.8,1
+ACC3137,Manufacturing,268,63.5,Mid-Market,1,7.8,7,0,2,0,1,2,1,28.2,38.1,0
+ACC3138,Technology,34,2.9,SMB,0,4.7,9,1,1,1,0,2,15,48.9,27.8,0
+ACC3139,Retail,88,15.7,SMB,0,6.9,15,1,1,0,0,2,2,34.6,36.8,0
+ACC3140,Retail,1417,245.6,Enterprise,0,7.4,10,5,1,2,1,2,2,48.0,77.3,1
+ACC3141,Healthcare,774,90.8,Mid-Market,1,5.9,8,1,2,1,1,1,3,26.3,46.6,0
+ACC3142,Manufacturing,225,34.4,Mid-Market,0,1.0,3,2,2,2,0,2,13,16.3,34.4,0
+ACC3143,Financial Services,335,63.9,Mid-Market,0,5.5,6,1,0,0,1,3,25,54.2,28.3,0
+ACC3144,Financial Services,166,33.8,Mid-Market,1,8.0,11,1,1,0,1,3,23,50.0,40.3,1
+ACC3145,Retail,1427,114.3,Enterprise,0,6.6,9,2,4,1,0,1,1,45.4,47.9,0
+ACC3146,Financial Services,188,45.0,Mid-Market,0,6.4,9,1,1,1,1,2,3,55.9,47.1,0
+ACC3147,Financial Services,330,35.6,Mid-Market,0,2.1,9,1,3,0,1,3,11,42.9,49.9,0
+ACC3148,Financial Services,1085,129.9,Enterprise,1,4.1,3,2,1,2,0,1,9,45.2,29.2,0
+ACC3149,Retail,89,11.1,SMB,0,6.3,7,2,2,0,0,1,4,32.6,31.1,0
+ACC3150,Financial Services,1856,160.4,Enterprise,0,6.3,10,2,2,0,1,4,19,70.3,53.1,1
+ACC3151,Technology,33,3.3,SMB,1,7.9,8,1,1,1,0,1,1,48.5,28.9,0
+ACC3152,Manufacturing,2035,504.0,Enterprise,0,5.2,4,3,0,1,1,6,10,46.2,56.6,1
+ACC3153,Retail,150,20.0,Mid-Market,0,6.3,14,3,3,0,0,1,3,33.2,51.5,0
+ACC3154,Technology,178,17.7,Mid-Market,1,5.5,6,2,1,1,0,1,7,41.8,29.5,0
+ACC3155,Technology,20,2.0,SMB,0,3.5,5,1,3,1,0,2,4,44.8,34.0,0
+ACC3156,Technology,135,27.3,Mid-Market,0,1.0,8,1,0,3,0,0,38,37.6,17.4,0
+ACC3157,Financial Services,63,14.2,SMB,0,6.4,9,3,3,1,0,5,6,54.8,59.6,0
+ACC3158,Financial Services,111,13.7,Mid-Market,1,5.8,6,0,3,1,0,2,37,42.2,16.8,0
+ACC3159,Manufacturing,204,17.0,Mid-Market,0,4.3,3,1,1,0,0,2,2,27.0,19.2,0
+ACC3160,Manufacturing,849,100.1,Mid-Market,0,2.3,6,1,0,1,1,2,14,26.1,34.5,1
+ACC3161,Healthcare,320,28.7,Mid-Market,1,6.8,7,1,2,0,0,5,12,25.3,33.9,0
+ACC3162,Financial Services,365,35.6,Mid-Market,0,5.0,9,5,2,2,0,1,18,52.8,55.9,1
+ACC3163,Retail,58,8.9,SMB,0,6.6,9,2,3,1,1,2,11,33.4,57.7,1
+ACC3164,Financial Services,77,9.2,SMB,1,9.2,12,0,1,1,0,1,11,53.2,25.0,1
+ACC3165,Education,2535,425.1,Enterprise,0,1.2,7,1,0,0,0,1,10,37.4,15.1,0
+ACC3166,Healthcare,94,11.6,SMB,1,4.1,12,0,0,1,0,2,42,14.4,11.9,0
+ACC3167,Technology,2107,505.5,Enterprise,0,5.1,4,2,0,0,1,2,2,68.5,37.3,0
+ACC3168,Manufacturing,178,41.7,Mid-Market,0,8.4,9,1,3,0,0,2,0,40.4,36.6,0
+ACC3169,Financial Services,245,43.2,Mid-Market,0,2.2,3,4,0,1,0,5,11,42.5,43.0,1
+ACC3170,Manufacturing,983,137.9,Mid-Market,0,9.4,12,2,2,0,0,2,1,50.8,42.5,0
+ACC3171,Technology,1278,185.0,Enterprise,0,5.8,9,3,3,1,0,0,11,63.5,43.0,0
+ACC3172,Technology,211,31.7,Mid-Market,0,5.3,12,2,0,2,0,0,3,52.5,37.9,0
+ACC3173,Retail,147,29.9,Mid-Market,1,5.1,3,2,2,1,0,6,0,18.2,46.3,0
+ACC3174,Technology,227,35.6,Mid-Market,0,4.6,8,4,2,0,1,4,14,50.3,63.8,0
+ACC3175,Retail,379,85.5,Mid-Market,0,7.6,8,5,1,2,1,4,0,39.5,81.0,1
+ACC3176,Technology,779,187.3,Mid-Market,0,3.4,5,3,1,0,1,2,2,51.2,48.5,0
+ACC3177,Healthcare,246,33.7,Mid-Market,0,6.2,7,2,1,1,0,2,4,33.7,35.0,0
+ACC3178,Manufacturing,547,95.9,Mid-Market,0,4.7,4,2,0,0,0,2,1,31.4,23.0,0
+ACC3179,Healthcare,2058,197.9,Enterprise,0,4.0,8,3,3,0,0,3,24,42.4,40.4,1
+ACC3180,Financial Services,401,45.7,Mid-Market,0,10.0,11,3,1,1,0,0,9,69.7,38.9,1
+ACC3181,Technology,366,55.0,Mid-Market,0,6.3,10,3,1,1,0,4,20,57.1,44.9,0
+ACC3182,Technology,33,3.8,SMB,0,6.7,9,4,1,0,1,2,11,55.5,56.7,0
+ACC3183,Financial Services,8,1.8,SMB,0,7.8,7,3,0,0,0,2,48,58.9,14.9,0
+ACC3184,Manufacturing,405,43.3,Mid-Market,0,2.7,4,1,2,1,1,1,7,23.5,39.2,0
+ACC3185,Education,216,34.0,Mid-Market,1,9.0,7,1,1,2,0,4,0,31.7,41.5,0
+ACC3186,Retail,125,22.9,Mid-Market,0,1.0,7,3,2,3,0,4,1,15.4,61.6,1
+ACC3187,Manufacturing,335,66.2,Mid-Market,0,4.0,5,2,0,0,0,2,8,27.2,21.8,0
+ACC3188,Manufacturing,226,32.8,Mid-Market,0,4.6,5,4,0,3,0,2,4,28.2,49.7,0
+ACC3189,Manufacturing,1060,241.4,Enterprise,0,6.7,5,2,4,1,0,1,1,42.5,42.0,0
+ACC3190,Technology,273,48.2,Mid-Market,0,5.9,6,1,3,0,0,1,2,55.0,28.5,0
+ACC3191,Retail,92,14.2,SMB,1,5.2,2,2,2,2,0,0,6,18.0,29.9,0
+ACC3192,Manufacturing,886,81.0,Mid-Market,0,5.5,1,2,1,0,0,2,7,37.0,20.2,0
+ACC3193,Healthcare,184,29.3,Mid-Market,0,3.5,6,1,1,0,0,0,27,24.2,8.0,0
+ACC3194,Technology,485,106.5,Mid-Market,0,2.5,7,1,1,3,0,0,0,45.6,34.6,0
+ACC3195,Financial Services,131,24.2,Mid-Market,0,7.0,6,2,3,1,0,2,4,57.4,41.4,0
+ACC3196,Financial Services,105,23.3,Mid-Market,1,6.9,10,5,1,0,0,0,7,45.8,45.1,0
+ACC3197,Retail,272,44.6,Mid-Market,0,8.7,8,2,1,1,0,5,1,42.2,46.4,0
+ACC3198,Healthcare,248,24.8,Mid-Market,0,3.9,5,1,2,0,0,1,11,26.1,19.6,0
+ACC3199,Financial Services,456,37.5,Mid-Market,0,6.9,11,3,2,1,0,0,7,59.9,43.6,1
+ACC3200,Education,172,22.6,Mid-Market,0,4.9,4,2,0,1,0,3,6,28.7,28.9,0
+ACC3201,Technology,22,4.4,SMB,0,7.9,10,5,2,1,0,2,10,59.4,58.5,1
+ACC3202,Financial Services,139,29.8,Mid-Market,1,7.5,15,0,2,0,0,2,3,48.1,34.4,0
+ACC3203,Technology,686,89.4,Mid-Market,0,5.9,7,2,1,2,1,3,4,58.6,57.5,0
+ACC3204,Manufacturing,166,27.3,Mid-Market,0,4.8,3,2,2,0,0,0,1,28.4,23.5,0
+ACC3205,Retail,177,26.8,Mid-Market,0,7.4,7,4,1,1,0,2,7,37.1,45.6,0
+ACC3206,Technology,882,132.1,Mid-Market,0,6.8,8,1,1,2,1,2,4,63.3,50.1,0
+ACC3207,Retail,96,11.5,SMB,0,4.1,6,3,3,0,0,3,3,25.4,45.7,0
+ACC3208,Technology,32,3.3,SMB,0,2.8,2,3,2,0,0,2,1,42.6,33.8,1
+ACC3209,Retail,198,22.5,Mid-Market,0,4.9,5,1,1,0,0,0,0,29.0,17.1,0
+ACC3210,Manufacturing,130,11.6,Mid-Market,0,8.5,7,1,4,1,1,2,2,40.3,56.3,0
+ACC3211,Retail,69,7.8,SMB,1,7.8,14,0,3,2,0,5,2,26.4,55.8,0
+ACC3212,Technology,194,15.8,Mid-Market,0,3.3,5,3,0,1,0,3,6,45.7,36.2,1
+ACC3213,Education,463,86.4,Mid-Market,0,3.2,7,1,0,0,0,5,2,25.7,30.0,0
+ACC3214,Manufacturing,241,32.2,Mid-Market,0,8.0,5,2,2,0,1,1,17,39.6,37.8,0
+ACC3215,Financial Services,364,89.3,Mid-Market,0,3.2,5,3,3,3,0,2,6,46.9,54.7,0
+ACC3216,Retail,2584,291.8,Enterprise,0,6.5,4,3,5,0,0,1,9,55.3,42.3,0
+ACC3217,Technology,156,21.7,Mid-Market,1,4.3,6,1,2,0,0,1,2,37.6,24.6,0
+ACC3218,Retail,351,49.4,Mid-Market,0,8.7,7,1,0,0,0,0,5,42.9,14.1,0
+ACC3219,Technology,126,10.3,Mid-Market,0,4.0,7,3,1,0,0,1,9,47.4,31.1,0
+ACC3220,Manufacturing,81,18.0,SMB,0,7.8,9,4,0,0,0,1,3,37.5,38.3,0
+ACC3221,Healthcare,114,9.7,Mid-Market,0,5.9,3,4,0,0,0,3,4,31.5,35.0,0
+ACC3222,Technology,131,31.4,Mid-Market,0,6.0,10,1,5,0,1,3,16,54.1,57.2,1
+ACC3223,Technology,390,90.3,Mid-Market,1,1.6,6,0,0,0,0,3,18,30.8,10.5,0
+ACC3224,Technology,5186,887.0,Enterprise,0,1.1,2,4,1,1,1,3,7,80.8,55.8,1
+ACC3225,Financial Services,96,16.6,SMB,0,5.1,3,4,0,1,1,3,22,50.8,47.5,0
+ACC3226,Financial Services,142,27.1,Mid-Market,0,6.0,1,2,0,0,0,1,13,54.2,11.0,0
+ACC3227,Healthcare,225,32.8,Mid-Market,0,3.2,8,1,2,0,1,1,0,23.6,42.9,1
+ACC3228,Technology,409,77.7,Mid-Market,0,3.3,3,1,2,0,1,3,8,47.6,38.3,1
+ACC3229,Technology,344,30.1,Mid-Market,1,6.6,16,1,1,1,1,3,11,46.9,57.2,1
+ACC3230,Manufacturing,1298,115.8,Enterprise,0,6.6,9,4,0,2,0,2,7,44.3,49.5,0
+ACC3231,Technology,10,1.6,SMB,1,5.2,9,0,1,2,1,3,17,39.3,43.6,0
+ACC3232,Retail,10,1.7,SMB,1,7.1,13,2,1,1,0,5,3,23.6,53.0,0
+ACC3233,Retail,128,29.6,Mid-Market,0,3.2,11,2,1,0,0,2,0,22.7,37.6,0
+ACC3234,Manufacturing,1018,99.6,Enterprise,0,4.8,7,3,3,0,0,0,10,35.9,35.6,0
+ACC3235,Healthcare,31,6.8,SMB,0,8.8,15,2,1,0,1,5,13,40.4,61.8,1
+ACC3236,Retail,5,0.6,SMB,1,5.6,8,0,4,0,0,1,14,18.6,24.8,0
+ACC3237,Technology,514,75.6,Mid-Market,0,5.8,7,3,0,1,0,0,0,56.8,32.7,0
+ACC3238,Technology,335,44.8,Mid-Market,0,10.0,8,4,1,0,0,2,11,69.1,40.6,1
+ACC3239,Technology,59,8.7,SMB,0,2.7,7,2,3,0,0,3,0,42.5,42.4,1
+ACC3240,Manufacturing,67,7.1,SMB,0,7.1,6,5,3,1,0,4,14,35.1,60.9,0
+ACC3241,Technology,69,11.4,SMB,0,8.8,11,1,3,0,0,4,12,62.8,40.7,1
+ACC3242,Healthcare,282,61.0,Mid-Market,0,4.9,5,2,3,1,0,1,8,29.7,35.4,0
+ACC3243,Education,108,16.7,Mid-Market,0,7.2,7,2,0,2,0,0,7,35.8,29.0,0
+ACC3244,Retail,465,76.0,Mid-Market,1,3.5,11,1,0,0,0,2,12,15.7,23.1,0
+ACC3245,Healthcare,5,1.1,SMB,0,4.1,6,1,2,0,0,3,0,24.6,31.2,0
+ACC3246,Technology,80,16.0,SMB,0,6.3,19,1,1,1,1,4,17,54.6,62.1,1
+ACC3247,Retail,56,9.1,SMB,1,7.1,8,1,3,0,0,4,2,24.0,40.2,1
+ACC3248,Healthcare,175,21.7,Mid-Market,0,7.7,6,5,5,1,0,3,6,38.0,68.9,0
+ACC3249,Technology,121,27.9,Mid-Market,1,8.6,10,1,0,1,0,1,6,51.6,26.0,0
+ACC3250,Technology,690,122.9,Mid-Market,0,5.4,6,2,1,0,0,1,15,57.0,21.5,1
+ACC3251,Retail,21,2.5,SMB,0,7.9,14,2,1,1,0,5,2,37.3,54.8,1
+ACC3252,Manufacturing,259,32.6,Mid-Market,0,4.8,7,1,2,0,0,2,3,29.2,28.6,0
+ACC3253,Retail,505,109.3,Mid-Market,0,7.3,11,2,2,4,0,1,10,39.6,54.1,0
+ACC3254,Retail,2734,239.2,Enterprise,1,5.9,11,1,0,3,0,1,5,43.6,37.6,0
+ACC3255,Healthcare,130,32.3,Mid-Market,0,6.4,12,3,3,0,1,1,3,33.3,63.2,1
+ACC3256,Healthcare,373,38.1,Mid-Market,0,6.3,9,4,1,0,0,3,9,35.2,45.8,0
+ACC3257,Financial Services,23,5.0,SMB,0,2.3,3,3,0,1,1,2,0,40.9,47.3,0
+ACC3258,Financial Services,10,1.5,SMB,0,3.3,4,2,2,1,0,2,15,44.1,30.2,0
+ACC3259,Financial Services,733,120.0,Mid-Market,0,5.7,7,1,1,0,0,0,7,58.4,17.3,0
+ACC3260,Manufacturing,242,55.6,Mid-Market,0,2.1,10,2,1,2,0,1,2,20.1,42.1,0
+ACC3261,Healthcare,1132,170.0,Enterprise,0,7.2,10,3,2,2,1,2,5,44.8,68.3,1
+ACC3262,Retail,41,7.0,SMB,0,7.2,9,1,3,1,0,3,1,35.2,44.0,1
+ACC3263,Financial Services,481,42.5,Mid-Market,0,6.2,16,2,2,1,0,1,9,57.8,47.2,0
+ACC3264,Healthcare,2777,223.3,Enterprise,0,3.3,6,1,2,0,0,0,11,46.4,18.1,0
+ACC3265,Healthcare,422,51.3,Mid-Market,0,8.3,8,2,2,0,0,3,5,42.2,38.0,0
+ACC3266,Healthcare,350,68.5,Mid-Market,0,9.6,15,3,3,0,0,0,4,45.9,49.7,1
+ACC3267,Manufacturing,247,24.9,Mid-Market,0,5.8,4,4,1,0,0,3,18,32.4,34.9,0
+ACC3268,Technology,31,3.1,SMB,0,6.5,9,2,3,1,1,2,8,54.8,58.8,1
+ACC3269,Healthcare,1425,213.6,Enterprise,0,5.9,7,1,3,0,0,1,10,43.1,26.8,0
+ACC3270,Technology,110,20.9,Mid-Market,0,6.6,11,2,3,0,0,1,1,55.9,42.0,0
+ACC3271,Financial Services,471,94.7,Mid-Market,0,5.3,7,2,3,0,0,1,12,54.8,31.9,0
+ACC3272,Financial Services,32,3.5,SMB,0,5.4,4,2,4,0,0,0,5,51.2,31.2,0
+ACC3273,Manufacturing,52,4.9,SMB,0,7.3,11,1,1,0,1,1,4,35.6,41.9,0
+ACC3274,Education,1580,379.0,Enterprise,1,10.0,5,0,1,0,1,2,26,47.0,21.6,0
+ACC3275,Healthcare,155,19.3,Mid-Market,1,2.7,4,1,1,1,0,2,0,10.3,26.3,0
+ACC3276,Manufacturing,1618,364.2,Enterprise,0,5.3,3,2,1,0,0,1,2,42.8,22.1,0
+ACC3277,Healthcare,221,50.1,Mid-Market,0,3.1,5,2,1,0,0,0,4,23.2,21.4,0
+ACC3278,Healthcare,22,4.6,SMB,1,8.7,6,1,0,0,0,2,3,29.0,19.3,1
+ACC3279,Technology,780,84.8,Mid-Market,0,4.3,5,2,2,0,0,1,7,54.2,27.0,0
+ACC3280,Technology,113,24.8,Mid-Market,0,2.6,4,3,0,1,0,3,5,42.7,35.1,0
+ACC3281,Financial Services,606,127.7,Mid-Market,0,6.8,12,1,1,0,1,4,15,60.9,47.8,0
+ACC3282,Financial Services,252,45.7,Mid-Market,0,9.0,9,1,0,1,0,0,14,65.1,18.4,0
+ACC3283,Technology,32,4.4,SMB,0,6.8,13,1,2,0,1,3,14,55.9,50.6,1
+ACC3284,Technology,302,37.6,Mid-Market,1,5.9,5,1,0,0,0,3,4,44.2,20.4,0
+ACC3285,Technology,4251,428.2,Enterprise,0,6.3,11,1,0,3,0,3,5,91.4,43.4,0
+ACC3286,Education,464,77.3,Mid-Market,0,8.3,14,2,1,1,0,0,12,42.6,36.3,0
+ACC3287,Financial Services,227,40.7,Mid-Market,0,3.8,8,3,2,1,0,3,1,47.6,50.3,1
+ACC3288,Financial Services,990,139.7,Mid-Market,0,5.3,10,2,2,0,0,1,19,59.3,29.7,0
+ACC3289,Technology,321,51.6,Mid-Market,0,4.6,4,1,3,0,0,2,7,51.1,26.5,0
+ACC3290,Healthcare,321,45.5,Mid-Market,0,3.2,5,2,1,0,0,3,18,24.4,24.7,0
+ACC3291,Technology,59,11.1,SMB,0,4.8,4,2,2,1,0,3,15,49.5,33.2,0
+ACC3292,Technology,331,77.2,Mid-Market,1,7.7,3,0,2,1,1,4,4,50.4,41.9,0
+ACC3293,Healthcare,940,101.4,Mid-Market,0,6.6,8,2,1,2,0,2,1,41.1,42.5,0
+ACC3294,Technology,82,11.9,SMB,0,6.8,9,3,1,0,1,3,25,56.3,48.3,1
+ACC3295,Technology,1559,162.1,Enterprise,0,5.8,6,2,1,0,0,3,4,66.0,31.6,0
+ACC3296,Technology,217,40.4,Mid-Market,0,6.5,9,2,4,0,0,2,4,56.5,44.8,0
+ACC3297,Technology,77,15.7,SMB,0,3.9,6,1,2,2,1,2,23,46.7,43.7,0
+ACC3298,Technology,895,213.4,Mid-Market,1,4.9,8,0,0,0,1,4,24,46.2,28.7,0
+ACC3299,Financial Services,168,21.4,Mid-Market,1,5.9,9,3,2,1,1,4,3,43.0,68.6,0
+ACC3300,Retail,656,158.4,Mid-Market,0,6.1,9,1,3,0,1,3,0,37.0,54.1,0
+ACC3301,Healthcare,167,15.2,Mid-Market,0,6.1,7,3,1,1,0,1,0,32.7,39.5,0
+ACC3302,Healthcare,226,41.2,Mid-Market,0,5.2,7,2,4,3,0,2,5,30.2,56.1,0
+ACC3303,Technology,464,41.6,Mid-Market,0,4.7,2,1,0,1,0,0,8,52.7,10.5,0
+ACC3304,Education,357,82.8,Mid-Market,0,10.0,13,2,2,0,1,7,3,47.3,72.5,1
+ACC3305,Financial Services,18,3.1,SMB,1,7.3,10,1,3,0,1,4,3,46.4,57.4,1
+ACC3306,Technology,56,10.9,SMB,0,6.3,9,1,2,0,1,7,4,54.4,60.4,1
+ACC3307,Healthcare,819,181.3,Mid-Market,0,5.0,3,3,2,2,0,1,3,34.8,41.3,0
+ACC3308,Technology,206,21.7,Mid-Market,0,4.6,6,2,1,0,0,3,19,50.1,25.8,0
+ACC3309,Financial Services,123,10.6,Mid-Market,0,5.2,8,1,2,1,1,4,10,51.4,52.7,0
+ACC3310,Healthcare,41,9.4,SMB,0,6.1,11,3,0,0,0,2,17,31.6,32.9,0
+ACC3311,Retail,60,8.0,SMB,0,1.7,8,2,0,2,0,1,19,17.2,28.7,0
+ACC3312,Financial Services,17,1.7,SMB,0,2.4,3,3,0,1,1,1,5,41.2,42.4,1
+ACC3313,Manufacturing,214,34.2,Mid-Market,0,4.2,3,3,2,0,0,2,6,26.8,33.3,1
+ACC3314,Education,112,20.4,Mid-Market,0,5.9,3,3,0,2,0,1,38,31.5,19.8,0
+ACC3315,Technology,69,5.9,SMB,0,5.0,4,1,2,0,1,2,16,50.2,33.8,1
+ACC3316,Technology,223,28.3,Mid-Market,0,8.5,10,1,1,1,1,2,15,63.2,43.9,1
+ACC3317,Financial Services,392,33.5,Mid-Market,1,2.5,7,1,1,1,0,1,8,33.8,24.7,0
+ACC3318,Financial Services,3718,563.1,Enterprise,0,4.0,12,2,1,0,0,3,6,79.1,39.6,0
+ACC3319,Financial Services,34,7.9,SMB,0,8.5,9,1,3,1,1,3,22,61.5,50.4,0
+ACC3320,Retail,1104,272.7,Enterprise,0,5.8,7,2,0,2,1,3,16,39.9,48.9,0
+ACC3321,Manufacturing,866,163.1,Mid-Market,0,7.3,5,2,1,0,0,5,7,42.8,34.8,0
+ACC3322,Healthcare,88,9.5,SMB,0,9.6,12,1,0,2,1,4,3,43.6,58.3,0
+ACC3323,Financial Services,318,74.4,Mid-Market,0,4.1,6,2,0,0,0,2,1,49.4,26.0,0
+ACC3324,Retail,134,22.5,Mid-Market,0,5.3,5,3,1,3,0,0,8,29.7,40.3,0
+ACC3325,Education,311,33.0,Mid-Market,0,5.0,9,5,3,1,1,3,3,30.3,81.3,0
+ACC3326,Retail,1740,411.8,Enterprise,0,1.6,9,2,1,0,0,1,3,31.7,30.5,0
+ACC3327,Technology,537,112.1,Mid-Market,0,4.9,8,3,0,0,0,1,1,54.0,31.8,1
+ACC3328,Healthcare,473,96.7,Mid-Market,1,7.3,7,1,4,2,0,1,0,28.3,44.4,0
+ACC3329,Technology,139,27.9,Mid-Market,0,6.6,10,2,3,1,0,1,15,56.1,40.0,1
+ACC3330,Technology,35,4.0,SMB,0,6.7,12,1,1,1,1,2,1,55.5,52.3,1
+ACC3331,Technology,186,21.6,Mid-Market,0,4.7,3,3,1,1,0,1,21,50.3,25.5,0
+ACC3332,Healthcare,1174,231.3,Enterprise,0,4.2,11,2,3,1,0,3,2,35.3,52.4,0
+ACC3333,Manufacturing,33,3.9,SMB,0,8.0,11,2,0,0,0,1,14,37.8,25.3,0
+ACC3334,Technology,62,9.6,SMB,1,4.5,5,0,2,1,0,4,17,37.5,25.1,0
+ACC3335,Financial Services,288,61.3,Mid-Market,1,6.1,9,2,4,0,0,1,15,44.8,37.6,0
+ACC3336,Financial Services,68,14.5,SMB,0,5.8,5,1,5,1,0,0,20,52.9,29.8,0
+ACC3337,Financial Services,87,13.7,SMB,0,8.4,10,4,2,0,0,1,4,61.6,47.2,0
+ACC3338,Technology,141,30.3,Mid-Market,0,7.4,13,1,1,1,1,1,42,58.8,34.8,0
+ACC3339,Financial Services,41,9.1,SMB,0,2.9,6,2,2,0,0,3,3,43.0,35.9,1
+ACC3340,Manufacturing,68,13.0,SMB,0,3.1,6,2,1,2,0,1,27,21.9,26.5,0
+ACC3341,Technology,610,72.5,Mid-Market,1,6.7,9,1,2,0,1,2,5,49.6,45.4,0
+ACC3342,Technology,44,5.6,SMB,0,5.4,5,2,2,2,0,5,0,51.3,51.2,1
+ACC3343,Financial Services,30,4.0,SMB,0,4.6,7,4,1,1,0,0,15,48.6,36.6,0
+ACC3344,Education,107,10.7,Mid-Market,0,7.5,9,1,3,0,0,3,15,36.8,33.7,0
+ACC3345,Manufacturing,633,80.0,Mid-Market,0,5.9,9,2,1,1,0,5,2,36.1,47.5,0
+ACC3346,Manufacturing,189,21.9,Mid-Market,0,5.6,10,1,0,0,0,2,17,31.2,19.7,0
+ACC3347,Financial Services,133,20.9,Mid-Market,0,7.1,10,1,1,0,0,2,1,57.7,29.9,0
+ACC3348,Healthcare,259,60.7,Mid-Market,0,4.7,3,1,2,0,1,3,1,28.9,41.1,0
+ACC3349,Technology,25,2.4,SMB,0,8.6,14,5,3,1,0,2,16,61.7,66.0,0
+ACC3350,Healthcare,465,94.1,Mid-Market,0,3.9,3,1,4,0,0,2,3,28.0,30.5,0
+ACC3351,Retail,402,79.1,Mid-Market,0,6.8,14,4,0,1,0,1,0,37.1,51.7,0
+ACC3352,Healthcare,143,13.8,Mid-Market,0,8.4,16,3,1,0,0,4,31,40.1,44.5,1
+ACC3353,Retail,904,214.1,Mid-Market,0,2.7,3,2,1,2,1,4,8,27.9,53.0,0
+ACC3354,Manufacturing,56,9.9,SMB,0,4.8,7,4,4,1,1,2,5,27.4,72.7,1
+ACC3355,Technology,1060,150.3,Enterprise,0,7.8,10,2,2,1,0,1,7,68.2,39.2,0
+ACC3356,Retail,299,62.4,Mid-Market,0,7.8,12,1,2,1,1,3,11,39.5,55.2,0
+ACC3357,Technology,157,19.4,Mid-Market,0,5.2,5,1,0,2,1,3,19,51.7,38.9,0
+ACC3358,Healthcare,238,47.1,Mid-Market,0,4.0,5,5,2,0,0,1,11,26.4,43.0,0
+ACC3359,Technology,212,18.4,Mid-Market,0,7.4,9,3,1,1,0,1,13,59.4,37.4,0
+ACC3360,Technology,1195,266.1,Enterprise,0,7.9,12,1,5,1,1,5,1,69.7,76.7,0
+ACC3361,Financial Services,60,9.4,SMB,1,3.2,8,0,1,0,1,4,4,33.2,40.4,0
+ACC3362,Technology,90,16.9,SMB,0,3.1,5,1,1,1,1,2,8,44.1,39.3,1
+ACC3363,Financial Services,941,110.7,Mid-Market,0,6.0,7,3,2,1,0,1,9,61.2,39.9,1
+ACC3364,Healthcare,112,21.9,Mid-Market,0,6.8,9,3,0,1,0,3,3,34.5,43.2,0
+ACC3365,Technology,788,166.5,Mid-Market,0,4.9,6,3,0,1,1,4,36,56.2,43.5,0
+ACC3366,Technology,2228,357.5,Enterprise,0,6.9,11,1,1,0,0,2,1,75.6,31.3,1
+ACC3367,Healthcare,145,26.8,Mid-Market,0,4.1,5,1,4,0,0,4,1,25.9,40.1,0
+ACC3368,Financial Services,593,93.4,Mid-Market,0,1.3,4,2,0,1,1,2,2,42.6,42.1,0
+ACC3369,Manufacturing,54,12.5,SMB,0,4.7,5,3,4,0,0,3,14,27.0,43.8,0
+ACC3370,Manufacturing,652,107.3,Mid-Market,0,5.6,6,3,0,1,0,4,0,35.3,42.9,1
+ACC3371,Retail,317,70.7,Mid-Market,1,4.9,6,2,1,1,0,4,44,19.0,23.8,0
+ACC3372,Manufacturing,452,97.7,Mid-Market,0,3.2,3,1,1,0,0,3,44,25.6,5.8,0
+ACC3373,Financial Services,105,15.7,Mid-Market,0,1.9,8,2,0,0,1,1,1,40.3,40.6,1
+ACC3374,Manufacturing,28,3.3,SMB,1,4.5,7,0,1,1,1,3,5,15.1,40.5,0
+ACC3375,Technology,470,70.0,Mid-Market,1,7.3,14,1,2,2,0,2,2,50.3,49.0,0
+ACC3376,Financial Services,16,3.5,SMB,0,8.0,8,2,3,0,0,2,5,59.7,39.0,0
+ACC3377,Manufacturing,161,19.1,Mid-Market,0,7.9,12,3,3,0,0,2,7,38.6,50.0,0
+ACC3378,Financial Services,831,140.6,Mid-Market,0,3.9,5,4,1,1,0,2,17,53.3,38.7,0
+ACC3379,Manufacturing,314,68.1,Mid-Market,0,3.2,9,2,1,3,0,3,0,24.4,52.2,0
+ACC3380,Retail,3080,431.5,Enterprise,1,6.5,9,2,4,0,1,2,43,48.7,44.2,1
+ACC3381,Retail,927,175.4,Mid-Market,0,6.8,10,2,2,0,1,3,28,41.7,46.6,1
+ACC3382,Retail,104,12.7,Mid-Market,0,6.3,13,2,1,1,1,3,8,32.8,59.8,0
+ACC3383,Financial Services,253,24.9,Mid-Market,1,1.5,2,1,4,1,1,2,6,29.2,47.4,0
+ACC3384,Financial Services,230,49.5,Mid-Market,0,3.8,6,1,2,0,0,5,7,47.7,34.3,0
+ACC3385,Healthcare,31,3.0,SMB,0,5.4,7,1,3,0,0,1,0,29.2,30.7,0
+ACC3386,Financial Services,72,9.1,SMB,1,6.5,8,2,1,1,1,3,13,44.2,50.5,1
+ACC3387,Healthcare,118,26.6,Mid-Market,1,7.0,7,1,1,1,0,3,6,24.2,31.3,0
+ACC3388,Manufacturing,17,2.4,SMB,1,5.8,3,1,0,2,0,1,3,19.3,21.8,0
+ACC3389,Manufacturing,260,63.8,Mid-Market,0,6.2,7,1,1,0,1,2,6,33.8,38.1,0
+ACC3390,Financial Services,177,43.6,Mid-Market,0,5.7,8,4,2,1,0,2,3,53.5,52.5,1
+ACC3391,Technology,27,3.4,SMB,0,6.9,6,2,2,0,1,5,12,56.1,52.9,0
+ACC3392,Financial Services,413,35.9,Mid-Market,0,6.1,8,2,0,1,0,1,9,56.9,27.7,1
+ACC3393,Technology,620,123.9,Mid-Market,1,5.6,7,2,0,1,0,3,4,46.0,34.0,0
+ACC3394,Retail,328,51.4,Mid-Market,0,5.0,6,3,0,0,0,3,3,30.5,34.0,0
+ACC3395,Financial Services,160,15.5,Mid-Market,0,5.7,6,1,2,1,1,4,21,53.3,45.5,1
+ACC3396,Technology,527,105.5,Mid-Market,0,6.5,8,4,1,0,1,1,11,59.2,52.3,1
+ACC3397,Technology,592,50.5,Mid-Market,0,6.0,9,2,4,2,0,2,12,58.1,51.4,0
+ACC3398,Healthcare,364,83.0,Mid-Market,0,6.3,13,1,3,0,1,5,9,35.1,62.3,1
+ACC3399,Healthcare,83,8.6,SMB,0,8.2,7,4,2,0,0,0,0,38.9,41.5,0
+ACC3400,Financial Services,350,35.6,Mid-Market,0,6.0,12,3,1,0,0,2,0,56.0,44.9,0
+ACC3401,Technology,1157,127.1,Enterprise,0,4.2,7,4,1,0,0,1,5,57.2,38.5,0
+ACC3402,Financial Services,112,27.2,Mid-Market,1,7.3,9,1,2,0,0,1,26,47.2,19.6,0
+ACC3403,Financial Services,3741,740.1,Enterprise,0,2.8,4,3,2,0,0,1,7,75.3,31.4,0
+ACC3404,Manufacturing,123,26.6,Mid-Market,0,3.3,6,2,3,1,1,4,20,23.0,55.6,0
+ACC3405,Healthcare,255,37.6,Mid-Market,0,6.2,13,1,1,2,0,5,1,33.8,52.8,0
+ACC3406,Financial Services,102,14.0,Mid-Market,1,6.5,12,0,1,2,0,5,12,44.4,41.2,1
+ACC3407,Technology,327,39.2,Mid-Market,0,3.0,6,2,1,1,0,1,2,45.9,31.4,0
+ACC3408,Education,25,4.0,SMB,0,4.7,4,1,1,0,0,3,7,26.8,21.7,0
+ACC3409,Financial Services,120,20.9,Mid-Market,0,4.3,7,1,4,0,0,4,3,48.4,42.2,0
+ACC3410,Manufacturing,59,11.1,SMB,0,4.5,7,1,3,0,0,2,12,26.4,29.0,0
+ACC3411,Technology,291,36.0,Mid-Market,0,7.4,11,1,1,1,0,0,5,60.1,28.8,0
+ACC3412,Financial Services,891,215.0,Mid-Market,0,6.9,9,4,2,1,1,4,6,63.8,73.3,1
+ACC3413,Technology,566,61.6,Mid-Market,0,5.5,6,3,2,0,0,1,2,56.3,36.3,1
+ACC3414,Healthcare,11,2.7,SMB,1,4.4,10,1,3,0,1,4,3,14.7,57.4,0
+ACC3415,Education,3479,287.1,Enterprise,0,2.8,7,5,2,0,0,3,1,51.0,55.7,0
+ACC3416,Financial Services,359,58.1,Mid-Market,0,8.3,9,3,0,0,0,1,8,63.7,30.5,0
+ACC3417,Technology,89,12.2,SMB,0,6.7,6,2,3,1,1,2,1,56.0,57.2,0
+ACC3418,Technology,300,46.9,Mid-Market,0,4.1,4,2,1,2,0,1,3,49.3,33.0,0
+ACC3419,Financial Services,307,54.3,Mid-Market,0,6.9,8,5,2,2,1,2,7,58.6,76.3,1
+ACC3420,Technology,102,15.7,Mid-Market,0,5.4,1,1,2,0,0,2,3,51.8,19.8,0
+ACC3421,Technology,316,47.6,Mid-Market,0,4.9,4,1,1,0,0,3,8,52.1,21.3,0
+ACC3422,Manufacturing,111,22.7,Mid-Market,0,6.4,9,3,3,1,0,0,0,33.2,47.3,0
+ACC3423,Financial Services,144,28.3,Mid-Market,0,4.0,9,3,0,0,0,2,36,47.6,22.5,0
+ACC3424,Technology,100,22.2,Mid-Market,0,4.8,9,1,2,0,0,3,13,49.8,30.5,0
+ACC3425,Retail,37,4.5,SMB,0,5.7,9,1,2,0,1,3,7,30.2,47.5,1
+ACC3426,Technology,295,54.2,Mid-Market,0,4.5,6,1,2,0,0,2,25,50.6,18.5,0
+ACC3427,Education,523,93.9,Mid-Market,0,6.8,9,2,1,0,0,2,20,38.1,26.8,0
+ACC3428,Financial Services,477,68.1,Mid-Market,0,9.2,14,2,0,0,1,2,4,67.7,51.1,0
+ACC3429,Retail,710,115.5,Mid-Market,0,4.0,2,4,2,0,0,2,1,30.5,39.6,0
+ACC3430,Healthcare,373,49.7,Mid-Market,1,2.2,9,1,1,0,0,1,2,10.6,25.1,0
+ACC3431,Retail,122,12.7,Mid-Market,1,1.5,2,0,2,2,1,2,2,6.0,40.2,0
+ACC3432,Education,728,84.7,Mid-Market,1,5.2,6,1,3,0,1,3,13,23.6,44.7,0
+ACC3433,Technology,41,4.0,SMB,0,4.2,7,3,2,0,1,3,7,47.3,56.3,1
+ACC3434,Education,75,14.7,SMB,0,5.9,4,1,2,2,0,2,18,31.2,28.1,0
+ACC3435,Financial Services,69,13.3,SMB,0,5.8,6,2,1,1,0,0,6,52.9,26.9,0
+ACC3436,Financial Services,996,240.6,Mid-Market,0,2.3,6,1,1,0,0,1,14,49.5,16.0,0
+ACC3437,Financial Services,833,170.0,Mid-Market,0,1.9,3,2,0,0,1,3,3,46.7,38.3,0
+ACC3438,Healthcare,461,41.0,Mid-Market,1,6.1,12,1,3,0,1,3,9,24.2,55.0,0
+ACC3439,Technology,985,226.9,Mid-Market,0,5.8,4,2,1,1,0,3,10,60.9,31.2,0
+ACC3440,Healthcare,78,17.7,SMB,0,4.6,5,2,1,1,0,5,14,26.9,37.0,1
+ACC3441,Healthcare,384,59.7,Mid-Market,0,2.2,2,3,2,0,0,4,16,21.7,33.8,0
+ACC3442,Manufacturing,207,37.2,Mid-Market,1,6.4,6,0,0,1,0,2,3,23.0,18.3,0
+ACC3443,Retail,735,180.8,Mid-Market,1,8.0,11,2,0,0,0,2,4,32.9,32.1,0
+ACC3444,Financial Services,210,35.8,Mid-Market,0,6.1,13,1,1,2,0,3,2,55.1,46.5,0
+ACC3445,Financial Services,148,34.6,Mid-Market,1,3.8,5,1,1,0,0,4,13,35.9,23.7,0
+ACC3446,Technology,494,46.5,Mid-Market,0,5.6,6,1,2,0,1,7,3,56.0,56.4,0
+ACC3447,Technology,764,85.9,Mid-Market,0,2.8,8,1,2,3,0,5,4,49.1,53.1,0
+ACC3448,Technology,102,15.8,Mid-Market,0,7.6,13,1,2,1,0,0,16,59.1,31.3,0
+ACC3449,Financial Services,226,40.5,Mid-Market,0,5.7,9,4,3,0,0,0,4,53.9,46.7,0
+ACC3450,Technology,61,13.3,SMB,0,2.0,7,2,2,1,0,2,3,40.2,39.3,0
+ACC3451,Education,9,2.2,SMB,0,4.9,6,3,2,3,0,4,10,27.3,56.6,0
+ACC3452,Healthcare,317,46.3,Mid-Market,1,6.4,12,1,3,1,0,1,37,24.0,28.5,0
+ACC3453,Financial Services,540,47.6,Mid-Market,0,4.8,7,2,2,0,1,2,0,53.7,50.2,1
+ACC3454,Healthcare,344,74.4,Mid-Market,0,4.9,11,4,5,0,0,1,18,30.3,54.9,0
+ACC3455,Technology,19,3.5,SMB,0,3.1,10,4,4,2,1,4,1,43.5,89.4,1
+ACC3456,Financial Services,155,17.6,Mid-Market,0,6.6,10,3,1,1,0,1,4,56.3,42.3,0
+ACC3457,Healthcare,13,2.1,SMB,0,4.2,5,1,0,0,1,2,5,25.0,31.7,0
+ACC3458,Financial Services,1451,299.2,Enterprise,0,1.2,3,1,0,1,0,1,12,49.8,13.4,0
+ACC3459,Financial Services,59,12.4,SMB,0,4.8,1,3,0,0,0,0,26,49.5,8.9,0
+ACC3460,Education,1251,206.3,Enterprise,0,7.5,15,2,0,1,0,2,1,46.9,44.0,0
+ACC3461,Retail,836,110.3,Mid-Market,0,4.7,7,2,0,1,1,4,13,33.9,48.1,0
+ACC3462,Healthcare,75,18.4,SMB,0,9.0,10,4,2,2,0,5,3,41.5,69.1,0
+ACC3463,Healthcare,56,10.8,SMB,1,6.4,15,0,1,0,0,3,23,21.7,25.7,0
+ACC3464,Healthcare,385,57.5,Mid-Market,0,6.2,15,2,1,0,1,4,3,34.9,62.7,0
+ACC3465,Technology,81,10.3,SMB,0,5.2,6,2,0,1,0,2,11,51.0,26.9,0
+ACC3466,Financial Services,279,57.0,Mid-Market,0,5.4,4,2,4,0,1,1,1,53.4,50.3,0
+ACC3467,Technology,130,15.8,Mid-Market,0,5.0,6,4,3,1,0,2,31,50.8,42.5,0
+ACC3468,Financial Services,24,2.6,SMB,0,4.9,8,3,1,1,1,2,0,49.5,58.5,1
+ACC3469,Healthcare,13,2.2,SMB,1,6.6,8,0,1,0,0,2,2,21.9,20.7,0
+ACC3470,Technology,328,42.4,Mid-Market,0,3.6,3,1,0,0,1,5,11,47.9,35.2,0
+ACC3471,Education,117,21.9,Mid-Market,0,3.3,5,3,2,0,0,1,19,23.0,28.2,0
+ACC3472,Retail,119,11.9,Mid-Market,0,3.3,4,3,2,0,1,5,50,23.0,41.0,0
+ACC3473,Manufacturing,604,115.6,Mid-Market,0,9.6,14,2,2,3,0,3,1,48.1,63.0,0
+ACC3474,Healthcare,1124,144.1,Enterprise,0,6.6,8,2,0,1,0,3,3,42.8,35.9,0
+ACC3475,Retail,171,13.7,Mid-Market,0,6.1,10,3,0,0,0,0,22,32.7,23.6,0
+ACC3476,Technology,157,15.9,Mid-Market,0,3.4,10,1,2,0,0,0,0,45.7,28.3,0
+ACC3477,Manufacturing,468,111.7,Mid-Market,0,6.7,9,3,0,1,0,1,13,37.3,33.5,0
+ACC3478,Technology,41,9.3,SMB,0,5.3,3,1,3,2,0,6,5,51.0,47.3,0
+ACC3479,Manufacturing,327,39.1,Mid-Market,0,5.9,3,1,3,1,0,0,11,33.4,22.5,0
+ACC3480,Technology,501,106.4,Mid-Market,1,3.5,6,1,0,0,0,2,7,38.0,17.8,0
+ACC3481,Retail,592,108.6,Mid-Market,1,5.8,11,2,1,1,0,0,9,24.4,33.1,0
+ACC3482,Education,19,4.7,SMB,0,4.7,2,1,2,2,1,3,10,26.7,45.9,1
+ACC3483,Technology,90,12.9,SMB,0,4.0,5,2,1,0,1,3,9,47.1,42.8,0
+ACC3484,Financial Services,78,15.3,SMB,0,7.0,9,2,3,0,0,1,10,56.9,35.6,0
+ACC3485,Education,278,25.2,Mid-Market,0,2.4,5,1,0,3,0,2,8,21.4,30.5,0
+ACC3486,Financial Services,457,67.3,Mid-Market,1,6.6,7,2,1,1,0,1,12,47.9,29.0,0
+ACC3487,Retail,1712,417.5,Enterprise,0,6.9,18,1,2,1,1,3,14,48.9,62.8,0
+ACC3488,Healthcare,128,22.0,Mid-Market,0,3.7,10,2,1,1,0,0,15,24.4,29.3,0
+ACC3489,Financial Services,128,16.5,Mid-Market,0,3.9,4,2,2,3,1,1,19,47.1,50.1,0
+ACC3490,Technology,1090,109.5,Enterprise,0,5.1,3,1,2,0,0,0,3,59.6,16.9,0
+ACC3491,Technology,359,71.7,Mid-Market,0,6.1,10,3,1,0,0,1,13,56.4,34.0,1
+ACC3492,Manufacturing,1271,241.0,Enterprise,0,5.2,9,3,3,2,1,3,29,39.4,64.3,1
+ACC3493,Financial Services,356,51.1,Mid-Market,0,6.4,10,1,0,0,0,0,4,57.4,18.9,0
+ACC3494,Healthcare,54,13.0,SMB,0,9.0,10,3,4,1,0,1,15,41.3,49.8,0
+ACC3495,Financial Services,43,3.6,SMB,0,4.5,8,1,1,2,0,2,3,48.3,35.9,0
+ACC3496,Healthcare,32,4.2,SMB,0,2.1,1,4,1,0,0,5,1,18.3,43.0,1
+ACC3497,Retail,578,136.7,Mid-Market,0,7.2,12,3,2,0,1,5,5,39.9,70.2,1
+ACC3498,Education,1147,154.3,Enterprise,0,8.9,5,3,0,0,0,2,16,50.6,24.5,1
+ACC3499,Financial Services,2708,332.8,Enterprise,0,6.3,7,5,1,1,0,2,3,77.8,53.0,1
