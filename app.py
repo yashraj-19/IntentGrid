@@ -1,5 +1,5 @@
 """
-IntentGrid — Account Intent & Fit Scoring Engine
+IntentGrid: Account Intent & Fit Scoring Engine
 --------------------------------------------------
 A mini ABM (Account-Based Marketing) platform that scores B2B accounts on
 firmographic fit and behavioral intent, predicts conversion likelihood, and
@@ -50,7 +50,7 @@ FEATURES_CAT = ["industry", "account_tier"]
 df["predicted_probability"] = model.predict_proba(df[FEATURES_NUM + FEATURES_CAT])[:, 1]
 df["predicted_probability_pct"] = (df["predicted_probability"] * 100).round(1)
 
-st.title("🎯 IntentGrid — Account Intent & Fit Scoring Engine")
+st.title("🎯 IntentGrid: Account Intent & Fit Scoring Engine")
 st.caption("A lightweight ABM-style platform for scoring accounts on fit and intent, "
            "predicting conversion likelihood, and explaining every score.")
 
